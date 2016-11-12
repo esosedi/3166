@@ -1,0 +1,31 @@
+{
+  "name": "iso3166-2",
+  "version": "1.0.0",
+  "description": "Provides information about countries and stated of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esosedi/3166.git"
+  },
+  "keywords": [
+    "3166",
+    "3166-2",
+    "countries",
+    "regions",
+    "opendata"
+  ],
+  "author": "Anton Korzunov <thekashey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esosedi/3166/issues"
+  },
+  "homepage": "https://github.com/esosedi/3166",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
