@@ -12,7 +12,7 @@ So we have 2 simple things:
  
     * iso3166-1(alpha2, alpha3, numeric, FIPS) for a country    
     * iso3166-2(alpha2, FIPS) for a region    
-    * links to geonames, openstreetmap relation, wikipedia article, WOT. So you can merge this data, to everything else!    
+    * links to geonames, openstreetmap relation, wikipedia article, WOF. So you can merge this data, to everything else!    
     * names in main languages
     
     Best option is to use this file directly.
@@ -46,5 +46,5 @@ Used sources:
   2. Wikipedia.org – as main information source
   3. Esosedi.org – as main information source 
   4. OpenStreetMap.org – as secondary source
-  5. Whosonfirst-data – as external links for region information (as long Pelias return region code as WOT entity)
+  5. Whosonfirst-data – as external links for region information (as long Pelias return region code as WOF entity)
     
