@@ -1,5 +1,5 @@
 {
-  "name": "iso3166-2",
+  "name": "iso3166-2-db",
   "version": "1.0.0",
   "description": "Provides information about countries and stated of the world",
   "main": "index.js",
