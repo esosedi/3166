@@ -6,7 +6,7 @@ This world is small enough. But not everyone knows all countries and all states.
 
 Just look at json file, and you will understand.
  
-So we have 2 simple things:
+So we have some simple things:
  1. data/iso3166-2.json – main datafile. It containtains all counties and all regions. 
  Just keep in mind - this is not a stupid list of names. We provide all information for any entity:
  
@@ -30,8 +30,25 @@ So we have 2 simple things:
      * getRegionsFor(country) - returns states for a country.     
      * findCountryByName(countryName) - perform lookup via all possible names
      * findRegionByCode(string(iso3166-2 code)) - returns region for a code. AU-NSW for example
+     
+ 4. And every one have their own `knowlege` about naming. And every one have different.
+     What is why we create this library – to bring a peace (and foreign keys).
+     
+    But, you really might wish to use different names from different sources. And we have a tools for it!
+    
+    * data/names_geonames.json – all region names from geonames.org
+    * data/names_osm.json – same from openstreetmap.org
+    
+    Just call `changeNameProvider('geonames|osm|wikipedia')` _(yap, buy default we use wikipedia article names)_
+    
+ 5. And do not forget **THIS THING IS FOR BACKEND**!
+    Datafiles are VERY large. But you can reduce them.
+    Call `reduce(dataSet, lng, listOfCountries)` to get data ONLY for one language and selected countries.
+    _name will be filled into .name field of entity. .names will be dropped._
+    
+    example: reduce(getDataSet(), 'en', ['US','CA','AU']) 
    
-**nd be aware** - some `states` is not a states. Until they have iso3166-2(iso) code.
+**And be aware** - some `states` is not a states. Until they have iso3166-2(iso) code.
 Some of them contain only `FIPS`.
 
 Also **be aware** about operstreetmap_level. Most of regions have `4`. Some of them (in Slovenia) have `6`. But.. there is regions with `7`.

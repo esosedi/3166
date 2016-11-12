@@ -1,12 +1,17 @@
 import dataFile from '../data/iso3166-2.json'
 import calculateDispute from './disputedBorders';
+import patchNameProvider from './nameProvider'
 
 let DEFAULT_DISPUTE = 'en';
+let NAMES_SET = 'wikipedia'
 
 const changeDispute = (newValue) => (DEFAULT_DISPUTE = newValue);
-let lastDisputedData = {};
+const changeNameProvider = (newValue) => (NAMES_SET = newValue);
 
-const getDataSet = (dispute = DEFAULT_DISPUTE) => {
+let lastDisputedData = {};
+let lastDataSet = {};
+
+const getDisputedData = (dispute = DEFAULT_DISPUTE) => {
     if (lastDisputedData.dispute === dispute) {
         return lastDisputedData.data;
     }
@@ -16,6 +21,18 @@ const getDataSet = (dispute = DEFAULT_DISPUTE) => {
     };
     return lastDisputedData.data;
 };
+
+const getDataSet = (dispute = DEFAULT_DISPUTE) => {
+    if (lastDataSet.dispute === dispute && lastDataSet.names == NAMES_SET) {
+        return lastDataSet.data;
+    }
+    lastDisputedData = {
+        dispute: dispute,
+        names: NAMES_SET,
+        data: patchNameProvider(getDisputedData(dataFile, dispute),NAMES_SET)
+    };
+    return lastDisputedData.data;
+}
 
 const getFlatData = (dispute = DEFAULT_DISPUTE) => {
     const list = getDataSet(dispute);
@@ -60,11 +77,45 @@ const findRegionByCode = (code, dispute) => {
     return country.regions.filter(region=>region.iso === iso2);
 };
 
+const reduce = (dataset, lang, countryList) => {
+    let result = {};
+    Object.keys(dataset).forEach(iso1=> {
+        if(countryList && countryList.indexOf(iso1)<0){
+            return;
+        }
+
+        let country = {
+            ...dataset[iso1]
+        };
+        country.name = country.names[lang] || country.name;
+        delete country.names;
+        const regions = country.regions;
+        country.regions = [];
+        regions.forEach(oldRegion=> {
+            let region = {
+                ...oldRegion
+            };
+            region.name = region.names[lang] || region.name;
+            delete region.names;
+            country.regions.push(region);
+        });
+
+        result[iso1] = country;
+    });
+    return result;
+};
+
+
 export {
     getDataSet,
     getRegionsFor,
+
     changeDispute,
+    changeNameProvider,
+
     findCountryByName,
-    findRegionByCode
+    findRegionByCode,
+
+    reduce
 }
 

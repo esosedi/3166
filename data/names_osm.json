@@ -1,0 +1,5964 @@
+{
+    "9407": {
+        "de": "Andorra",
+        "en": "Andorra",
+        "fr": "Andorre",
+        "ru": "Андорра"
+    },
+    "14296": {
+        "de": "Slowakei",
+        "en": "Slovakia",
+        "es": "Eslovaquia",
+        "fr": "Slovaquie",
+        "ru": "Словакия"
+    },
+    "16239": {
+        "de": "Österreich",
+        "en": "Austria",
+        "es": "Austria",
+        "fr": "Autriche",
+        "ru": "Австрия"
+    },
+    "21335": {
+        "ar": "المجر",
+        "de": "Ungarn",
+        "en": "Hungary",
+        "es": "Hungría",
+        "fr": "Hongrie",
+        "it": "Ungheria",
+        "ru": "Венгрия",
+        "zh": "匈牙利"
+    },
+    "28699": {
+        "ar": "جورجيا",
+        "de": "Georgien",
+        "en": "Georgia",
+        "es": "Georgia",
+        "fr": "Géorgie",
+        "it": "Georgia",
+        "ru": "Грузия",
+        "zh": "格鲁吉亚"
+    },
+    "36989": {
+        "de": "Vatikanstadt",
+        "en": "Vatican City",
+        "es": "Ciudad del Vaticano",
+        "fr": "Vatican",
+        "it": "Stato della Città del Vaticano",
+        "ru": "Ватикан"
+    },
+    "36990": {
+        "ar": "موناكو",
+        "de": "Monaco",
+        "en": "Monaco",
+        "es": "Mónaco",
+        "fr": "Monaco",
+        "it": "Monaco",
+        "ru": "Монако",
+        "zh": "摩纳哥"
+    },
+    "49715": {
+        "ar": "بولندا",
+        "de": "Polen",
+        "en": "Poland",
+        "es": "Polonia",
+        "fr": "Pologne",
+        "it": "Polonia",
+        "ru": "Польша",
+        "zh": "波兰"
+    },
+    "49898": {
+        "ar": "كمبوديا",
+        "de": "Kambodscha",
+        "en": "Cambodia",
+        "es": "Camboya",
+        "fr": "Cambodge",
+        "it": "Cambogia",
+        "ru": "Камбоджа",
+        "zh": "柬埔寨"
+    },
+    "49903": {
+        "de": "Laos",
+        "en": "Laos",
+        "es": "Laos",
+        "ru": "Лаос"
+    },
+    "49915": {
+        "de": "Vietnam",
+        "en": "Vietnam",
+        "es": "Vietnam",
+        "fr": "Viêt Nam",
+        "ru": "Вьетнам"
+    },
+    "50046": {
+        "de": "Dänemark",
+        "en": "Denmark",
+        "es": "Dinamarca",
+        "fr": "Danemark",
+        "ru": "Дания"
+    },
+    "50371": {
+        "ar": "بورما",
+        "de": "Myanmar",
+        "en": "Burma",
+        "es": "Myanmar",
+        "fr": "Birmanie",
+        "it": "Birmania",
+        "ru": "Мьянма",
+        "zh": "缅甸"
+    },
+    "51477": {
+        "de": "Deutschland",
+        "en": "Germany",
+        "es": "Alemania",
+        "fr": "Allemagne",
+        "it": "Germania",
+        "ru": "Германия"
+    },
+    "51684": {
+        "de": "Tschechien",
+        "en": "Czech Republic",
+        "es": "Chequia",
+        "fr": "Tchéquie",
+        "it": "Repubblica Ceca",
+        "ru": "Чехия",
+        "zh": "捷克"
+    },
+    "51701": {
+        "ar": "سويسرا",
+        "de": "Schweiz",
+        "en": "Switzerland",
+        "es": "Suiza",
+        "fr": "Suisse",
+        "it": "Svizzera",
+        "ru": "Швейцария",
+        "zh": "瑞士"
+    },
+    "52411": {
+        "ar": "بلجيكا",
+        "de": "Belgien",
+        "en": "Belgium",
+        "es": "Bélgica",
+        "fr": "Belgique",
+        "it": "Belgio",
+        "ru": "Бельгия",
+        "zh": "比利时"
+    },
+    "52822": {
+        "de": "Schweden",
+        "en": "Sweden",
+        "es": "Suecia",
+        "fr": "Suède",
+        "ru": "Швеция"
+    },
+    "52939": {
+        "de": "Färöer",
+        "en": "Faroe Islands",
+        "fr": "Îles Féroé",
+        "ru": "Фарерские острова"
+    },
+    "53292": {
+        "de": "Albanien",
+        "en": "Albania",
+        "es": "Albania",
+        "fr": "Albanie",
+        "ru": "Албания",
+        "zh": "阿爾巴尼亞"
+    },
+    "53293": {
+        "ar": "جمهورية مقدونيا",
+        "de": "Mazedonien",
+        "en": "Macedonia",
+        "es": "República de Macedonia",
+        "fr": "Macédoine",
+        "it": "Repubblica di Macedonia",
+        "ru": "Македония",
+        "zh": "馬其頓共和國"
+    },
+    "53296": {
+        "de": "Montenegro",
+        "en": "Montenegro",
+        "es": "Montenegro",
+        "fr": "Monténégro",
+        "ru": "Черногория"
+    },
+    "54224": {
+        "ar": "فنلندا",
+        "de": "Finnland",
+        "en": "Finland",
+        "es": "Finlandia",
+        "fr": "Finlande",
+        "it": "Finlandia",
+        "ru": "Финляндия",
+        "zh": "芬兰"
+    },
+    "54624": {
+        "de": "San Marino",
+        "en": "San Marino",
+        "fr": "Saint-Marin",
+        "ru": "Сан-Марино"
+    },
+    "58974": {
+        "ar": "مولدوفا",
+        "de": "Moldawien",
+        "en": "Moldova",
+        "es": "Moldavia",
+        "fr": "Moldavie",
+        "it": "Moldavia",
+        "ru": "Молдова",
+        "zh": "摩尔多瓦"
+    },
+    "59065": {
+        "de": "Weißrussland",
+        "en": "Belarus",
+        "es": "Bielorrusia",
+        "fr": "Biélorussie",
+        "ru": "Беларусь"
+    },
+    "59470": {
+        "ar": "البرازيل",
+        "de": "Brasilien",
+        "en": "Brazil",
+        "es": "Brasil",
+        "fr": "Brésil",
+        "it": "Brasile",
+        "ru": "Бразилия",
+        "zh": "巴西"
+    },
+    "60189": {
+        "de": "Russische Föderation",
+        "en": "Russian Federation",
+        "es": "Federación Rusa",
+        "fr": "Fédération de Russie",
+        "ru": "Российская Федерация"
+    },
+    "60199": {
+        "de": "Ukraine",
+        "en": "Ukraine",
+        "es": "Ucrania",
+        "fr": "Ukraine",
+        "ru": "Украина"
+    },
+    "62269": {
+        "ar": "جزيرة مان",
+        "de": "Insel Man",
+        "en": "Isle of Man",
+        "es": "Isla de Man",
+        "fr": "Île de Man",
+        "ru": "Остров Мэн",
+        "zh": "马恩岛"
+    },
+    "62149": {
+        "de": "Vereinigtes Königreich Großbritannien und Nordirland",
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "fr": "Royaume-Uni",
+        "it": "Regno Unito",
+        "ru": "Великобритания"
+    },
+    "62273": {
+        "ar": "أيرلندا",
+        "de": "Irland",
+        "en": "Ireland",
+        "es": "Irlanda",
+        "fr": "Irlande",
+        "it": "Irlanda",
+        "ru": "Ирландия",
+        "zh": "爱尔兰"
+    },
+    "72594": {
+        "de": "Lettland",
+        "en": "Latvia",
+        "es": "Letonia",
+        "fr": "Lettonie",
+        "ru": "Латвия"
+    },
+    "72596": {
+        "ar": "ليتوانيا",
+        "de": "Litauen",
+        "en": "Lithuania",
+        "es": "Lituania",
+        "fr": "Lituanie",
+        "it": "Lituania",
+        "ru": "Литва",
+        "zh": "立陶宛"
+    },
+    "79510": {
+        "de": "Estland",
+        "en": "Estonia",
+        "fr": "Estonie",
+        "ru": "Эстония"
+    },
+    "80500": {
+        "ar": "أستراليا",
+        "de": "Australien",
+        "en": "Australia",
+        "fr": "Australie",
+        "ru": "Австралия"
+    },
+    "87565": {
+        "de": "Südafrika",
+        "en": "South Africa",
+        "es": "Sudáfrica",
+        "fr": "Afrique du Sud",
+        "ru": "Южно-Африканская Республика"
+    },
+    "88210": {
+        "ar": "سوازيلاند",
+        "de": "Swasiland",
+        "en": "Swaziland",
+        "es": "Suazilandia",
+        "fr": "Swaziland",
+        "it": "Swaziland",
+        "ru": "Свазиленд",
+        "zh": "斯威士兰"
+    },
+    "90689": {
+        "de": "Rumänien",
+        "en": "Romania",
+        "es": "Rumanía",
+        "fr": "Roumanie",
+        "ru": "Румыния"
+    },
+    "108089": {
+        "ar": "الإكوادور",
+        "de": "Ecuador",
+        "en": "Ecuador",
+        "fr": "Équateur",
+        "ru": "Эквадор",
+        "zh": "厄瓜多尔"
+    },
+    "114686": {
+        "de": "Mexiko",
+        "en": "Mexico",
+        "es": "México",
+        "fr": "Mexique",
+        "ru": "Мексика"
+    },
+    "120027": {
+        "de": "Kolumbien",
+        "en": "Colombia",
+        "fr": "Colombie",
+        "ru": "Колумбия"
+    },
+    "161033": {
+        "de": "Mongolei",
+        "en": "Mongolia",
+        "es": "Mongolia",
+        "ru": "Монголия",
+        "zh": "蒙古国"
+    },
+    "167454": {
+        "ar": "تشيلي",
+        "de": "Chile",
+        "en": "Chile",
+        "fr": "Chili",
+        "it": "Cile",
+        "ru": "Чили",
+        "zh": "智利"
+    },
+    "171496": {
+        "de": "Ruanda",
+        "en": "Rwanda",
+        "ru": "Руанда"
+    },
+    "174737": {
+        "ar": "تركيا",
+        "de": "Türkei",
+        "en": "Turkey",
+        "es": "Turquía",
+        "fr": "Turquie",
+        "it": "Turchia",
+        "ru": "Турция",
+        "zh": "土耳其"
+    },
+    "178009": {
+        "de": "Kirgisistan",
+        "en": "Kyrgyzstan",
+        "ru": "Киргизия"
+    },
+    "184629": {
+        "de": "Bhutan",
+        "en": "Bhutan",
+        "fr": "Bhoutan",
+        "ru": "Бутан"
+    },
+    "184633": {
+        "de": "Nepal",
+        "en": "Nepal",
+        "fr": "Népal",
+        "ru": "Непал"
+    },
+    "184640": {
+        "ar": "بنغلاديش",
+        "de": "Bangladesch",
+        "en": "Bangladesh",
+        "es": "Bangladesh",
+        "fr": "Bangladesh",
+        "it": "Bangladesh",
+        "ru": "Бангладеш",
+        "zh": "孟加拉国"
+    },
+    "184818": {
+        "ar": "الأردن",
+        "de": "Jordanien",
+        "en": "Jordan",
+        "fr": "Jordanie",
+        "ru": "Иордания"
+    },
+    "184840": {
+        "ar": "الجمهورية العربية السورية",
+        "de": "Syrien",
+        "en": "Syria",
+        "es": "Siria",
+        "fr": "Syrie",
+        "it": "Siria",
+        "ru": "Сирия",
+        "zh": "叙利亚"
+    },
+    "184843": {
+        "ar": "الجمهورية اللبنانية",
+        "de": "Libanon",
+        "en": "Lebanon",
+        "es": "Líbano",
+        "fr": "Liban",
+        "ru": "Ливан"
+    },
+    "186382": {
+        "ar": "بلغاريا",
+        "de": "Bulgarien",
+        "en": "Bulgaria",
+        "es": "Bulgaria",
+        "fr": "Bulgarie",
+        "it": "Bulgaria",
+        "ru": "Болгария",
+        "zh": "保加利亚"
+    },
+    "192307": {
+        "ar": "اليونان",
+        "de": "Griechenland",
+        "en": "Greece",
+        "es": "Grecia",
+        "fr": "Grèce",
+        "ru": "Греция",
+        "zh": "希腊"
+    },
+    "192691": {
+        "de": "Marokko",
+        "en": "Morocco",
+        "es": "Marruecos",
+        "fr": "Maroc",
+        "it": "Marocco",
+        "ru": "Марокко",
+        "zh": "摩洛哥"
+    },
+    "192734": {
+        "ar": "كوريا الشمالية",
+        "de": "Nordkorea",
+        "en": "North Korea",
+        "es": "Corea del Norte",
+        "fr": "Corée du Nord",
+        "it": "Corea del Nord",
+        "ru": "Корейская Народно-Демократическая Республика",
+        "zh": "朝鲜民主主义人民共和国"
+    },
+    "192756": {
+        "ar": "الجزائر",
+        "de": "Algerien",
+        "en": "Algeria",
+        "es": "Argelia",
+        "fr": "Algérie",
+        "ru": "Алжир"
+    },
+    "192757": {
+        "ar": "تونس",
+        "de": "Tunesien",
+        "en": "Tunisia",
+        "es": "Túnez",
+        "fr": "Tunisie",
+        "ru": "Тунис"
+    },
+    "192758": {
+        "ar": "الجماهيرية الليبية",
+        "de": "Libyen",
+        "en": "Libya",
+        "es": "Libia",
+        "fr": "Libye",
+        "it": "Libia",
+        "ru": "Ливия",
+        "zh": "利比亚"
+    },
+    "192763": {
+        "ar": "موريتانيا",
+        "de": "Mauretanien",
+        "en": "Mauritania",
+        "es": "Mauritania",
+        "fr": "Mauritanie",
+        "it": "Mauritania",
+        "ru": "Мавритания",
+        "zh": "毛里塔尼亚"
+    },
+    "192774": {
+        "de": "Gambia",
+        "en": "The Gambia",
+        "fr": "Gambie",
+        "ru": "Гамбия"
+    },
+    "192775": {
+        "de": "Senegal",
+        "en": "Senegal",
+        "fr": "Sénégal",
+        "ru": "Сенегал"
+    },
+    "192776": {
+        "de": "Guinea-Bissau",
+        "en": "Guinea-Bissau",
+        "fr": "Guinée-Bissau",
+        "ru": "Гвинея-Бисау"
+    },
+    "192777": {
+        "ar": "سيراليون",
+        "de": "Sierra Leone",
+        "en": "Sierra Leone",
+        "es": "Sierra Leona",
+        "fr": "Sierra Leone",
+        "ru": "Сьерра-Леоне",
+        "zh": "塞拉利昂"
+    },
+    "192778": {
+        "de": "Guinea",
+        "en": "Guinea",
+        "fr": "Guinée",
+        "ru": "Гвинея"
+    },
+    "192779": {
+        "de": "Elfenbeinküste",
+        "en": "Côte d'Ivoire",
+        "es": "Costa de Marfil",
+        "fr": "Côte d'Ivoire",
+        "ru": "Кот-д’Ивуар"
+    },
+    "192780": {
+        "ar": "ليبيريا",
+        "de": "Republik Liberia",
+        "en": "Liberia",
+        "es": "Liberia",
+        "fr": "Liberia",
+        "ru": "Либерия",
+        "zh": "利比里亚"
+    },
+    "192781": {
+        "de": "Ghana",
+        "en": "Ghana",
+        "ru": "Гана"
+    },
+    "192782": {
+        "ar": "توغو",
+        "de": "Togo",
+        "en": "Togo",
+        "es": "Togo",
+        "fr": "Togo",
+        "it": "Togo",
+        "ru": "Того",
+        "zh": "多哥"
+    },
+    "192783": {
+        "de": "Burkina Faso",
+        "en": "Burkina Faso",
+        "fr": "Burkina Faso",
+        "ru": "Буркина Фасо"
+    },
+    "192784": {
+        "de": "Benin",
+        "en": "Benin",
+        "fr": "Bénin",
+        "ru": "Бенин"
+    },
+    "192785": {
+        "de": "Mali",
+        "en": "Mali",
+        "fr": "Mali",
+        "ru": "Мали"
+    },
+    "192786": {
+        "ar": "النيجر",
+        "de": "Niger",
+        "en": "Niger",
+        "es": "Níger",
+        "ru": "Нигер",
+        "zh": "尼日尔"
+    },
+    "192787": {
+        "ar": "نيجيريا",
+        "de": "Nigeria",
+        "en": "Nigeria",
+        "es": "Nigeria",
+        "ru": "Нигерия",
+        "zh": "奈及利亞"
+    },
+    "192789": {
+        "de": "Sudan",
+        "en": "Sudan",
+        "es": "Sudán",
+        "fr": "Soudan",
+        "ru": "Судан"
+    },
+    "192790": {
+        "de": "Zentralafrikanische Republik",
+        "en": "Central African Republic",
+        "fr": "République Centrafricaine",
+        "ru": "Центрально-африканская республика"
+    },
+    "192791": {
+        "ar": "غينيا الاستوائية",
+        "de": "Äquatorialguinea",
+        "en": "Equatorial Guinea",
+        "es": "Guinea Ecuatorial",
+        "fr": "Guinée équatoriale",
+        "it": "Guinea Equatoriale",
+        "ru": "Экваториальная Гвинея",
+        "zh": "赤道几内亚"
+    },
+    "192793": {
+        "de": "Gabun",
+        "en": "Gabon",
+        "ru": "Габон"
+    },
+    "192794": {
+        "de": "Republik Kongo",
+        "en": "Congo-Brazzaville",
+        "fr": "Congo-Brazzaville",
+        "ru": "Конго"
+    },
+    "192795": {
+        "ar": "جمهورية الكونغو الديمقراطية",
+        "de": "Demokratische Republik Kongo",
+        "en": "Congo-Kinshasa",
+        "es": "República Democrática del Congo",
+        "fr": "Congo-Kinshasa",
+        "it": "Repubblica Democratica del Congo",
+        "ru": "Демократическая Республика Конго",
+        "zh": "刚果民主共和国"
+    },
+    "192796": {
+        "de": "Uganda",
+        "en": "Uganda",
+        "fr": "Ouganda",
+        "ru": "Уганда"
+    },
+    "192798": {
+        "ar": "كينيا",
+        "de": "Kenia",
+        "en": "Kenya",
+        "es": "Kenia",
+        "ru": "Кения",
+        "zh": "肯尼亚"
+    },
+    "192799": {
+        "ar": "الصومال",
+        "de": "Somalia",
+        "en": "Somalia",
+        "es": "Somalia",
+        "fr": "Somalie",
+        "ru": "Сомали"
+    },
+    "192800": {
+        "ar": "إثيوبيا",
+        "de": "Äthiopien",
+        "en": "Ethiopia",
+        "es": "Etiopía",
+        "fr": "Éthiopie",
+        "it": "Etiopia",
+        "ru": "Эфиопия",
+        "zh": "埃塞俄比亚"
+    },
+    "192801": {
+        "ar": "جيبوتي",
+        "de": "Dschibuti",
+        "en": "Djibouti",
+        "es": "Yibuti",
+        "ru": "Джибути"
+    },
+    "192830": {
+        "de": "Kamerun",
+        "en": "Cameroon",
+        "fr": "Cameroun",
+        "ru": "Камерун"
+    },
+    "195266": {
+        "de": "Namibia",
+        "en": "Namibia",
+        "es": "Namibia",
+        "fr": "Namibie",
+        "ru": "Намибия"
+    },
+    "195267": {
+        "ar": "أنغولا",
+        "de": "Angola",
+        "en": "Angola",
+        "ru": "Ангола",
+        "zh": "安哥拉"
+    },
+    "195269": {
+        "de": "Burundi",
+        "en": "Burundi",
+        "ru": "Бурунди"
+    },
+    "195270": {
+        "ar": "تنزانيا",
+        "de": "Tansania",
+        "en": "Tanzania",
+        "fr": "Tanzanie",
+        "ru": "Танзания",
+        "zh": "坦桑尼亚"
+    },
+    "195271": {
+        "de": "Sambia",
+        "en": "Zambia",
+        "fr": "Zambie",
+        "ru": "Замбия"
+    },
+    "195272": {
+        "de": "Simbabwe",
+        "en": "Zimbabwe",
+        "es": "Zimbabue",
+        "ru": "Зимбабве"
+    },
+    "195273": {
+        "ar": "موزمبيق",
+        "de": "Mosambik",
+        "en": "Mozambique",
+        "es": "Mozambique",
+        "fr": "Mozambique",
+        "it": "Mozambico",
+        "ru": "Мозамбик",
+        "zh": "莫桑比克"
+    },
+    "195290": {
+        "ar": "مالاوي",
+        "de": "Malawi",
+        "en": "Republic of Malawi",
+        "es": "Malaui",
+        "ru": "Малави",
+        "zh": "马拉维"
+    },
+    "196240": {
+        "de": "Usbekistan",
+        "en": "Uzbekistan",
+        "ru": "Узбекистан"
+    },
+    "214626": {
+        "ar": "طاجيكستان",
+        "de": "Tadschikistan",
+        "en": "Tajikistan",
+        "es": "Tayikistán",
+        "fr": "Tadjikistan",
+        "it": "Tagikistan",
+        "ru": "Таджикистан",
+        "zh": "塔吉克斯坦"
+    },
+    "214665": {
+        "de": "Kasachstan",
+        "en": "Kazakhstan",
+        "ru": "Казахстан",
+        "zh": "哈萨克斯坦"
+    },
+    "214885": {
+        "de": "Kroatien",
+        "en": "Croatia",
+        "es": "Croacia",
+        "fr": "Croatie",
+        "it": "Croazia",
+        "ru": "Хорватия"
+    },
+    "218657": {
+        "de": "Slowenien",
+        "en": "Slovenia",
+        "es": "Eslovenia",
+        "fr": "Slovénie",
+        "it": "Slovenia",
+        "ru": "Словения"
+    },
+    "223026": {
+        "ar": "تركمانستان",
+        "de": "Turkmenistan",
+        "en": "Turkmenistan",
+        "ru": "Туркмения"
+    },
+    "252645": {
+        "ar": "بوليفيا",
+        "de": "Bolivien",
+        "en": "Bolivia",
+        "fr": "Bolivie",
+        "ru": "Боливия",
+        "zh": "玻利維亞"
+    },
+    "270009": {
+        "en": "Guernsey",
+        "ru": "Гернси"
+    },
+    "270056": {
+        "de": "Volksrepublik China",
+        "en": "People's Republic of China",
+        "es": "República Popular China",
+        "fr": "République populaire de Chine",
+        "ru": "Китайская Народная Республика"
+    },
+    "285454": {
+        "de": "Britische Jungferninseln",
+        "en": "British Virgin Islands",
+        "fr": "Îles Vierges britanniques",
+        "ru": "Британские Виргинские острова"
+    },
+    "272644": {
+        "de": "Venezuela",
+        "en": "Venezuela",
+        "fr": "Venezuela",
+        "ru": "Венесуэла"
+    },
+    "286393": {
+        "ar": "الأرجنتين",
+        "de": "Argentinien",
+        "en": "Argentina",
+        "es": "Argentina",
+        "fr": "Argentine",
+        "it": "Argentina",
+        "ru": "Аргентина",
+        "zh": "阿根廷"
+    },
+    "287072": {
+        "ar": "أوروغواي",
+        "de": "Uruguay",
+        "en": "Uruguay",
+        "ru": "Уругвай",
+        "zh": "乌拉圭"
+    },
+    "287077": {
+        "ar": "باراغواي",
+        "de": "Paraguay",
+        "en": "Paraguay",
+        "fr": "Paraguay",
+        "ru": "Парагвай",
+        "zh": "巴拉圭"
+    },
+    "287082": {
+        "ar": "سورينام",
+        "de": "Suriname",
+        "en": "Suriname",
+        "es": "Surinam",
+        "fr": "Suriname",
+        "ru": "Суринам",
+        "zh": "蘇利南"
+    },
+    "287083": {
+        "de": "Guyana",
+        "en": "Guyana",
+        "fr": "Guyana",
+        "ru": "Гайана"
+    },
+    "287666": {
+        "ar": "نيكاراجوا",
+        "de": "Nicaragua",
+        "en": "Nicaragua",
+        "ru": "Никарагуа",
+        "zh": "尼加拉瓜"
+    },
+    "287667": {
+        "de": "Costa Rica",
+        "en": "Costa Rica",
+        "fr": "Costa Rica",
+        "ru": "Коста-Рика"
+    },
+    "287668": {
+        "de": "Panama",
+        "en": "Panama",
+        "fr": "Panamá",
+        "ru": "Панама"
+    },
+    "287670": {
+        "de": "Honduras",
+        "en": "Honduras",
+        "ru": "Гондурас"
+    },
+    "287827": {
+        "de": "Belize",
+        "en": "Belize",
+        "es": "Belice",
+        "ru": "Белиз"
+    },
+    "288247": {
+        "ar": "بيرو",
+        "de": "Peru",
+        "en": "Peru",
+        "es": "Perú",
+        "fr": "Pérou",
+        "it": "Perù",
+        "ru": "Перу",
+        "zh": "秘鲁"
+    },
+    "295480": {
+        "de": "Portugal",
+        "en": "Portugal",
+        "es": "Portugal",
+        "fr": "Portugal",
+        "ru": "Португалия"
+    },
+    "296961": {
+        "ar": "إريتريا",
+        "de": "Eritrea",
+        "en": "Eritrea",
+        "ru": "Эритрея"
+    },
+    "299133": {
+        "de": "Island",
+        "en": "Iceland",
+        "es": "Islandia",
+        "fr": "Islande",
+        "ru": "Исландия"
+    },
+    "303427": {
+        "ar": "أفغانستان",
+        "de": "Afghanistan",
+        "en": "Afghanistan",
+        "es": "Afganistán",
+        "fr": "Afghanistan",
+        "it": "Afghanistan",
+        "ru": "Афганистан",
+        "zh": "阿富汗"
+    },
+    "304716": {
+        "ar": "الهند",
+        "de": "Indien",
+        "en": "India",
+        "es": "India",
+        "fr": "Inde",
+        "it": "India",
+        "ru": "Индия",
+        "zh": "印度"
+    },
+    "304751": {
+        "de": "Indonesien",
+        "en": "Indonesia",
+        "es": "Indonesia",
+        "fr": "Indonésie",
+        "ru": "Индонезия"
+    },
+    "304934": {
+        "de": "Irak",
+        "en": "Iraq",
+        "es": "Irak",
+        "fr": "Irak",
+        "it": "Iraq",
+        "ru": "Ирак",
+        "zh": "伊拉克"
+    },
+    "304938": {
+        "ar": "إيران",
+        "de": "Iran",
+        "en": "Iran",
+        "es": "Irán",
+        "fr": "Iran",
+        "it": "Iran",
+        "ru": "Иран",
+        "zh": "伊朗"
+    },
+    "305092": {
+        "de": "Jemen",
+        "en": "Yemen",
+        "es": "Yemen",
+        "fr": "Yémen",
+        "it": "Yemen",
+        "ru": "Йемен",
+        "zh": "也门"
+    },
+    "305095": {
+        "de": "Katar",
+        "en": "Qatar",
+        "es": "Qatar",
+        "fr": "Qatar",
+        "it": "Qatar",
+        "ru": "Катар",
+        "zh": "卡塔尔"
+    },
+    "305099": {
+        "ar": "الكويت",
+        "de": "Kuwait",
+        "en": "Kuwait",
+        "fr": "Koweït",
+        "ru": "Кувейт"
+    },
+    "305138": {
+        "de": "Oman",
+        "en": "Oman",
+        "fr": "Oman",
+        "ru": "Оман"
+    },
+    "305142": {
+        "de": "Osttimor",
+        "en": "East Timor",
+        "fr": "Timor oriental",
+        "ru": "Восточный Тимор"
+    },
+    "307573": {
+        "de": "Pakistan",
+        "en": "Pakistan",
+        "es": "Pakistán",
+        "fr": "Pakistan",
+        "ru": "Пакистан"
+    },
+    "307584": {
+        "ar": "حدود ‏المملكة العربية السعودية‎",
+        "de": "Saudi-Arabien",
+        "en": "Saudi Arabia",
+        "fr": "Arabie saoudite",
+        "ru": "Саудовская Аравия"
+    },
+    "307756": {
+        "ar": "كوريا الجنوبية",
+        "de": "Südkorea",
+        "en": "South Korea",
+        "es": "Corea del Sur",
+        "fr": "Corée du Sud",
+        "it": "Corea del Sud",
+        "ru": "Республика Корея",
+        "zh": "韩国"
+    },
+    "307763": {
+        "de": "Vereinigte Arabische Emirate",
+        "en": "United Arab Emirates",
+        "fr": "Émirats arabes unis",
+        "ru": "Объединённые Арабские Эмираты"
+    },
+    "307787": {
+        "de": "Zypern",
+        "en": "Cyprus",
+        "es": "Chipre",
+        "fr": "Chypre",
+        "ru": "Республика Кипр"
+    },
+    "307823": {
+        "de": "Dominica",
+        "en": "Dominica",
+        "fr": "Dominique",
+        "ru": "Доминика"
+    },
+    "307828": {
+        "de": "Dominikanische Republik",
+        "en": "Dominican Republic",
+        "fr": "République dominicaine",
+        "ru": "Доминиканская Республика"
+    },
+    "307829": {
+        "ar": "هايتي",
+        "de": "Haiti",
+        "en": "Haiti",
+        "es": "Haití",
+        "fr": "Haïti",
+        "it": "Haiti",
+        "ru": "Гаити",
+        "zh": "海地"
+    },
+    "307833": {
+        "de": "Kuba",
+        "en": "Cuba",
+        "fr": "Cuba",
+        "ru": "Куба"
+    },
+    "307866": {
+        "de": "Papua-Neuguinea",
+        "en": "Papua New Guinea",
+        "es": "Papua-Nueva Guinea",
+        "fr": "Papouasie-Nouvelle-Guinée",
+        "ru": "Папуа - Новая Гвинея"
+    },
+    "364066": {
+        "ar": "أرمينيا",
+        "de": "Armenien",
+        "en": "Armenia",
+        "es": "Armenia",
+        "fr": "Arménie",
+        "ru": "Армения",
+        "zh": "亞美尼亞"
+    },
+    "364110": {
+        "ar": "أذربيجان",
+        "de": "Aserbaidschan",
+        "en": "Azerbaijan",
+        "es": "Azerbaiyán",
+        "fr": "Azerbaïdjan",
+        "it": "Azerbaigian",
+        "ru": "Азербайджан",
+        "zh": "阿塞拜疆"
+    },
+    "365307": {
+        "de": "Malta",
+        "en": "Malta",
+        "fr": "Malte",
+        "ru": "Мальта"
+    },
+    "367988": {
+        "en": "Jersey",
+        "ru": "Джерси"
+    },
+    "378734": {
+        "de": "Bahrain",
+        "ru": "Бахрейн"
+    },
+    "365331": {
+        "de": "Italien",
+        "en": "Italy",
+        "es": "Italia",
+        "fr": "Italie",
+        "it": "Italia",
+        "ru": "Италия"
+    },
+    "382313": {
+        "cn": "日本",
+        "de": "Japan",
+        "fr": "Japon",
+        "ru": "Япония"
+    },
+    "443174": {
+        "es": "Filipinas",
+        "ru": "Филиппины"
+    },
+    "449220": {
+        "ru": "Китайская Республика",
+        "zh": "台灣"
+    },
+    "447325": {
+        "de": "Madagaskar",
+        "en": "Madagascar",
+        "fr": "Madagascar",
+        "ru": "Мадагаска́р"
+    },
+    "535774": {
+        "de": "Kap Verde",
+        "en": "Cape Verde",
+        "fr": "Cap-Vert",
+        "ru": "Кабо-Верде"
+    },
+    "535790": {
+        "de": "Komoren",
+        "en": "Comoros",
+        "fr": "Comores",
+        "ru": "Коморы"
+    },
+    "535828": {
+        "ar": "موريشيوس",
+        "de": "Mauritius",
+        "en": "Mauritius",
+        "es": "Mauricio",
+        "fr": "Maurice",
+        "ru": "Маврикий",
+        "zh": "毛里求斯"
+    },
+    "535880": {
+        "de": "São Tomé und Príncipe",
+        "en": "São Tomé and Príncipe",
+        "fr": "Sao Tomé-et-Principe",
+        "ru": "Сан-Томе и Принсипи"
+    },
+    "536765": {
+        "ar": "سيشيل",
+        "de": "Seychellen",
+        "en": "Seychelles",
+        "es": "Seychelles",
+        "fr": "Seychelles",
+        "it": "Seychelles",
+        "ru": "Сейшелы",
+        "zh": "塞舌尔"
+    },
+    "536780": {
+        "de": "Singapur",
+        "en": "Singapore",
+        "fr": "Singapour",
+        "ru": "Сингапур"
+    },
+    "536773": {
+        "de": "Malediven",
+        "en": "Maldives",
+        "fr": "Maldives",
+        "ru": "Мальдивы"
+    },
+    "536899": {
+        "de": "St. Kitts und Nevis",
+        "en": "Saint Kitts and Nevis",
+        "fr": "Saint-Christophe-et-Niévès",
+        "ru": "Сент-Китс и Невис"
+    },
+    "536900": {
+        "ar": "أنتيغوا وباربودا",
+        "de": "Antigua und Barbuda",
+        "en": "Antigua and Barbuda",
+        "es": "Antigua y Barbuda",
+        "fr": "Antigua-et-Barbuda",
+        "it": "Antigua e Barbuda",
+        "ru": "Антигуа и Барбуда",
+        "zh": "安提瓜和巴布达"
+    },
+    "536807": {
+        "ar": "سريلانكا",
+        "de": "Sri Lanka",
+        "en": "Sri Lanka",
+        "es": "Sri Lanka",
+        "fr": "Sri Lanka",
+        "it": "Sri Lanka",
+        "ru": "Шри-Ланка",
+        "zh": "斯里蘭卡"
+    },
+    "537257": {
+        "de": "Montserrat",
+        "en": "Montserrat",
+        "fr": "Montserrat",
+        "ru": "Монтсеррат"
+    },
+    "547511": {
+        "de": "Barbados",
+        "en": "Barbados",
+        "fr": "Barbade",
+        "ru": "Барбадос"
+    },
+    "547479": {
+        "de": "Turks- und Caicosinseln",
+        "en": "Turks and Caicos Islands",
+        "fr": "Îles Turques-et-Caïques",
+        "ru": "Тёркс и Кайкос"
+    },
+    "547469": {
+        "de": "Bahamas",
+        "en": "The Bahamas",
+        "es": "Las Bahamas",
+        "fr": "Bahamas",
+        "ru": "Багамские Острова"
+    },
+    "550727": {
+        "de": "Grenada",
+        "en": "Grenada",
+        "fr": "Grenade",
+        "ru": "Гренада"
+    },
+    "550725": {
+        "de": "St. Vincent und die Grenadinen",
+        "en": "Saint Vincent and the Grenadines",
+        "fr": "Saint-Vincent-et-les Grenadines",
+        "ru": "Сент-Винсент и Гренадины"
+    },
+    "550728": {
+        "de": "St. Lucia",
+        "en": "Saint Lucia",
+        "es": "Santa Lucía",
+        "fr": "Sainte-Lucie",
+        "ru": "Сент-Люсия"
+    },
+    "555717": {
+        "de": "Trinidad und Tobago",
+        "en": "Trinidad and Tobago",
+        "es": "Trinidad y Tobago",
+        "fr": "Trinité-et-Tobago",
+        "ru": "Тринидад и Тобаго"
+    },
+    "555017": {
+        "de": "Jamaika",
+        "en": "Jamaica",
+        "fr": "Jamaïque",
+        "ru": "Ямайка"
+    },
+    "556706": {
+        "de": "Neuseeland",
+        "en": "New Zealand",
+        "fr": "Nouvelle-Zélande",
+        "ru": "Новая Зеландия"
+    },
+    "571747": {
+        "de": "Fidschi",
+        "en": "Fiji",
+        "fr": "Fidji",
+        "ru": "Фиджи"
+    },
+    "571178": {
+        "de": "Kiribati",
+        "en": "Kiribati",
+        "fr": "Kiribati",
+        "ru": "Кирибати"
+    },
+    "571771": {
+        "de": "Marshallinseln",
+        "en": "Marshall Islands",
+        "fr": "Îles Marshall",
+        "ru": "Маршалловы Острова"
+    },
+    "571804": {
+        "de": "Nauru",
+        "en": "Nauru",
+        "fr": "Nauru",
+        "ru": "Науру"
+    },
+    "571802": {
+        "de": "Föderierte Staaten von Mikronesien",
+        "en": "Federated States of Micronesia",
+        "fr": "États fédérés de Micronésie",
+        "ru": "Федеративные Штаты Микронезии"
+    },
+    "571805": {
+        "de": "Palau",
+        "en": "Palau",
+        "fr": "Palaos",
+        "ru": "Палау"
+    },
+    "1059668": {
+        "de": "Norwegen",
+        "en": "Norway",
+        "es": "Noruega",
+        "fr": "Norvège",
+        "ru": "Норвегия"
+    },
+    "1155955": {
+        "de": "Liechtenstein",
+        "en": "Liechtenstein",
+        "ru": "Лихтенштейн"
+    },
+    "1278736": {
+        "ru": "Гибралтар"
+    },
+    "1311341": {
+        "de": "Spanien",
+        "en": "Spain",
+        "es": "España",
+        "fr": "Espagne",
+        "it": "Spagna",
+        "ru": "Испания"
+    },
+    "1403916": {
+        "de": "Frankreich",
+        "en": "France",
+        "it": "Francia",
+        "ru": "Франция"
+    },
+    "1428125": {
+        "ar": "كندا",
+        "de": "Kanada",
+        "en": "Canada",
+        "es": "Canadá",
+        "fr": "Canada",
+        "it": "Canada",
+        "ru": "Канада",
+        "zh": "加拿大"
+    },
+    "1473946": {
+        "ar": "إسرائيل",
+        "de": "Israel",
+        "en": "Israel",
+        "es": "Israel",
+        "fr": "Israël",
+        "ru": "Израиль"
+    },
+    "1473947": {
+        "ar": "مصر",
+        "de": "Ägypten",
+        "en": "Egypt",
+        "es": "Egipto",
+        "fr": "République Arabe d'Egypte",
+        "ru": "Египет"
+    },
+    "1520612": {
+        "en": "El Salvador",
+        "es": "República de El Salvador",
+        "ru": "Сальвадор"
+    },
+    "1521463": {
+        "en": "Guatemala",
+        "ru": "Гватемала"
+    },
+    "1558556": {
+        "ar": "نييوي",
+        "ru": "Ниуэ",
+        "zh": "紐埃"
+    },
+    "1656678": {
+        "ar": "جنوب السودان",
+        "de": "Südsudan",
+        "en": "South Sudan",
+        "es": "Sudán del Sur",
+        "fr": "Sud-Soudan",
+        "it": "Sudan del Sud",
+        "ru": "Южный Судан"
+    },
+    "1741311": {
+        "de": "Serbien",
+        "en": "Serbia",
+        "fr": "Serbie",
+        "ru": "Сербия"
+    },
+    "1857436": {
+        "en": "Solomon Islands",
+        "es": "Islas Salomón",
+        "ru": "Соломоновы Острова"
+    },
+    "1889339": {
+        "de": "Botsuana",
+        "en": "Botswana",
+        "fr": "Botswana",
+        "ru": "Ботсвана"
+    },
+    "1964272": {
+        "de": "St. Helena",
+        "fr": "Sainte-Hélène"
+    },
+    "1979517": {
+        "en": "Falkland Islands",
+        "es": "Islas Malvinas",
+        "ru": "Фолклендские острова"
+    },
+    "1983628": {
+        "de": "Südgeorgien und die Südlichen Sandwichinseln",
+        "en": "South Georgia and the South Sandwich Islands",
+        "es": "Islas Georgias del Sur y Sandwich del Sur",
+        "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+        "zh": "南乔治亚岛和南桑威奇群岛"
+    },
+    "2067731": {
+        "de": "Thailand",
+        "en": "Thailand",
+        "fr": "Thaïlande",
+        "ru": "Таиланд"
+    },
+    "2093234": {
+        "ar": "ليسوتو",
+        "es": "Lesoto",
+        "ru": "Лесото",
+        "zh": "莱索托"
+    },
+    "2103120": {
+        "de": "Brunei",
+        "en": "Brunei",
+        "ru": "Бруней"
+    },
+    "2108121": {
+        "de": "Malaysia",
+        "en": "Malaysia",
+        "fr": "Malaisie",
+        "ru": "Малайзия"
+    },
+    "2171347": {
+        "de": "Luxemburg",
+        "en": "Luxemburg",
+        "es": "Luxemburgo",
+        "fr": "Luxembourg",
+        "it": "Lussemburgo",
+        "ru": "Люксембург"
+    },
+    "2177246": {
+        "ar": "فانواتو",
+        "en": "Vanuatu",
+        "ru": "Вануату",
+        "zh": "瓦努阿图"
+    },
+    "2184073": {
+        "en": "Greenland",
+        "fr": "Groenland",
+        "ru": "Гренландия"
+    },
+    "2323309": {
+        "de": "Niederlande",
+        "en": "The Netherlands",
+        "fr": "Pays-Bas"
+    },
+    "2361304": {
+        "ar": "تشاد",
+        "de": "Tschad",
+        "en": "Chad",
+        "es": "Chad",
+        "fr": "Tchad",
+        "it": "Ciad",
+        "ru": "Чад",
+        "zh": "乍得"
+    },
+    "2528142": {
+        "de": "Bosnien und Herzegowina",
+        "en": "Bosnia and Herzegovina",
+        "es": "Bosnia y Herzegovina",
+        "fr": "Bosnie-Herzégovine",
+        "ru": "Босния и Герцеговина"
+    },
+    "316552": {
+        "ar": "محافظة بيروت",
+        "en": "Mohafazat Beyrouth",
+        "fr": "Mohafazat Beyrouth"
+    },
+    "318174": {
+        "ar": "محافظة البقاع",
+        "en": "Beqaa Governorate",
+        "fr": "Gouvernorat de Beqaa"
+    },
+    "318194": {
+        "ar": "محافظة جبل لبنان",
+        "en": "Mount Lebanon Governorate",
+        "fr": "Gouvernorat du Mont Liban"
+    },
+    "318236": {
+        "ar": "محافظة الجنوب",
+        "en": "South",
+        "fr": "Gouvernorat du Liban Sud"
+    },
+    "318309": {
+        "ar": "محافظة النبطية",
+        "en": "Nabatiyeh Governorate",
+        "fr": "Gouvernorat de Nabatiyeh"
+    },
+    "2135921": {
+        "de": "Autonome Mönchsrepublik Heiliger Berg",
+        "en": "Autonomous Monastic State of the Holy Mountain",
+        "fr": "République monastique du Mont Athos"
+    },
+    "8636": {
+        "de": "Elsass",
+        "es": "Alsacia",
+        "it": "Alsazia"
+    },
+    "8637": {
+        "de": "Aquitanien",
+        "es": "Aquitania",
+        "ru": "Аквитания"
+    },
+    "8638": {
+        "es": "Auvernia"
+    },
+    "8640": {
+        "de": "Zentrum",
+        "es": "Centro",
+        "it": "Centro"
+    },
+    "8641": {
+        "de": "Champagne-Ardennen",
+        "es": "Champaña-Ardenas"
+    },
+    "8642": {
+        "de": "Freie Grafschaft",
+        "en": "Free County",
+        "es": "Franco Condado",
+        "it": "Franca Contea"
+    },
+    "8643": {
+        "es": "Languedoc-Rosellón",
+        "it": "Linguadoca-Rossiglione",
+        "ru": "Лангедок"
+    },
+    "8644": {
+        "es": "Lemosín",
+        "it": "Limosino"
+    },
+    "8645": {
+        "de": "Lothringen",
+        "es": "Lorena",
+        "it": "Lorena"
+    },
+    "8646": {
+        "de": "Niedernormandie",
+        "en": "Lower Normandy",
+        "es": "Baja Normandía",
+        "fr": "Basse-Normandie",
+        "it": "Bassa Normandia",
+        "ru": "Нижняя Нормандия"
+    },
+    "8647": {
+        "de": "Midi-Pyrenäen",
+        "es": "Mediodía-Pirineos",
+        "it": "Midi-Pirenei",
+        "ru": "Юг"
+    },
+    "8648": {
+        "es": "Norte-Paso de Calais",
+        "it": "Nord-Passo di Calais"
+    },
+    "8649": {
+        "ar": "إيل دو فرانس",
+        "es": "Isla de Francia",
+        "it": "Isola di Francia"
+    },
+    "8650": {
+        "es": "Países del Loira",
+        "it": "Paesi della Loira",
+        "ru": "Земли Луары"
+    },
+    "8651": {
+        "en": "Picardy",
+        "es": "Picardía",
+        "it": "Piccardia"
+    },
+    "8652": {
+        "ru": "Пуату-Шаранта"
+    },
+    "8654": {
+        "es": "Provenza-Alpes-Costa Azul",
+        "it": "Provenza-Alpi-Costa Azzurra",
+        "ru": "Прованс"
+    },
+    "8655": {
+        "de": "Rhone-Alpen",
+        "es": "Ródano-Alpes",
+        "it": "Rodano-Alpi",
+        "ru": "Рона"
+    },
+    "8656": {
+        "es": "Alta Normandía",
+        "it": "Alta Normandia"
+    },
+    "28322": {
+        "en": "Mecklenburg-Vorpommern",
+        "es": "Mecklemburgo-Pomerania Occidental",
+        "fr": "Mecklembourg-Poméranie-Occidentale",
+        "ru": "Мекленбург-Передняя Померания"
+    },
+    "27768": {
+        "de": "Burgund",
+        "es": "Borgoña",
+        "it": "Borgogna"
+    },
+    "35183": {
+        "de": "Steiermark",
+        "en": "Styria",
+        "es": "Estiria",
+        "it": "Stiria",
+        "ru": "Штирия"
+    },
+    "39152": {
+        "de": "Sizilien",
+        "en": "Sicily",
+        "es": "Sicilia",
+        "fr": "Sicile",
+        "ru": "Сицилия"
+    },
+    "40137": {
+        "de": "Basilikata",
+        "fr": "Basilicate",
+        "ru": "Базиликата"
+    },
+    "40095": {
+        "de": "Apulien",
+        "en": "Apulia",
+        "es": "Apulia",
+        "fr": "Pouilles",
+        "it": "Puglia",
+        "ru": "Апулия"
+    },
+    "40218": {
+        "de": "Kampanien",
+        "en": "Campania",
+        "fr": "Campanie",
+        "ru": "Кампания"
+    },
+    "40784": {
+        "de": "Latium",
+        "en": "Lazio",
+        "es": "Lacio",
+        "fr": "Latium",
+        "ru": "Лацио"
+    },
+    "41256": {
+        "fr": "Molise",
+        "ru": "Молизе"
+    },
+    "41977": {
+        "de": "Toskana",
+        "en": "Tuscany",
+        "fr": "Toscane",
+        "ru": "Тоскана"
+    },
+    "42004": {
+        "de": "Umbrien",
+        "es": "Umbría",
+        "fr": "Ombrie",
+        "ru": "Умбрия"
+    },
+    "42611": {
+        "en": "Emilia-Romagna",
+        "es": "Emilia-Romaña",
+        "fr": "Émilie-Romagne",
+        "ru": "Эмилия-Романья"
+    },
+    "43648": {
+        "de": "Venetien",
+        "en": "Veneto",
+        "es": "Véneto",
+        "fr": "Vénétie",
+        "it": "Veneto",
+        "ru": "Венето"
+    },
+    "44874": {
+        "de": "Piemont",
+        "en": "Piemont",
+        "es": "Piamonte",
+        "fr": "Piémont",
+        "it": "Piemonte",
+        "ru": "Пьемонт"
+    },
+    "44879": {
+        "de": "Lombardei",
+        "en": "Lombardy",
+        "es": "Lombardía",
+        "fr": "Lombardie",
+        "it": "Lombardia",
+        "ru": "Ломбардия"
+    },
+    "45155": {
+        "de": "Aostatal",
+        "en": "Aosta Valley",
+        "fr": "Vallée d'Aoste",
+        "it": "Valle d'Aosta",
+        "ru": "Валле-д’Аоста"
+    },
+    "45757": {
+        "de": "Trentino-Südtirol",
+        "en": "Trentino-Alto Adige\/Südtirol",
+        "es": "Trentino-Alto Adigio",
+        "fr": "Trentin-Haut-Adige",
+        "it": "Trentino-Alto Adige",
+        "ru": "Трентино - Альто-Адидже"
+    },
+    "47381": {
+        "es": "Frisia",
+        "fr": "Frise"
+    },
+    "47554": {
+        "de": "Geldern"
+    },
+    "47654": {
+        "en": "North Holland"
+    },
+    "47772": {
+        "de": "Südholland",
+        "en": "South Holland"
+    },
+    "47696": {
+        "de": "Nordbrabant",
+        "en": "North Brabant"
+    },
+    "47793": {
+        "fr": "Limbourg"
+    },
+    "47806": {
+        "es": "Zelanda"
+    },
+    "47826": {
+        "es": "Groninga"
+    },
+    "51490": {
+        "de": "Oblast Moskau",
+        "en": "Moscow Oblast",
+        "fr": "Oblast de Moscou",
+        "it": "Oblast' di Mosca",
+        "ru": "Московская область"
+    },
+    "51529": {
+        "en": "Schleswig-Holstein",
+        "ru": "Шлезвиг-Гольштейн"
+    },
+    "52343": {
+        "de": "Tirol",
+        "en": "Tyrol",
+        "ru": "Тироль"
+    },
+    "52345": {
+        "de": "Kärnten",
+        "en": "Carinthia",
+        "es": "Carintia",
+        "it": "Carinzia",
+        "ru": "Каринтия"
+    },
+    "52834": {
+        "en": "Dalecarlia"
+    },
+    "53060": {
+        "de": "Marken",
+        "es": "Marcas",
+        "fr": "Marches",
+        "ru": "Марке"
+    },
+    "53134": {
+        "ar": "الإقليم الفلامندي",
+        "de": "Flandern",
+        "en": "Flanders",
+        "es": "Flandes",
+        "fr": "Flandre",
+        "ru": "Фламандский регион",
+        "zh": "弗拉芒大區"
+    },
+    "53937": {
+        "de": "Abruzzen",
+        "en": "Abruzzo",
+        "es": "Abruzos",
+        "fr": "Abruzzes",
+        "ru": "Абруццо"
+    },
+    "54094": {
+        "de": "Region Brüssel-Hauptstadt",
+        "en": "Brussels-Capital Region",
+        "fr": "Région de Bruxelles-Capitale"
+    },
+    "58437": {
+        "de": "Wales",
+        "en": "Wales",
+        "es": "Gales",
+        "fr": "Pays de Galles",
+        "it": "Galles",
+        "ru": "Уэльс"
+    },
+    "58446": {
+        "de": "Schottland",
+        "en": "Scotland",
+        "es": "Escocia",
+        "fr": "Écosse",
+        "it": "Scozia",
+        "ru": "Шотландия"
+    },
+    "58447": {
+        "de": "England",
+        "en": "England",
+        "es": "Inglaterra",
+        "fr": "Angleterre",
+        "it": "Inghilterra",
+        "ru": "Англия"
+    },
+    "59161": {
+        "de": "Woblast Homel",
+        "en": "Homiel Voblast",
+        "ru": "Гомельская область"
+    },
+    "59162": {
+        "ru": "Могилёвская область"
+    },
+    "59189": {
+        "de": "Woblast Brest",
+        "en": "Brest Voblast",
+        "ru": "Брестская область"
+    },
+    "59275": {
+        "ru": "Гродненская область"
+    },
+    "59506": {
+        "ru": "Витебская область"
+    },
+    "59752": {
+        "ru": "Минская область"
+    },
+    "60759": {
+        "ar": "فيرمونت",
+        "en": "Vermont",
+        "ru": "Вермонт",
+        "zh": "佛蒙特州"
+    },
+    "61315": {
+        "ar": "ماساتشوستس",
+        "ru": "Массачусетс",
+        "zh": "马萨诸塞州"
+    },
+    "61320": {
+        "ar": "نيويورك",
+        "en": "New York",
+        "es": "Nueva York",
+        "ru": "Нью-Йорк",
+        "zh": "纽约州"
+    },
+    "61549": {
+        "ar": "كيبك",
+        "en": "Quebec",
+        "fr": "Québec",
+        "ru": "Квебек",
+        "zh": "魁北克"
+    },
+    "62341": {
+        "de": "Rheinland-Pfalz",
+        "en": "Rhineland-Palatinate",
+        "es": "Renania-Palatinado",
+        "fr": "Rhénanie-Palatinat",
+        "ru": "Рейнланд-Пфальц",
+        "zh": "莱茵兰-普法尔茨"
+    },
+    "62366": {
+        "de": "Thüringen",
+        "en": "Thuringia",
+        "es": "Turingia",
+        "ru": "Тюрингия"
+    },
+    "62372": {
+        "en": "Saarland",
+        "es": "Sarre",
+        "fr": "Sarre",
+        "ru": "Саар",
+        "zh": "萨尔"
+    },
+    "62422": {
+        "ar": "برلين",
+        "de": "Berlin",
+        "en": "Berlin",
+        "es": "Berlín",
+        "fr": "Berlin",
+        "it": "Berlino",
+        "ru": "Берлин",
+        "zh": "柏林"
+    },
+    "62467": {
+        "de": "Sachsen",
+        "en": "Saxony",
+        "es": "Sajonia",
+        "fr": "Saxe",
+        "ru": "Саксония"
+    },
+    "62504": {
+        "de": "Brandenburg",
+        "es": "Brandemburgo",
+        "ru": "Бранденбург"
+    },
+    "62607": {
+        "de": "Sachsen-Anhalt",
+        "en": "Saxony-Anhalt",
+        "es": "Sajonia-Anhalt",
+        "ru": "Саксония-Анхальт"
+    },
+    "62611": {
+        "de": "Baden-Württemberg",
+        "en": "Baden-Württemberg",
+        "es": "Baden-Wurtemberg",
+        "fr": "Bade-Wurtemberg",
+        "ru": "Баден-Вюртемберг",
+        "zh": "巴登-符腾堡"
+    },
+    "62650": {
+        "de": "Hessen",
+        "en": "Hesse",
+        "es": "Hesse",
+        "fr": "La Hesse",
+        "ru": "Гессен",
+        "zh": "黑森州"
+    },
+    "62718": {
+        "de": "Freie Hansestadt Bremen",
+        "en": "Free Hanseatic City of Bremen",
+        "ru": "Вольный ганзейский город Бремен"
+    },
+    "62761": {
+        "ar": "شمال الراين - وستفاليا",
+        "de": "Nordrhein-Westfalen",
+        "en": "North Rhine-Westphalia",
+        "es": "Renania del Norte-Westfalia",
+        "fr": "Rhénanie-du-Nord-Westphalie",
+        "it": "Renania Settentrionale-Vestfalia",
+        "ru": "Северный Рейн-Вестфалия",
+        "zh": "北莱茵-威斯特法伦州"
+    },
+    "62771": {
+        "de": "Niedersachsen",
+        "en": "Lower Saxony",
+        "es": "Baja Sajonia",
+        "ru": "Нижняя Саксония",
+        "zh": "下萨克森"
+    },
+    "62782": {
+        "de": "Hamburg",
+        "en": "Hamburg",
+        "fr": "Hambourg",
+        "ru": "Гамбург",
+        "zh": "汉堡"
+    },
+    "63512": {
+        "ar": "مين",
+        "en": "Maine",
+        "ru": "Мэн",
+        "zh": "缅因州"
+    },
+    "67213": {
+        "ar": "نيوهامشير",
+        "en": "New Hampshire",
+        "es": "Nuevo Hampshire",
+        "ru": "Нью-Гэмпшир",
+        "zh": "新罕布什尔州"
+    },
+    "68841": {
+        "ar": "أونتاريو",
+        "ru": "Онтарио",
+        "zh": "安大略"
+    },
+    "68942": {
+        "ar": "نيو برانزويك",
+        "de": "Neubraunschweig",
+        "en": "New Brunswick",
+        "es": "Nuevo Brunswick",
+        "fr": "Nouveau-Brunswick",
+        "it": "Nuovo Brunswick",
+        "ru": "Нью-Брансуик",
+        "zh": "新伯倫瑞克"
+    },
+    "71022": {
+        "en": "Kherson Oblast",
+        "ru": "Херсонская область"
+    },
+    "71064": {
+        "de": "Oblast Wolhynien",
+        "en": "Volyn Oblast",
+        "ru": "Волынская область"
+    },
+    "71236": {
+        "de": "Oblast Riwne",
+        "en": "Rivne Oblast",
+        "ru": "Ровенская область"
+    },
+    "71245": {
+        "de": "Oblast Schytomyr",
+        "en": "Zhytomyr Oblast",
+        "ru": "Житомирская область"
+    },
+    "71248": {
+        "de": "Oblast Kiew",
+        "en": "Kyiv Oblast",
+        "ru": "Киевская область"
+    },
+    "71249": {
+        "en": "Chernigov Oblast",
+        "ru": "Черниговская область"
+    },
+    "71250": {
+        "en": "Sumy Oblast",
+        "ru": "Сумская область"
+    },
+    "71254": {
+        "en": "Kharkiv Oblast",
+        "ru": "Харьковская область"
+    },
+    "71950": {
+        "en": "Ryazan Oblast"
+    },
+    "71971": {
+        "ru": "Луганская область"
+    },
+    "71973": {
+        "de": "Oblast Donezk",
+        "en": "Donetsk Oblast",
+        "ru": "Донецкая область"
+    },
+    "71980": {
+        "en": "Zaporizhia Oblast",
+        "ru": "Запорожская область"
+    },
+    "72169": {
+        "de": "Oblast Lipezk",
+        "en": "Lipetsk Oblast"
+    },
+    "72181": {
+        "de": "Oblast Woronesch",
+        "en": "Voronezh Oblast"
+    },
+    "72196": {
+        "en": "Republic of Mordovia",
+        "fr": "République de Mordovie"
+    },
+    "72380": {
+        "de": "Oblast Lemberg",
+        "en": "Lviv Oblast",
+        "fr": "Oblast de Lviv",
+        "ru": "Львовская область"
+    },
+    "72488": {
+        "de": "Oblast Iwano-Frankiwsk",
+        "en": "Ivano-Frankivsk Oblast",
+        "fr": "Oblast d'Ivano-Frankivsk",
+        "ru": "Ивано-Франковская область"
+    },
+    "72489": {
+        "de": "Oblast Transkarpatien",
+        "en": "Transcarpathian Oblast",
+        "ru": "Закарпатская область"
+    },
+    "72525": {
+        "de": "Oblast Ternopil",
+        "en": "Ternopil Oblast",
+        "fr": "Oblast de Ternopil",
+        "ru": "Тернопольская область"
+    },
+    "72526": {
+        "en": "Chernivtsi Oblast",
+        "ru": "Черновицкая область"
+    },
+    "72634": {
+        "en": "Odesa Oblast",
+        "fr": "Oblast d'Odessa",
+        "ru": "Одесская область"
+    },
+    "72635": {
+        "en": "Mykolaiv Oblast",
+        "ru": "Николаевская область"
+    },
+    "72639": {
+        "de": "Autonome Republik Krim",
+        "en": "Autonomous Republic of Crimea",
+        "ru": "Автономная Республика Крым"
+    },
+    "74942": {
+        "de": "Vorarlberg",
+        "en": "Vorarlberg",
+        "fr": "Vorarlberg",
+        "ru": "Форарльберг"
+    },
+    "76909": {
+        "de": "Burgenland",
+        "en": "Burgenland",
+        "es": "Burgenland",
+        "fr": "Burgenland",
+        "ru": "Бургенланд"
+    },
+    "76910": {
+        "de": "Korsika",
+        "es": "Córcega",
+        "it": "Corsica",
+        "ru": "Корсика"
+    },
+    "77189": {
+        "de": "Niederösterreich",
+        "en": "Lower Austria",
+        "ru": "Нижняя Австрия"
+    },
+    "77665": {
+        "en": "Volgograd Oblast",
+        "ru": "Волгоградская область"
+    },
+    "77677": {
+        "de": "Baschkortostan",
+        "en": "Republic of Bashkortostan",
+        "fr": "Bachkirie",
+        "it": "Baschiria",
+        "ru": "Башкортостан"
+    },
+    "77687": {
+        "de": "Oblast Tscheljabinsk",
+        "en": "Chelyabinsk Oblast",
+        "fr": "Oblast de Tcheliabinsk",
+        "it": "Oblast' di Čeljabinsk",
+        "ru": "Челябинская область"
+    },
+    "79379": {
+        "de": "Oblast Swerdlowsk",
+        "en": "Sverdlovsk Oblast",
+        "fr": "Oblast de Sverdlovsk",
+        "ru": "Свердловская область"
+    },
+    "80501": {
+        "de": "Westkap"
+    },
+    "81995": {
+        "de": "Oblast Kaluga",
+        "en": "Kaluga Oblast",
+        "fr": "Oblast de Kalouga",
+        "it": "Oblast' di Kaluga",
+        "ru": "Калужская область"
+    },
+    "81996": {
+        "de": "Smolensk Oblast",
+        "en": "Smolensk Oblast"
+    },
+    "85606": {
+        "ru": "Ростовская область"
+    },
+    "86720": {
+        "de": "Nordkap"
+    },
+    "86539": {
+        "de": "Salzburg",
+        "en": "Salzburg",
+        "ru": "Зальцбург"
+    },
+    "88574": {
+        "de": "Ostkap"
+    },
+    "89331": {
+        "de": "Oblast Nowgorod",
+        "en": "Novgorod Oblast",
+        "es": "Óblast de Nóvgorod",
+        "fr": "Oblast de Novgorod"
+    },
+    "90726": {
+        "en": "Vinnytsia Oblast",
+        "ru": "Винницкая область"
+    },
+    "90348": {
+        "de": "Wallonien",
+        "en": "Wallonia",
+        "fr": "Wallonie"
+    },
+    "90742": {
+        "de": "Oblast Chmelnyzkyj",
+        "en": "Khmelnytskyi Oblast",
+        "ru": "Хмельницкая область"
+    },
+    "91278": {
+        "en": "Cherkasy Oblast",
+        "ru": "Черкасская область"
+    },
+    "91294": {
+        "de": "Oblast Poltawa",
+        "en": "Poltava Oblast",
+        "ru": "Полтавская область"
+    },
+    "92277": {
+        "en": "Bangkok",
+        "ru": "Бангкок"
+    },
+    "92417": {
+        "de": "Freistaat"
+    },
+    "101746": {
+        "en": "Dnipropetrovsk Oblast",
+        "ru": "Днепропетровская область"
+    },
+    "102269": {
+        "de": "Moskau",
+        "en": "Moscow",
+        "fr": "Moscou",
+        "ru": "Москва"
+    },
+    "101859": {
+        "en": "Kirovograd Oblast",
+        "ru": "Кировоградская область"
+    },
+    "102303": {
+        "de": "Oberösterreich",
+        "en": "Upper Austria",
+        "ru": "Верхняя Австрия"
+    },
+    "102740": {
+        "en": "Brittany",
+        "es": "Bretaña",
+        "it": "Bretagna"
+    },
+    "103906": {
+        "de": "Kaliningrader Gebiet",
+        "ru": "Калининградская область",
+        "zh": "加里宁格勒州"
+    },
+    "104401": {
+        "de": "Woiwodschaft Westpommern",
+        "en": "West Pomeranian Voivodeship",
+        "es": "Voivodato de Pomerania Occidental",
+        "ru": "Западно-Поморское воеводство"
+    },
+    "108081": {
+        "ru": "Ставропольский край"
+    },
+    "108082": {
+        "ru": "Краснодарский край"
+    },
+    "108083": {
+        "ru": "Республика Калмыкия"
+    },
+    "109166": {
+        "en": "Vienna",
+        "ru": "Вена"
+    },
+    "109441": {
+        "de": "Provinz Santa Elena",
+        "en": "Santa Elena Province",
+        "fr": "Santa Elena",
+        "it": "Provincia di Santa Elena",
+        "ru": "Санта-Элена",
+        "zh": "聖埃倫娜省"
+    },
+    "109877": {
+        "en": "Chechen Republic",
+        "ru": "Чеченская республика"
+    },
+    "109878": {
+        "de": "Karatschai-Tscherkessien",
+        "ru": "Карачаево-Черкесская республика",
+        "zh": "卡拉恰伊-切尔克斯共和国"
+    },
+    "109879": {
+        "ru": "Кабардино-Балкарская республика"
+    },
+    "110032": {
+        "de": "Republik Nordossetien-Alanien"
+    },
+    "112819": {
+        "ru": "Астраханская область"
+    },
+    "112910": {
+        "ru": "Манаби"
+    },
+    "114690": {
+        "ar": "تكساس",
+        "zh": "得克萨斯州"
+    },
+    "115114": {
+        "ru": "Марий Эл"
+    },
+    "115136": {
+        "en": "Komi Republic",
+        "ru": "Республика Коми"
+    },
+    "130914": {
+        "de": "Woiwodschaft Heiligkreuz",
+        "en": "Świętokrzyskie Voivodeship",
+        "es": "Voivodato de Santa Cruz",
+        "ru": "Свентокшиское воеводство"
+    },
+    "122586": {
+        "ar": "إلينوي",
+        "ru": "Иллинойс",
+        "zh": "伊利諾伊州"
+    },
+    "130919": {
+        "ar": "محافظة لوبيلسكي",
+        "de": "Woiwodschaft Lublin",
+        "en": "Lublin Voivodeship",
+        "es": "Voivodato de Lublin",
+        "ru": "Люблинское воеводство",
+        "zh": "卢布林省"
+    },
+    "130935": {
+        "de": "Woiwodschaft Masowien",
+        "en": "Masovian Voivodeship",
+        "es": "Voivodato de Mazovia"
+    },
+    "130957": {
+        "de": "Woiwodschaft Karpatenvorland",
+        "en": "Subcarpathian Voivodeship",
+        "es": "Voivodato de Subcarpacia"
+    },
+    "130969": {
+        "de": "Woiwodschaft Lebus",
+        "en": "Lubusz Voivodeship",
+        "es": "Voivodato de Lubus"
+    },
+    "130971": {
+        "de": "Woiwodschaft Großpolen",
+        "ru": "Великопольское воеводство"
+    },
+    "130975": {
+        "de": "Woiwodschaft Pommern",
+        "en": "Pomeranian Voivodeship",
+        "es": "Voivodato de Pomerania",
+        "fr": "Voïvodie de Poméranie",
+        "ru": "Поморское воеводство"
+    },
+    "140294": {
+        "ar": "نوفوسيبيرسك أوبلاست",
+        "de": "Oblast Nowosibirsk",
+        "en": "Novosibirsk Oblast",
+        "es": "Óblast de Novosibirsk",
+        "fr": "Oblast de Novossibirsk",
+        "it": "Oblast' di Novosibirsk",
+        "zh": "新西伯利亚州"
+    },
+    "140295": {
+        "en": "Tomsk region",
+        "ru": "Томская область"
+    },
+    "145194": {
+        "en": "Altai Republic"
+    },
+    "145195": {
+        "ar": "توفا",
+        "de": "Tuwa",
+        "en": "Tuva",
+        "es": "Tuvá",
+        "fr": "Touva",
+        "it": "Tuva",
+        "zh": "图瓦共和国"
+    },
+    "145454": {
+        "en": "Irkutsk Oblast",
+        "ru": "Иркутская область"
+    },
+    "145730": {
+        "en": "Zabaykalsky Krai",
+        "ru": "Забайкальский край"
+    },
+    "147166": {
+        "en": "Amur Oblast",
+        "ru": "Амурская область"
+    },
+    "147167": {
+        "en": "Jewish Autonomous Oblast",
+        "ru": "Еврейская автономная область"
+    },
+    "151223": {
+        "en": "Khabarovsk Krai",
+        "ru": "Хабаровский край"
+    },
+    "151228": {
+        "en": "Magadan Oblast",
+        "ru": "Магаданская область"
+    },
+    "151225": {
+        "en": "Primorsky Krai",
+        "ru": "Приморский край"
+    },
+    "151233": {
+        "de": "Region Kamtschatka",
+        "en": "Kamchatka Krai",
+        "ru": "Камчатский край"
+    },
+    "151231": {
+        "de": "Autonome Kreis der Tschuktschen",
+        "en": "Chukotka Autonomous Okrug",
+        "ru": "Чукотский автономный округ"
+    },
+    "151234": {
+        "en": "Sakha Republic",
+        "ru": "Республика Саха"
+    },
+    "153269": {
+        "de": "Qinghai",
+        "en": "Qinghai",
+        "ru": "Цинхай",
+        "zh": "青海"
+    },
+    "153536": {
+        "ru": "Ла-Риоха"
+    },
+    "153537": {
+        "ru": "Кордова"
+    },
+    "153538": {
+        "ru": "Сан-Луис"
+    },
+    "153540": {
+        "ru": "Мендоса"
+    },
+    "153541": {
+        "ru": "Ла-Пампа"
+    },
+    "153543": {
+        "ru": "Санта-Фе"
+    },
+    "153544": {
+        "ru": "Сантьяго-дель-Эстеро"
+    },
+    "153545": {
+        "ru": "Катамарка"
+    },
+    "153547": {
+        "ru": "Рио-Негро"
+    },
+    "153548": {
+        "ru": "Чубут"
+    },
+    "153551": {
+        "ru": "Междуречье"
+    },
+    "153554": {
+        "ru": "Чако"
+    },
+    "153555": {
+        "ru": "Формоса"
+    },
+    "153556": {
+        "ru": "Жужуй"
+    },
+    "153558": {
+        "ru": "Тукуман"
+    },
+    "155262": {
+        "de": "Oblast Pskow",
+        "en": "Pskov Oblast",
+        "ru": "Псковская область"
+    },
+    "156393": {
+        "en": "Northern Ireland"
+    },
+    "157062": {
+        "ar": "ولاية الجزائر"
+    },
+    "161638": {
+        "ar": "ميزوري",
+        "es": "Misuri",
+        "ru": "Миссури",
+        "zh": "密蘇里州"
+    },
+    "161644": {
+        "ar": "كانساس",
+        "ru": "Канзас",
+        "zh": "堪萨斯州"
+    },
+    "161645": {
+        "ar": "أوكلاهوما",
+        "ru": "Оклахома",
+        "zh": "俄克拉何马州"
+    },
+    "161646": {
+        "ar": "أركنساس",
+        "ru": "Арканзас",
+        "zh": "阿肯色州"
+    },
+    "161648": {
+        "ar": "نبراسكا",
+        "ru": "Небраска",
+        "zh": "内布拉斯加州"
+    },
+    "161650": {
+        "ar": "آيوا",
+        "ru": "Айова",
+        "zh": "艾奥瓦州"
+    },
+    "161652": {
+        "ar": "داكوتا الجنوبية",
+        "de": "Süd-Dakota",
+        "es": "Dakota del Sur",
+        "fr": "Dakota du Sud",
+        "it": "Dakota del Sud",
+        "ru": "Южная Дакота",
+        "zh": "南达科他州"
+    },
+    "161653": {
+        "ar": "داكوتا الشمالية",
+        "de": "Nord-Dakota",
+        "es": "Dakota del Norte",
+        "fr": "Dakota du Nord",
+        "it": "Dakota del Nord",
+        "ru": "Северная Дакота",
+        "zh": "北达科他州"
+    },
+    "161655": {
+        "ar": "كنتاكي",
+        "ru": "Кентукки",
+        "zh": "肯塔基州"
+    },
+    "161816": {
+        "ar": "إنديانا",
+        "ru": "Индиана",
+        "zh": "印第安纳州"
+    },
+    "161838": {
+        "ar": "تينيسي",
+        "ru": "Теннесси",
+        "zh": "田纳西州"
+    },
+    "161943": {
+        "ar": "مسيسيبي",
+        "es": "Misisipi",
+        "ru": "Миссисипи",
+        "zh": "密西西比州"
+    },
+    "161950": {
+        "ar": "ألاباما",
+        "ru": "Алабама",
+        "zh": "阿拉巴马州"
+    },
+    "161957": {
+        "ar": "جورجيا",
+        "fr": "Géorgie",
+        "ru": "Джорджия",
+        "zh": "喬治亞州"
+    },
+    "161961": {
+        "ar": "كولورادو",
+        "ru": "Колорадо",
+        "zh": "科羅拉多州"
+    },
+    "161991": {
+        "ar": "وايومنغ",
+        "ru": "Вайоминг",
+        "zh": "懷俄明州"
+    },
+    "161993": {
+        "ar": "يوتا",
+        "ru": "Юта"
+    },
+    "162014": {
+        "ar": "نيومكسيكو",
+        "de": "Neumexiko",
+        "en": "New Mexico",
+        "es": "Nuevo México",
+        "fr": "Nouveau-Mexique",
+        "it": "Nuovo Messico",
+        "ru": "Нью-Мексико",
+        "zh": "新墨西哥州"
+    },
+    "162018": {
+        "ar": "أريزونا",
+        "ru": "Аризона",
+        "zh": "亞利桑那州"
+    },
+    "162050": {
+        "ar": "فلوريدا",
+        "fr": "Floride",
+        "ru": "Флорида",
+        "zh": "佛罗里达州"
+    },
+    "162061": {
+        "ar": "أوهايو",
+        "en": "Ohio",
+        "ru": "Огайо",
+        "zh": "俄亥俄州"
+    },
+    "162068": {
+        "ar": "فيرجينيا الغربية",
+        "es": "Virginia Occidental",
+        "fr": "Virginie-Occidentale",
+        "it": "Virginia Occidentale",
+        "ru": "Западная Виргиния",
+        "zh": "西維吉尼亞州"
+    },
+    "162109": {
+        "ar": "بنسيلفانيا",
+        "de": "Pennsylvanien",
+        "es": "Pensilvania",
+        "fr": "Pennsylvanie",
+        "ru": "Пенсильвания",
+        "zh": "賓夕法尼亞州"
+    },
+    "162110": {
+        "ar": "ديلاوير",
+        "ru": "Делавэр",
+        "zh": "特拉华州"
+    },
+    "162112": {
+        "ar": "ماريلاند",
+        "ru": "Мэриленд",
+        "zh": "马里兰州"
+    },
+    "162115": {
+        "ar": "مونتانا",
+        "ru": "Монтана",
+        "zh": "蒙大拿州"
+    },
+    "162116": {
+        "ar": "أيداهو",
+        "ru": "Айдахо",
+        "zh": "爱达荷州"
+    },
+    "165466": {
+        "ar": "ويسكنسن",
+        "ru": "Висконсин",
+        "zh": "威斯康星州"
+    },
+    "165471": {
+        "ar": "مينيسوتا",
+        "ru": "Миннесота",
+        "zh": "明尼蘇達州"
+    },
+    "165473": {
+        "ar": "نيفادا",
+        "ru": "Невада",
+        "zh": "内华达州"
+    },
+    "165475": {
+        "ar": "كاليفورنيا",
+        "de": "Kalifornien",
+        "es": "California",
+        "fr": "Californie",
+        "ru": "Калифорния",
+        "zh": "加利福尼亚州"
+    },
+    "165476": {
+        "ar": "أوريغون",
+        "es": "Oregón",
+        "ru": "Орегон",
+        "zh": "俄勒冈州"
+    },
+    "165479": {
+        "ar": "واشنطن",
+        "ru": "Вашингтон",
+        "zh": "华盛顿州"
+    },
+    "165789": {
+        "ar": "ميشيغان",
+        "es": "Míchigan",
+        "ru": "Мичиган",
+        "zh": "密歇根州"
+    },
+    "165794": {
+        "ar": "كونيتيكت",
+        "ru": "Коннектикут",
+        "zh": "康涅狄格州"
+    },
+    "166563": {
+        "ar": "هاواي",
+        "de": "Hawaii",
+        "en": "Hawaii",
+        "es": "Hawái",
+        "fr": "Hawaï",
+        "ru": "Гавайи",
+        "zh": "夏威夷州"
+    },
+    "171591": {
+        "en": "East Province"
+    },
+    "178016": {
+        "de": "Andijon",
+        "en": "Andijan Province",
+        "ru": "Андижанская область"
+    },
+    "176095": {
+        "de": "Oblast Leningrad",
+        "en": "Leningrad oblast",
+        "ru": "Ленинградская область"
+    },
+    "178017": {
+        "en": "Namangan Province",
+        "ru": "Наманганская область"
+    },
+    "178018": {
+        "en": "Fergana Province",
+        "ru": "Ферганская область"
+    },
+    "178019": {
+        "en": "Batken",
+        "ru": "Баткенская область"
+    },
+    "178020": {
+        "en": "Osh",
+        "ru": "Ошская область"
+    },
+    "178023": {
+        "en": "Talas",
+        "ru": "Таласская область"
+    },
+    "178024": {
+        "en": "Jalal-Abad",
+        "ru": "Джалал-Абадская область"
+    },
+    "178025": {
+        "en": "Issyk-Kul",
+        "ru": "Иссык-Кульская область"
+    },
+    "178026": {
+        "en": "Chui Province",
+        "ru": "Чуйская область"
+    },
+    "179296": {
+        "de": "Friaul-Julisch Venetien",
+        "en": "Friuli-Venezia Giulia",
+        "es": "Friuli-Venecia Julia",
+        "fr": "Frioul-Vénétie julienne",
+        "it": "Friuli Venezia Giulia",
+        "ru": "Фриули-Венеция-Джулия"
+    },
+    "184877": {
+        "en": "Homs"
+    },
+    "190090": {
+        "en": "Krasnoyarsk Krai",
+        "ru": "Красноярский край"
+    },
+    "190911": {
+        "de": "Chakassien",
+        "en": "Khakassia",
+        "ru": "Республика Хакасия"
+    },
+    "191706": {
+        "en": "Yamalo-Nenets Autonomous Okrug",
+        "ru": "Ямало-Ненецкий автономный округ"
+    },
+    "196241": {
+        "en": "Republic of Karakalpakstan",
+        "ru": "Республика Каракалпакстан"
+    },
+    "196242": {
+        "en": "Khorezm Province",
+        "ru": "Хорезмская область"
+    },
+    "196246": {
+        "en": "Navoiy province",
+        "ru": "Навоийская область"
+    },
+    "196248": {
+        "en": "Surxondaryo Province",
+        "ru": "Сурхандарьинская область"
+    },
+    "196249": {
+        "de": "Provinz Samarkand",
+        "en": "Samarkand Province",
+        "ru": "Самаркандская область"
+    },
+    "196251": {
+        "en": "Tashkent Province",
+        "ru": "Ташкентская область"
+    },
+    "196253": {
+        "en": "Sirdarya Province",
+        "ru": "Сырдарьинская область"
+    },
+    "196254": {
+        "en": "Jizzakh Province",
+        "ru": "Джизакская область"
+    },
+    "198590": {
+        "en": "Jilin",
+        "ru": "Гирин",
+        "zh": "吉林"
+    },
+    "214834": {
+        "en": "Atyrau",
+        "ru": "Атырауская область"
+    },
+    "215683": {
+        "de": "Gebiet Aqtöbe",
+        "en": "Aktobe Province",
+        "ru": "Актюбинская область"
+    },
+    "215441": {
+        "en": "West Kazakhstan",
+        "ru": "Западно-Казахстанская область"
+    },
+    "215686": {
+        "de": "Gebiet Mangghystau",
+        "en": "Mangystau Province",
+        "ru": "Мангистауская область"
+    },
+    "215699": {
+        "en": "East Kazakhstan",
+        "ru": "Восточно Казахстанская область"
+    },
+    "215718": {
+        "de": "Gebiet Almaty",
+        "en": "Almaty Province",
+        "ru": "Алматинская область"
+    },
+    "215722": {
+        "de": "Gebiet Schambyl",
+        "en": "Jambyl Province",
+        "ru": "Жамбылская область"
+    },
+    "215727": {
+        "de": "Gebiet Qysylorda",
+        "en": "Kyzylorda Province",
+        "ru": "Кызылординская область"
+    },
+    "215739": {
+        "de": "Gebiet Südkasachstan",
+        "en": "South Kazakhstan Province",
+        "ru": "Южно-Казахстанская область"
+    },
+    "215743": {
+        "de": "Gebiet Aqmola",
+        "en": "Akmola Province",
+        "ru": "Акмолинская область"
+    },
+    "215760": {
+        "en": "North Kazakhstan",
+        "ru": "Северо-Казахстанская область"
+    },
+    "215772": {
+        "de": "Gebiet Pawlodar",
+        "en": "Pavlodar Province",
+        "ru": "Павлодарская область"
+    },
+    "215776": {
+        "de": "Gebiet Qaraghandy",
+        "en": "Karagandy Province",
+        "ru": "Карагандинская область"
+    },
+    "223028": {
+        "ru": "Дашогузский велаят"
+    },
+    "223029": {
+        "en": "Lebap province",
+        "ru": "Лебапский велаят"
+    },
+    "223030": {
+        "ru": "Марыйский велаят"
+    },
+    "223031": {
+        "ru": "Ахалский велаят"
+    },
+    "223032": {
+        "ru": "Балканский велаят"
+    },
+    "223136": {
+        "ru": "Мугла"
+    },
+    "223167": {
+        "ru": "Измир"
+    },
+    "223169": {
+        "ru": "Денизли"
+    },
+    "223407": {
+        "de": "Woiwodschaft Kujawien-Pommern",
+        "en": "Kuyavian-Pomeranian Voivodeship",
+        "es": "Voivodato de Cuyavia y Pomerania"
+    },
+    "223408": {
+        "de": "Woiwodschaft Ermland-Masuren",
+        "en": "Warmian-Masurian Voivodeship",
+        "es": "Voivodato de Varmia y Masuria",
+        "fr": "Voïvodie de Varmie-Mazurie",
+        "it": "Voivodato di Varmia-Masuria",
+        "ru": "Варминско-Мазурское воеводство"
+    },
+    "223464": {
+        "ru": "Балыкесир"
+    },
+    "223465": {
+        "ru": "Эдирне"
+    },
+    "223471": {
+        "ru": "Чанаккале"
+    },
+    "224040": {
+        "ar": "كارولاينا الجنوبية",
+        "de": "Süd-Carolina",
+        "es": "Carolina del Sur",
+        "fr": "Caroline du Sud",
+        "it": "Carolina del Sud",
+        "ru": "Южная Каролина",
+        "zh": "南卡罗来纳州"
+    },
+    "224042": {
+        "ar": "فيرجينيا",
+        "en": "Virginia",
+        "fr": "Virginie",
+        "ru": "Виргиния",
+        "zh": "維珍尼亞州"
+    },
+    "224045": {
+        "ar": "كارولاينا الشمالية",
+        "de": "Nord-Carolina",
+        "en": "North Carolina",
+        "es": "Carolina del Norte",
+        "fr": "Caroline du Nord",
+        "it": "Carolina del Nord",
+        "ru": "Северная Каролина",
+        "zh": "北卡羅萊那州"
+    },
+    "224457": {
+        "ar": "محافظة سيلزيا السفلى",
+        "de": "Woiwodschaft Niederschlesien",
+        "en": "Lower Silesian Voivodeship",
+        "es": "Voivodato de Baja Silesia",
+        "ru": "Нижнесилезское воеводство",
+        "zh": "下西里西亚省"
+    },
+    "224458": {
+        "en": "Łódź Voivodeship",
+        "es": "Voivodato de Łódź"
+    },
+    "224459": {
+        "de": "Woiwodschaft Kleinpolen",
+        "en": "Lesser Poland Voivodeship",
+        "es": "Voivodato de Pequeña Polonia"
+    },
+    "224460": {
+        "en": "Opole Voivodeship",
+        "es": "Voivodato de Opole"
+    },
+    "224461": {
+        "de": "Woiwodschaft Podlachien",
+        "en": "Podlaskie Voivodeship",
+        "es": "Voivodato de Podlakia",
+        "ru": "Подляское воеводство"
+    },
+    "224462": {
+        "de": "Woiwodschaft Schlesien",
+        "en": "Silesian Voivodeship",
+        "es": "Voivodato de Silesia",
+        "ru": "Силезское воеводство"
+    },
+    "224922": {
+        "ar": "لويزيانا",
+        "es": "Luisiana",
+        "fr": "Louisiane",
+        "ru": "Луизиана",
+        "zh": "路易斯安那州"
+    },
+    "224951": {
+        "ar": "نيو جيرسي",
+        "es": "Nueva Jersey",
+        "ru": "Нью-Джерси",
+        "zh": "新泽西州"
+    },
+    "225443": {
+        "en": "Phongsaly"
+    },
+    "225444": {
+        "en": "North Khorasan"
+    },
+    "225479": {
+        "en": "Bokeo"
+    },
+    "225544": {
+        "en": "Oudomxay"
+    },
+    "225545": {
+        "en": "Luang Namtha"
+    },
+    "225563": {
+        "en": "Sainyabuli"
+    },
+    "226205": {
+        "en": "Vientiane"
+    },
+    "229958": {
+        "en": "Markazi"
+    },
+    "230033": {
+        "ru": "Чехармеха́ль и Бахтиа́рия"
+    },
+    "233377": {
+        "en": "Saint Pierre and Miquelon",
+        "fr": "Saint-Pierre-et-Miquelon"
+    },
+    "237442": {
+        "en": "Sagaing"
+    },
+    "237480": {
+        "en": "Shan"
+    },
+    "237541": {
+        "en": "Chin"
+    },
+    "237555": {
+        "en": "Magway"
+    },
+    "237679": {
+        "en": "Kayin"
+    },
+    "237680": {
+        "en": "Kayah"
+    },
+    "237692": {
+        "en": "Mandalay"
+    },
+    "240174": {
+        "en": "Attapeu"
+    },
+    "240175": {
+        "en": "Champasak"
+    },
+    "240176": {
+        "en": "Xekong"
+    },
+    "240177": {
+        "en": "Khammouane"
+    },
+    "240178": {
+        "en": "Savannakhet"
+    },
+    "240179": {
+        "en": "Salavan"
+    },
+    "240193": {
+        "en": "Bolikhamsai"
+    },
+    "240203": {
+        "en": "Vientiane Capital"
+    },
+    "240204": {
+        "en": "Xiangkhouang"
+    },
+    "240211": {
+        "en": "Houaphan"
+    },
+    "240212": {
+        "en": "Luang Prabang"
+    },
+    "241471": {
+        "en": "Qazvin"
+    },
+    "241472": {
+        "en": "Gilan"
+    },
+    "241474": {
+        "en": "Semnan"
+    },
+    "241475": {
+        "ru": "Исфаха́н"
+    },
+    "241478": {
+        "ru": "Хузестан"
+    },
+    "241546": {
+        "en": "Kurdistan"
+    },
+    "241593": {
+        "en": "West Azerbaijan"
+    },
+    "269575": {
+        "ru": "Бушир"
+    },
+    "269635": {
+        "en": "Ardabil",
+        "ru": "Ардабил"
+    },
+    "269886": {
+        "de": "Dornod",
+        "en": "Dornod",
+        "ru": "Дорнод"
+    },
+    "269900": {
+        "en": "Mazandaran"
+    },
+    "269903": {
+        "en": "Golestan"
+    },
+    "270052": {
+        "de": "Bajanchongor",
+        "en": "Bayankhongor",
+        "fr": "Bayanhongor",
+        "it": "Bajanhongor"
+    },
+    "270054": {
+        "de": "Gobi-Altai",
+        "en": "Govi-Altai",
+        "es": "Govĭ-Altay",
+        "fr": "Govi-Altay"
+    },
+    "270055": {
+        "de": "Chowd",
+        "en": "Khovd",
+        "es": "Hovd",
+        "fr": "Hovd",
+        "it": "Hovd"
+    },
+    "270057": {
+        "de": "Zawchan",
+        "en": "Zavkhan",
+        "es": "Zavhan",
+        "fr": "Zavhan",
+        "it": "Zavhan",
+        "ru": "Завхан"
+    },
+    "270059": {
+        "de": "Uws",
+        "en": "Uvs",
+        "es": "Uvs",
+        "fr": "Uvs",
+        "it": "Uvs",
+        "ru": "Увс аймаг"
+    },
+    "270072": {
+        "en": "Khövsgöl",
+        "ru": "Хөвсгөл"
+    },
+    "270073": {
+        "de": "Bulgan",
+        "en": "Bulgan",
+        "es": "Bulgan",
+        "fr": "Bulgan",
+        "it": "Bulgan",
+        "ru": "Булган"
+    },
+    "270074": {
+        "de": "Öwörchangai",
+        "en": "Övörkhangai",
+        "es": "Övörhangay",
+        "fr": "Övörhangay",
+        "it": "Ôvôrhangaj"
+    },
+    "270075": {
+        "de": "Archangai",
+        "en": "Arkhangai",
+        "es": "Arhangay",
+        "fr": "Arhangay",
+        "it": "Arhangaj"
+    },
+    "270089": {
+        "en": "Selenge",
+        "ru": "Сэлэнгэ"
+    },
+    "270090": {
+        "de": "Ulaanbaatar",
+        "en": "Ulan Bator"
+    },
+    "270091": {
+        "en": "Darkhan-Uul"
+    },
+    "270092": {
+        "en": "Orkhon"
+    },
+    "270094": {
+        "de": "Dund-Gobi",
+        "en": "Dundgovi"
+    },
+    "270095": {
+        "de": "Gobi-Sümber",
+        "en": "Govisümber"
+    },
+    "270332": {
+        "en": "South-East District"
+    },
+    "270333": {
+        "en": "Kgatleng District"
+    },
+    "270334": {
+        "en": "North-East District"
+    },
+    "270335": {
+        "en": "Central District"
+    },
+    "270336": {
+        "en": "Ghanzi District"
+    },
+    "270337": {
+        "en": "Kweneng District"
+    },
+    "270338": {
+        "en": "Southern District"
+    },
+    "270339": {
+        "en": "Kgalagadi District"
+    },
+    "274048": {
+        "ru": "Ненецкий автономный округ"
+    },
+    "279816": {
+        "de": "Sardinien",
+        "en": "Sardinia",
+        "es": "Cerdeña",
+        "fr": "Sardaigne",
+        "ru": "Сардиния"
+    },
+    "282436": {
+        "de": "Kreta",
+        "en": "Crete",
+        "es": "Creta",
+        "fr": "Crète",
+        "ru": "о. Крит"
+    },
+    "286342": {
+        "de": "Guangxi",
+        "en": "Guangxi",
+        "ru": "Гуанси-Чжуанский автономный район",
+        "zh": "广西壮族自治区"
+    },
+    "286898": {
+        "de": "Amerikanische Jungferninseln",
+        "en": "United States Virgin Islands",
+        "es": "Islas Vírgenes de los Estados Unidos",
+        "fr": "Îles Vierges des États-Unis",
+        "it": "Isole Vergini americane",
+        "ru": "Американские Виргинские острова",
+        "zh": "美屬維爾京群島"
+    },
+    "286937": {
+        "de": "Guizhou",
+        "en": "Guizhou",
+        "ru": "Гуйчжоу",
+        "zh": "广西壮族自治区"
+    },
+    "290162": {
+        "de": "Wallis und Futuna",
+        "en": "Wallis and Futuna",
+        "es": "Wallis y Futuna",
+        "fr": "Wallis-et-Futuna",
+        "ru": "Уоллис и Футуна"
+    },
+    "301482": {
+        "de": "Ligurien",
+        "en": "Liguria",
+        "fr": "Ligurie",
+        "ru": "Лигурия"
+    },
+    "306001": {
+        "ru": "Гуам"
+    },
+    "306004": {
+        "ru": "Северные Марианские острова"
+    },
+    "306157": {
+        "ru": "Пуэрто-Рико"
+    },
+    "318161": {
+        "ar": "محافظة الشمال",
+        "en": "North Lebanon Governorate",
+        "fr": "Gouvernorat du Liban Nord"
+    },
+    "337422": {
+        "de": "Sankt Petersburg",
+        "en": "Saint Petersburg",
+        "es": "San Petersburgo",
+        "fr": "Saint-Pétersbourg",
+        "it": "San Pietroburgo",
+        "ru": "Санкт-Петербург"
+    },
+    "340554": {
+        "en": "Far-Western Region"
+    },
+    "340556": {
+        "en": "Eastern Region"
+    },
+    "340557": {
+        "en": "Mid-Western Region"
+    },
+    "340558": {
+        "en": "Western Region"
+    },
+    "340559": {
+        "en": "Central Region"
+    },
+    "349033": {
+        "fr": "Asturies",
+        "ru": "Астурия"
+    },
+    "349039": {
+        "ar": "منطقة جزر البليار",
+        "de": "Balearische Inseln",
+        "en": "Balearic Islands",
+        "es": "Islas Baleares",
+        "fr": "Îles Baléares",
+        "it": "Isole Baleari",
+        "ru": "Балеарские острова",
+        "zh": "巴利阿里群岛"
+    },
+    "349036": {
+        "en": "Galicia",
+        "es": "Galicia",
+        "fr": "Galice",
+        "ru": "Галисия"
+    },
+    "349040": {
+        "es": "La Rioja",
+        "ru": "Риоха"
+    },
+    "349041": {
+        "es": "Castilla y León",
+        "fr": "Castille-et-León",
+        "ru": "Кастилия и Леон"
+    },
+    "349042": {
+        "en": "Basque Country",
+        "es": "País Vasco",
+        "fr": "Pays Basque",
+        "ru": "Страна Басков"
+    },
+    "349043": {
+        "en": "Valencian Community",
+        "es": "Comunidad Valenciana",
+        "fr": "Communauté valencienne",
+        "ru": "Валенсия"
+    },
+    "349044": {
+        "ar": "أندلوسيا",
+        "en": "Andalusia",
+        "es": "Andalucía",
+        "fr": "Andalousie",
+        "ru": "Андалусия"
+    },
+    "349045": {
+        "es": "Aragón",
+        "fr": "Aragon",
+        "ru": "Арагон"
+    },
+    "349047": {
+        "es": "Murcia",
+        "fr": "Murcie",
+        "ru": "Мурсия"
+    },
+    "349048": {
+        "de": "Kanarische Inseln",
+        "en": "Canary Islands",
+        "es": "Islas Canarias",
+        "fr": "Îles Canaries",
+        "it": "Isole Canarie",
+        "ru": "Канарские острова"
+    },
+    "349049": {
+        "es": "Cantabria",
+        "fr": "Cantabrie",
+        "ru": "Кантабрия"
+    },
+    "349050": {
+        "fr": "Estrémadure",
+        "ru": "Эстремадура"
+    },
+    "349052": {
+        "en": "Castile-La Mancha",
+        "es": "Castilla-La Mancha",
+        "fr": "Castille-La Manche",
+        "ru": "Кастилия - Ла-Манча"
+    },
+    "349053": {
+        "de": "Katalonien",
+        "es": "Cataluña",
+        "fr": "Catalogne",
+        "ru": "Каталония"
+    },
+    "349054": {
+        "fr": "Navarre",
+        "ru": "Наварра"
+    },
+    "349055": {
+        "es": "Madrid",
+        "ru": "Мадрид"
+    },
+    "349519": {
+        "de": "Nordwest"
+    },
+    "356379": {
+        "en": "Ryanggang"
+    },
+    "356392": {
+        "en": "Chagang"
+    },
+    "356442": {
+        "de": "Hwanghae-pukto",
+        "en": "Hwanghaebuk-do",
+        "es": "Hwanghae del Norte",
+        "fr": "Hwanghae du Nord",
+        "it": "Nord Hwanghae",
+        "ru": "Хванхэ-Пукто",
+        "zh": "黄海北道"
+    },
+    "356443": {
+        "de": "Pjöngjang",
+        "en": "Pyongyang",
+        "zh": "平壤"
+    },
+    "356533": {
+        "de": "Hwanghae-namdo",
+        "en": "Hwanghaenam-do",
+        "es": "Hwanghae del Sur",
+        "fr": "Hwanghae du Sud",
+        "it": "Sud Hwanghae",
+        "ru": "Хванхэ-Намдо",
+        "zh": "黄海南道"
+    },
+    "356535": {
+        "en": "Kangwon-do"
+    },
+    "357988": {
+        "en": "Punjab"
+    },
+    "357995": {
+        "en": "Gilgit-Baltistan"
+    },
+    "358002": {
+        "en": "Islamabad Capital Territory"
+    },
+    "362413": {
+        "es": "Bahía"
+    },
+    "364077": {
+        "en": "Shirak",
+        "ru": "Ширак"
+    },
+    "364078": {
+        "en": "Lori",
+        "ru": "Лори"
+    },
+    "364079": {
+        "en": "Tavush",
+        "ru": "Тавуш"
+    },
+    "364080": {
+        "en": "Gegharkunik",
+        "ru": "Гегархуник"
+    },
+    "364081": {
+        "en": "Vayots Dzor",
+        "ru": "Вайотс Дзор"
+    },
+    "364082": {
+        "en": "Syunik",
+        "ru": "Сюник"
+    },
+    "364083": {
+        "en": "Ararat",
+        "ru": "Арарат"
+    },
+    "364084": {
+        "de": "Kotajk",
+        "en": "Kotayk",
+        "ru": "Котайк"
+    },
+    "364085": {
+        "en": "Aragatsotn",
+        "ru": "Арагацотн"
+    },
+    "364086": {
+        "en": "Armavir",
+        "ru": "Армавир"
+    },
+    "364087": {
+        "ar": "يريفان",
+        "de": "Jerewan",
+        "en": "Yerevan",
+        "es": "Ereván",
+        "fr": "Erevan",
+        "it": "Yerevan",
+        "ru": "Ереван",
+        "zh": "葉里溫"
+    },
+    "383890": {
+        "ar": "صنعاء",
+        "en": "Sanʿaʾ",
+        "ru": "Сана"
+    },
+    "383892": {
+        "ar": "لحج",
+        "en": "Lahij Governorate"
+    },
+    "383893": {
+        "ar": "عدن",
+        "en": "‘Adan Governorate"
+    },
+    "383894": {
+        "ar": "الحديدة",
+        "en": "Al Hudaydah Governorate",
+        "ru": "Ходейда"
+    },
+    "383895": {
+        "ar": "تعز",
+        "en": "Ta'izz Governorate",
+        "ru": "Таиз"
+    },
+    "383896": {
+        "ar": "شبوة",
+        "de": "Schabwa",
+        "en": "Shabwah"
+    },
+    "383897": {
+        "ar": "حضرموت",
+        "de": "Hadramaut",
+        "en": "Hadhramaut"
+    },
+    "383898": {
+        "ar": "شبوة",
+        "en": "Abyan Governorate"
+    },
+    "383900": {
+        "ar": "إب",
+        "en": "Ibb Governorate"
+    },
+    "383901": {
+        "ar": "البيضاء",
+        "en": "Al Bayda' Governorate"
+    },
+    "383903": {
+        "ar": "المحويت",
+        "en": "Al Mahwit Governorate"
+    },
+    "383904": {
+        "ar": "صعدة",
+        "en": "Sa'dah Governorate"
+    },
+    "383905": {
+        "ar": "حجة",
+        "en": "Hajjah Governorate"
+    },
+    "383906": {
+        "ar": "ذمار",
+        "en": "Dhamar Governorate"
+    },
+    "383907": {
+        "ar": "عمران",
+        "en": "'Amran Governorate"
+    },
+    "383908": {
+        "ar": "المهرة",
+        "de": "al-Mahra",
+        "en": "Al Mahrah Governorate",
+        "ru": "Эль-Махра"
+    },
+    "383909": {
+        "ar": "مأرب‎",
+        "en": "Ma'rib Governorate",
+        "ru": "Мариб"
+    },
+    "383910": {
+        "ar": "ريمه‎",
+        "en": "Raymah Governorate"
+    },
+    "388265": {
+        "de": "Pressburger Landschaftsverband",
+        "en": "Region of Bratislava"
+    },
+    "388266": {
+        "de": "Tyrnauer Landschaftsverband",
+        "en": "Region of Trnava"
+    },
+    "388267": {
+        "de": "Trentschiner Landschaftsverband",
+        "en": "Region of Trenčín"
+    },
+    "388269": {
+        "de": "Silleiner Landschaftsverband",
+        "en": "Region of Žilina"
+    },
+    "388268": {
+        "de": "Neutraer Landschaftsverband",
+        "en": "Region of Nitra"
+    },
+    "388270": {
+        "de": "Neusohler Landschaftsverband",
+        "en": "Region of Banská Bystrica"
+    },
+    "388271": {
+        "de": "Eperieser Landschaftsverband",
+        "en": "Region of Prešov"
+    },
+    "389882": {
+        "de": "Departamento Alto Paraguay",
+        "es": "Departamento de Alto Paraguay",
+        "fr": "Département de l'Alto Paraguay",
+        "it": "Dipartimento dell'Alto Paraguay",
+        "ru": "Альто-Парагвай",
+        "zh": "上巴拉圭省"
+    },
+    "388272": {
+        "de": "Kaschauer Landschaftsverband",
+        "en": "Region of Košice"
+    },
+    "389897": {
+        "ru": "Каасапа"
+    },
+    "390558": {
+        "de": "Neuschottland",
+        "es": "Nueva Escocia",
+        "fr": "Nouvelle-Écosse",
+        "it": "Nuova Scozia"
+    },
+    "390840": {
+        "en": "Nunavut",
+        "ru": "Нунавут"
+    },
+    "390867": {
+        "fr": "Colombie-Britannique"
+    },
+    "391115": {
+        "de": "Prinz-Edward-Insel",
+        "es": "Isla del Príncipe Eduardo",
+        "fr": "Île-du-Prince-Édouard",
+        "it": "Isola del Principe Edoardo"
+    },
+    "391196": {
+        "en": "Newfoundland and Labrador",
+        "fr": "Terre-Neuve et Labrador"
+    },
+    "391963": {
+        "en": "Nord-Ouest Department"
+    },
+    "392189": {
+        "en": "Nord-Est Department"
+    },
+    "392213": {
+        "en": "Centre Department"
+    },
+    "392238": {
+        "en": "Artibonite Department"
+    },
+    "392915": {
+        "ar": "رود آيلاند",
+        "ru": "Род-Айленд",
+        "zh": "羅德島州"
+    },
+    "393562": {
+        "en": "Cochabamba",
+        "ru": "Кочабамба"
+    },
+    "393980": {
+        "ru": "Республика Карелия"
+    },
+    "394235": {
+        "en": "Sakhalin Oblast"
+    },
+    "396705": {
+        "ar": "كالداس",
+        "de": "Caldas",
+        "en": "Caldas",
+        "fr": "Caldas",
+        "ru": "Калдас",
+        "zh": "卡尔达斯省"
+    },
+    "404144": {
+        "ru": "Хордаланн"
+    },
+    "404589": {
+        "ru": "Вестфолл"
+    },
+    "405156": {
+        "ru": "Телемарк"
+    },
+    "405836": {
+        "ru": "Ругаланн"
+    },
+    "405929": {
+        "ru": "Вест-Агдер"
+    },
+    "406015": {
+        "ru": "Эуст-Агдер"
+    },
+    "406060": {
+        "ru": "Эстфолл"
+    },
+    "406091": {
+        "ru": "Осло"
+    },
+    "406106": {
+        "ru": "Акерсхус"
+    },
+    "406389": {
+        "ru": "Финнмарк"
+    },
+    "406567": {
+        "ru": "Сёр-Трёнделаг"
+    },
+    "406621": {
+        "ru": "Нур-Трёнделаг"
+    },
+    "406868": {
+        "ru": "Мёре-ог-Ромсдал"
+    },
+    "407492": {
+        "en": "Henan",
+        "ru": "Хэнань",
+        "zh": "河南"
+    },
+    "407717": {
+        "ru": "Тромс"
+    },
+    "407787": {
+        "ru": "Согн-ог-Фьюране"
+    },
+    "407835": {
+        "de": "Distrikt Luxemburg",
+        "fr": "District Luxembourg"
+    },
+    "408105": {
+        "ru": "Нурланн"
+    },
+    "412297": {
+        "ru": "Бускеруд"
+    },
+    "412377": {
+        "ru": "Оппланн"
+    },
+    "412436": {
+        "ru": "Хедмарк"
+    },
+    "417241": {
+        "de": "Santa Cruz",
+        "en": "Santa Cruz Department",
+        "fr": "Département de Santa Cruz",
+        "it": "Dipartimento di Santa Cruz",
+        "ru": "Санта-Крус",
+        "zh": "聖克魯斯省"
+    },
+    "421151": {
+        "en": "Brazilian Federal District",
+        "ru": "Федеральный округ"
+    },
+    "421866": {
+        "en": "Kyiv",
+        "ru": "Киев"
+    },
+    "537657": {
+        "en": "Razavi Khorasan"
+    },
+    "537658": {
+        "en": "South Khorasan"
+    },
+    "537701": {
+        "ar": "طهران",
+        "de": "Teheran",
+        "en": "Tehran",
+        "es": "Teherán",
+        "fr": "Téhéran",
+        "it": "Teheran",
+        "ru": "Тегеран",
+        "zh": "德黑兰"
+    },
+    "537702": {
+        "en": "Qom"
+    },
+    "553303": {
+        "de": "Fujian",
+        "en": "Fujian",
+        "ru": "Фуцзянь",
+        "zh": "福建省"
+    },
+    "553302": {
+        "de": "Zhejiang",
+        "en": "Zhejiang",
+        "ru": "Чжэцзян",
+        "zh": "浙江省"
+    },
+    "554424": {
+        "en": "Ipiros Periphery"
+    },
+    "910915": {
+        "de": "Verwaltungsregion Mittelgriechenland",
+        "en": "Periphery of Continental Greece",
+        "es": "Periferia de Grecia Central",
+        "ru": "Граница центральной"
+    },
+    "910919": {
+        "de": "Verwaltungsregion Westgriechenland",
+        "en": "West Greece Periphery",
+        "es": "Periferia de Grecia Occidental",
+        "ru": "Западная Греция"
+    },
+    "911844": {
+        "de": "Guangdong",
+        "en": "Guangdong",
+        "ru": "Гуандун",
+        "zh": "广东"
+    },
+    "912942": {
+        "en": "Liaoning",
+        "ru": "Ляонин",
+        "zh": "辽宁"
+    },
+    "912999": {
+        "en": "Tianjin",
+        "ru": "Тяньцзинь",
+        "zh": "天津"
+    },
+    "913006": {
+        "de": "Shandong",
+        "en": "Shandong",
+        "ru": "Шаньдун",
+        "zh": "山东"
+    },
+    "913011": {
+        "en": "Anhui",
+        "ru": "Аньхой",
+        "zh": "安徽"
+    },
+    "913012": {
+        "de": "Jiangsu",
+        "en": "Jiangsu",
+        "ru": "Цзянсу",
+        "zh": "江苏"
+    },
+    "913067": {
+        "en": "Shanghai",
+        "ru": "Шанхай",
+        "zh": "上海"
+    },
+    "913068": {
+        "de": "Sichuan",
+        "en": "Sichuan",
+        "ru": "Сычуань",
+        "zh": "四川"
+    },
+    "913100": {
+        "de": "Shaanxi",
+        "en": "Shaanxi",
+        "ru": "Шэньси",
+        "zh": "陕西"
+    },
+    "913101": {
+        "en": "Ningxia Hui",
+        "ru": "Нинся-Хуэйский автономный район",
+        "zh": "宁夏"
+    },
+    "913105": {
+        "de": "Shanxi",
+        "en": "Shanxi",
+        "ru": "Шаньси",
+        "zh": "山西"
+    },
+    "913106": {
+        "de": "Hubei",
+        "en": "Hubei",
+        "ru": "Хубэй",
+        "zh": "湖北"
+    },
+    "913109": {
+        "en": "Jiangxi",
+        "ru": "Цзянси",
+        "zh": "江西"
+    },
+    "913110": {
+        "en": "Hong Kong",
+        "ru": "Гонконг",
+        "zh": "香港"
+    },
+    "937937": {
+        "de": "Verwaltungsregion Ostmakedonien und Thrakien",
+        "en": "East Macedonia and Thrace Periphery",
+        "fr": "Périphérie Macédoine-Orientale-et-Thrace"
+    },
+    "937958": {
+        "de": "Verwaltungsregion Zentralmakedonien",
+        "en": "Central Macedonia Periphery",
+        "fr": "Périphérie Macédoine-Centrale"
+    },
+    "956701": {
+        "de": "Verwaltungsregion Westmakedonien",
+        "en": "West Macedonia Periphery",
+        "es": "Periferia de Macedonia Occidental"
+    },
+    "957716": {
+        "de": "Verwaltungsregion Attika",
+        "en": "Attica Periphery"
+    },
+    "957717": {
+        "de": "Verwaltungsregion Peloponnes",
+        "en": "Peloponnese Periphery",
+        "fr": "Périphérie du Péloponnèse",
+        "ru": "Пелопоннес"
+    },
+    "957830": {
+        "de": "Verwaltungsregion Ionische Inseln",
+        "en": "Ionian Islands Periphery",
+        "fr": "Périphérie des Îles-Ioniennes"
+    },
+    "958236": {
+        "de": "Verwaltungsregion Thessalien",
+        "en": "Thessaly Periphery"
+    },
+    "958517": {
+        "de": "Verwaltungsregion Nördliche Ägäis",
+        "en": "North Aegean Periphery",
+        "it": "Regione amministrativa Egeo Settentrionale"
+    },
+    "966958": {
+        "de": "Distrikt Utenen",
+        "ru": "Утенский уезд"
+    },
+    "974211": {
+        "de": "Distrikt Marijampolė"
+    },
+    "977317": {
+        "de": "Distrikt Vilnius",
+        "ru": "Вильнюсский уезд"
+    },
+    "1015996": {
+        "en": "Alborz"
+    },
+    "1028503": {
+        "de": "Distrikt Ponewiesch",
+        "ru": "Паневежский уезд"
+    },
+    "1069509": {
+        "de": "Distrikt Kaunas",
+        "ru": "Каунасский уезд"
+    },
+    "1076930": {
+        "de": "Distrikt Alytus",
+        "ru": "Али́тусский уе́зд"
+    },
+    "1154756": {
+        "ar": "سبتة",
+        "ru": "Се́ута",
+        "zh": "休达"
+    },
+    "1154757": {
+        "ar": "مليلية",
+        "ru": "Мели́лья",
+        "zh": "梅利利亚"
+    },
+    "1189583": {
+        "de": "Distrikt Memel",
+        "ru": "Клайпедский уезд"
+    },
+    "1216720": {
+        "de": "Besondere Gemeinde",
+        "en": "Caribbean Netherlands",
+        "es": "Países Baixos Caribenhos",
+        "fr": "Pays-Bas carribéens",
+        "ru": "Кари́бские Нидерла́нды"
+    },
+    "1211025": {
+        "de": "Bezirk Telsche",
+        "ru": "Тельшяйский уезд"
+    },
+    "1251542": {
+        "en": "Naryn",
+        "ru": "Нарынская область"
+    },
+    "1256237": {
+        "de": "Bezirk Schaulen",
+        "ru": "Шяуляйский уезд"
+    },
+    "1259885": {
+        "ru": "Майотта"
+    },
+    "1260551": {
+        "en": "French Guiana",
+        "fr": "Guyane"
+    },
+    "1279074": {
+        "de": "Wojwodina",
+        "en": "Vojvodina",
+        "es": "Voivodina"
+    },
+    "1288730": {
+        "de": "Gebiet Qostanai",
+        "en": "Kostanay Province",
+        "ru": "Костанайская область"
+    },
+    "1293250": {
+        "de": "Taipeh",
+        "en": "Taipei City",
+        "zh": "台北市"
+    },
+    "1303962": {
+        "de": "Amazonas",
+        "en": "Amazonas"
+    },
+    "1307305": {
+        "ru": "Таурагский уезд"
+    },
+    "1319935": {
+        "de": "Region Mitteljütland"
+    },
+    "1319978": {
+        "de": "Region Süddänemark"
+    },
+    "1319936": {
+        "de": "Region Nordjütland"
+    },
+    "1320608": {
+        "de": "Hauptstadtregion",
+        "en": "Capital Region of Denmark",
+        "es": "Región Capital"
+    },
+    "1375620": {
+        "de": "Nordbezirk",
+        "en": "North District",
+        "es": "Distrito Norte",
+        "fr": "District nord",
+        "it": "Distretto Nord",
+        "ru": "Северный округ"
+    },
+    "1384720": {
+        "de": "Bezirk Jerusalem",
+        "en": "Jerusalem District",
+        "es": "Distrito de Jerusalén",
+        "fr": "District de Jérusalem",
+        "it": "Distretto di Gerusalemme",
+        "ru": "Иерусалимский округ"
+    },
+    "1400916": {
+        "de": "Bezirk Tel Aviv",
+        "en": "Tel Aviv District",
+        "es": "Distrito de Tel Aviv",
+        "fr": "District de Tel Aviv",
+        "it": "Distretto di Tel Aviv",
+        "ru": "Тель-Авивский округ"
+    },
+    "1400928": {
+        "de": "Zentralbezirk",
+        "en": "Center District",
+        "es": "Distrito Central",
+        "fr": "District centre",
+        "it": "Distretto Centrale",
+        "ru": "Центральный округ"
+    },
+    "1400966": {
+        "de": "Bezirk Haifa",
+        "en": "Haifa District",
+        "es": "Distrito de Haifa",
+        "fr": "District de Haïfa",
+        "it": "Distretto di Haifa",
+        "ru": "Хайфский округ"
+    },
+    "1401835": {
+        "en": "Guadeloupe",
+        "fr": "Guadeloupe"
+    },
+    "1401925": {
+        "en": "Territory of the French Southern and Antarctic Lands"
+    },
+    "1434950": {
+        "ar": "ولاية قبلي",
+        "en": "Kebili Governorate",
+        "fr": "gouvernorat de Kébili"
+    },
+    "1434949": {
+        "ar": "ولاية القصرين",
+        "en": "Kasserine Governorate",
+        "fr": "gouvernorat de Kasserine"
+    },
+    "1434951": {
+        "ar": "ولاية قفصة",
+        "en": "Gafsa Governorate",
+        "fr": "gouvernorat de Gafsa"
+    },
+    "1434952": {
+        "ar": "ولاية مدنين‎",
+        "en": "Medenine Governorate",
+        "fr": "gouvernorat de Medenine"
+    },
+    "1434953": {
+        "ar": "ولاية تطاوين",
+        "en": "Tataouine Governorate",
+        "fr": "gouvernorat de Tataouine"
+    },
+    "1434954": {
+        "ar": "ولاية المنستير‎",
+        "en": "Monastir Governorate",
+        "fr": "gouvernorat de Monastir"
+    },
+    "1434955": {
+        "ar": "ولاية المهدية‎",
+        "en": "Mahdia Governorate",
+        "fr": "gouvernorat de Mahdia"
+    },
+    "1434956": {
+        "ar": "ولاية قابس‎",
+        "en": "Gabès Governorate",
+        "fr": "gouvernorat de Gabès"
+    },
+    "1434957": {
+        "ar": "ولاية صفاقس",
+        "en": "Sfax Governorate",
+        "fr": "gouvernorat de Sfax"
+    },
+    "1435825": {
+        "ar": "ولاية نابل‎",
+        "en": "Nabeul Governorate",
+        "fr": "gouvernorat de Nabeul"
+    },
+    "1435826": {
+        "ar": "ولاية توزر‎",
+        "en": "Tozeur Governorate",
+        "fr": "gouvernorat de Tozeur"
+    },
+    "1435827": {
+        "ar": "ولاية بنزرت",
+        "en": "Bizerte Governorate",
+        "fr": "gouvernorat de Bizerte"
+    },
+    "1435829": {
+        "ar": "ولاية سليانة‎",
+        "en": "Siliana Governorate",
+        "fr": "gouvernorat de Siliana"
+    },
+    "1435830": {
+        "ar": "ولاية أريانة‎",
+        "en": "Ariana Governorate",
+        "fr": "gouvernorat de Ariana"
+    },
+    "1435831": {
+        "ar": "ولاية سيدي بوزيد",
+        "en": "Sidi Bouzid Governorate",
+        "fr": "gouvernorat de Sidi Bouzid"
+    },
+    "1435832": {
+        "ar": "ولاية القيروان‎",
+        "en": "Kairouan Governorate",
+        "fr": "gouvernorat de Kairouan"
+    },
+    "1435833": {
+        "ar": "ولاية باجة‎",
+        "en": "Beja Governorate",
+        "fr": "gouvernorat de Beja"
+    },
+    "1435834": {
+        "ar": "ولاية الكاف‎",
+        "en": "Jendouba Governorate",
+        "fr": "gouvernorat de Jendouba"
+    },
+    "1435836": {
+        "ar": "ولاية بن عروس‎",
+        "en": "Ben Arous Governorate",
+        "fr": "gouvernorat de Ben Arous"
+    },
+    "1435837": {
+        "ar": "ولاية زغوان‎",
+        "en": "Zaghouan Governorate",
+        "fr": "gouvernorat de Zaghouan"
+    },
+    "1435838": {
+        "ar": "ولاية الكاف‎",
+        "en": "Kef Governorate",
+        "fr": "gouvernorat de Kef"
+    },
+    "1473952": {
+        "de": "Südbezirk",
+        "en": "South District",
+        "es": "Distrito Meridional",
+        "fr": "District sud",
+        "it": "Distretto Sud"
+    },
+    "1574364": {
+        "en": "Sevastopol",
+        "ru": "Севастополь"
+    },
+    "1592819": {
+        "fr": "Tanger-Tétouan"
+    },
+    "1600798": {
+        "ru": "Мтвара"
+    },
+    "1609815": {
+        "ru": "Бафин"
+    },
+    "1614020": {
+        "en": "Zanzibar South & Central"
+    },
+    "1614021": {
+        "en": "North Pemba"
+    },
+    "1614022": {
+        "en": "Zanzibar North"
+    },
+    "1614023": {
+        "en": "Zanzibar Urban\/West"
+    },
+    "1614028": {
+        "en": "South Pemba"
+    },
+    "1625171": {
+        "ru": "Канелонес"
+    },
+    "1628150": {
+        "en": "Galápagos Province"
+    },
+    "1634207": {
+        "ru": "Монтевидео"
+    },
+    "1635164": {
+        "ru": "Флорида"
+    },
+    "1658166": {
+        "de": "Zentralserbien",
+        "en": "Central Serbia",
+        "ru": "Центральная Сербия"
+    },
+    "1670973": {
+        "en": "Bukhara Province",
+        "ru": "Бухарская область"
+    },
+    "1670974": {
+        "en": "Qashqadaryo Province",
+        "ru": "Кашкадарьинская область"
+    },
+    "1674535": {
+        "ar": "ولاية بدخشان",
+        "de": "Badachschan",
+        "es": "Provincia de Badajshán",
+        "fr": "Badakhchan",
+        "ru": "Бадахшан",
+        "zh": "巴达赫尚省"
+    },
+    "1674800": {
+        "ru": "Джаузджан провинция"
+    },
+    "1674814": {
+        "ru": "Фарьяб провинция"
+    },
+    "1685673": {
+        "de": "Glarus",
+        "fr": "Glaris",
+        "it": "Glarona"
+    },
+    "1685677": {
+        "de": "Luzern",
+        "fr": "Lucerne",
+        "it": "Lucerna"
+    },
+    "1686344": {
+        "ar": "برن",
+        "de": "Bern",
+        "es": "Berna",
+        "fr": "Berne",
+        "it": "Berna",
+        "ru": "Берн",
+        "zh": "伯尔尼"
+    },
+    "1686359": {
+        "de": "Aargau",
+        "en": "Argovia",
+        "fr": "Argovie",
+        "it": "Argovia"
+    },
+    "1686366": {
+        "de": "Basel-Landschaft",
+        "fr": "Bâle-Campagne",
+        "it": "Basilea Campagna"
+    },
+    "1686447": {
+        "de": "Zug",
+        "fr": "Zoug",
+        "it": "Zugo"
+    },
+    "1686448": {
+        "de": "Obwalden",
+        "fr": "Obwald",
+        "it": "Obvaldo"
+    },
+    "1686449": {
+        "de": "Nidwalden",
+        "fr": "Nidwald",
+        "it": "Nidvaldo"
+    },
+    "1686631": {
+        "de": "Graubünden",
+        "es": "Grisones",
+        "fr": "Grisons",
+        "it": "Grigioni"
+    },
+    "1686649": {
+        "de": "Appenzell Ausserrhoden",
+        "fr": "Appenzell Rhodes-Extérieures",
+        "it": "Appenzello Esterno"
+    },
+    "1686666": {
+        "de": "Appenzell Innerrhoden",
+        "fr": "Appenzell Rhodes-Intérieures",
+        "it": "Appenzello Interno"
+    },
+    "1686699": {
+        "de": "Wallis",
+        "fr": "Valais",
+        "it": "Vallese"
+    },
+    "1687006": {
+        "de": "St. Gallen",
+        "fr": "Saint-Gall",
+        "it": "San Gallo",
+        "ru": "Санкт-Галлен"
+    },
+    "1687730": {
+        "de": "Tessin",
+        "es": "Tessino",
+        "fr": "Tessin",
+        "it": "Ticino",
+        "ru": "Тичино"
+    },
+    "1688583": {
+        "de": "Schwyz",
+        "fr": "Schwyz",
+        "it": "Svitto"
+    },
+    "1690227": {
+        "de": "Zürich",
+        "en": "Zurich",
+        "fr": "Zurich",
+        "it": "Zurigo",
+        "ru": "Цюрих"
+    },
+    "1693811": {
+        "de": "Thurgau",
+        "fr": "Thurgovie",
+        "it": "Turgovia"
+    },
+    "1693971": {
+        "de": "Uri",
+        "fr": "Uri",
+        "it": "Uri",
+        "ru": "Ури"
+    },
+    "1696112": {
+        "de": "Schaffhausen",
+        "fr": "Schaffhouse",
+        "it": "Sciaffusa"
+    },
+    "1697347": {
+        "de": "Jura",
+        "en": "Jura",
+        "fr": "Jura",
+        "it": "Giura",
+        "ru": "Юра"
+    },
+    "1698314": {
+        "de": "Freiburg",
+        "fr": "Fribourg",
+        "it": "Friburgo"
+    },
+    "1699032": {
+        "ru": "Гагаузия"
+    },
+    "1699639": {
+        "de": "Basel-Stadt",
+        "en": "Basel-City",
+        "fr": "Bâle-Ville",
+        "it": "Basilea Città",
+        "ru": "Базель-Штадт"
+    },
+    "1701133": {
+        "de": "Solothurn",
+        "fr": "Soleure",
+        "it": "Soletta",
+        "ru": "Золотурн"
+    },
+    "1702419": {
+        "ar": "جنيف",
+        "de": "Genf",
+        "en": "Geneva",
+        "es": "Ginebra",
+        "fr": "Genève",
+        "it": "Ginevra",
+        "ru": "Женева",
+        "zh": "日內瓦"
+    },
+    "1702420": {
+        "de": "Neuenburg",
+        "fr": "Neuchâtel",
+        "it": "Neuchâtel"
+    },
+    "1702421": {
+        "de": "Waadt",
+        "fr": "Vaud",
+        "it": "Vaud",
+        "ru": "Bo"
+    },
+    "1707699": {
+        "ar": "أديس أبابا",
+        "en": "Addis Ababa",
+        "es": "Adís Abeba",
+        "fr": "Addis-Abeba",
+        "ru": "Аддис-Абеба",
+        "zh": "亚的斯亚贝巴"
+    },
+    "1759757": {
+        "en": "Wardak",
+        "ru": "Вардак"
+    },
+    "1783980": {
+        "de": "Kalabrien",
+        "en": "Calabria"
+    },
+    "1785276": {
+        "en": "Reunion",
+        "fr": "La Réunion"
+    },
+    "1791324": {
+        "ru": "Сикким",
+        "zh": "锡金邦"
+    },
+    "1854615": {
+        "de": "Havanna",
+        "en": "Havana",
+        "es": "La Habana",
+        "fr": "La Havane",
+        "it": "L'Avana",
+        "ru": "Гавана"
+    },
+    "1854617": {
+        "en": "Pinar del Rio"
+    },
+    "1867188": {
+        "en": "Macau",
+        "ru": "Макао",
+        "zh": "澳門"
+    },
+    "1873533": {
+        "en": "Bac Lieu province"
+    },
+    "1873632": {
+        "en": "Soc Trang province"
+    },
+    "1873490": {
+        "en": "Ca Mau province"
+    },
+    "1873642": {
+        "en": "Tra Vinh province"
+    },
+    "1874249": {
+        "en": "Hau Giang province"
+    },
+    "1874283": {
+        "en": "Can Tho City"
+    },
+    "1874471": {
+        "en": "Kien Giang province"
+    },
+    "1875748": {
+        "en": "An Giang province"
+    },
+    "1875866": {
+        "en": "Dong Thap province"
+    },
+    "1875887": {
+        "en": "Vinh Long province"
+    },
+    "1875968": {
+        "en": "Ben Tre province"
+    },
+    "1876011": {
+        "en": "Tien Giang province"
+    },
+    "1877236": {
+        "en": "Long An province"
+    },
+    "1879515": {
+        "en": "Kon Tum province"
+    },
+    "1884018": {
+        "en": "Gia Lai province"
+    },
+    "1884034": {
+        "en": "Dak Lak province",
+        "ru": "провинция Даклак"
+    },
+    "1884042": {
+        "en": "Dak Nong province"
+    },
+    "1885367": {
+        "en": "Lam Dong province"
+    },
+    "1886159": {
+        "en": "Ninh Thuan province"
+    },
+    "1887959": {
+        "en": "Khanh Hoa province",
+        "ru": "провинция Кханьхоа"
+    },
+    "1889204": {
+        "en": "Phu Yen province",
+        "ru": "провинция Фуйен"
+    },
+    "1889794": {
+        "en": "Binh Dinh province"
+    },
+    "1890793": {
+        "en": "Quang Ngai province"
+    },
+    "1891352": {
+        "en": "Quang Nam province"
+    },
+    "1891418": {
+        "en": "Da Nang"
+    },
+    "1891483": {
+        "en": "Thua Thien"
+    },
+    "1891495": {
+        "en": "Martinique",
+        "fr": "Martinique"
+    },
+    "1895630": {
+        "en": "Quang Tri province"
+    },
+    "1896050": {
+        "en": "Quang Binh province"
+    },
+    "1898458": {
+        "en": "Ha Tinh province"
+    },
+    "1898509": {
+        "en": "Nghe An province"
+    },
+    "1898590": {
+        "en": "Thanh Hoa province"
+    },
+    "1898841": {
+        "en": "Binh Phuoc province"
+    },
+    "1898961": {
+        "en": "Tay Ninh province"
+    },
+    "1901008": {
+        "en": "Nam Dinh province"
+    },
+    "1901010": {
+        "en": "Ha Nam province"
+    },
+    "1900963": {
+        "en": "Ninh Binh province"
+    },
+    "1901019": {
+        "en": "Thai Binh province"
+    },
+    "1901032": {
+        "en": "Hung Yen province"
+    },
+    "1902682": {
+        "en": "Hai Phong"
+    },
+    "1902686": {
+        "en": "Hai Duong province"
+    },
+    "1902690": {
+        "en": "Bac Ninh province"
+    },
+    "1902930": {
+        "en": "Phu Tho province"
+    },
+    "1902889": {
+        "en": "Vinh Phuc province"
+    },
+    "1902941": {
+        "en": "Bac Giang province"
+    },
+    "1902947": {
+        "en": "Quang Ninh province"
+    },
+    "1902967": {
+        "en": "Thai Nguyen province"
+    },
+    "1902973": {
+        "en": "Hoa Binh province"
+    },
+    "1903199": {
+        "en": "Yen Bai province"
+    },
+    "1903291": {
+        "en": "Son La province"
+    },
+    "1903322": {
+        "en": "Lai Chau province"
+    },
+    "1903400": {
+        "en": "Lao Cai province"
+    },
+    "1903471": {
+        "en": "Bac Kan province"
+    },
+    "1903418": {
+        "en": "Tuyen Quang province"
+    },
+    "1903478": {
+        "en": "Ha Giang province"
+    },
+    "1903516": {
+        "en": "Hanoi"
+    },
+    "1904231": {
+        "en": "Binh Thuan province"
+    },
+    "1904296": {
+        "en": "Ba Ria"
+    },
+    "1904421": {
+        "en": "Dong Nai province"
+    },
+    "1906037": {
+        "en": "Binh Duong province"
+    },
+    "1908771": {
+        "en": "Chiang Mai"
+    },
+    "1908778": {
+        "en": "Khon Kaen Province"
+    },
+    "1925819": {
+        "en": "Nong Bua Lamphu Province"
+    },
+    "1942586": {
+        "de": "Nationales Hauptstadtterritorium Delhi",
+        "en": "Delhi"
+    },
+    "1960177": {
+        "ar": "بنغال الغربية",
+        "de": "Westbengalen",
+        "es": "Bengala Occidental",
+        "fr": "Bengale-Occidental",
+        "it": "Bengala Occidentale",
+        "ru": "Западная Бенгалия",
+        "zh": "西孟加拉邦"
+    },
+    "1973756": {
+        "de": "Ho-Chi-Minh-Stadt",
+        "en": "Ho Chi Minh City",
+        "es": "Ciudad Ho Chi Minh",
+        "fr": "Hô-Chi-Minh-Ville"
+    },
+    "1995970": {
+        "de": "Autonome Republik Adscharien",
+        "en": "Autonomous Republic of Adjara",
+        "ru": "Аджарская Автономная Республика"
+    },
+    "1995971": {
+        "de": "Gurien",
+        "ru": "Гурия"
+    },
+    "1996031": {
+        "de": "Samzche-Dschawachetien",
+        "ru": "Самцхе-Джавахети"
+    },
+    "1996871": {
+        "de": "Tiflis",
+        "ru": "Тбилиси"
+    },
+    "1996076": {
+        "de": "Mingrelien-Oberswanetien",
+        "en": "Samegrelo-Upper Svaneti",
+        "ru": "Мегрелия"
+    },
+    "1997284": {
+        "de": "Ratscha-Letschchumien und Niederswanetien",
+        "en": "Racha-Lechkhumi and Lower Svaneti",
+        "ru": "Рача-Лечхуми и Нижняя Сванетия"
+    },
+    "1997289": {
+        "de": "Imeretien",
+        "ru": "Имеретия"
+    },
+    "2000040": {
+        "de": "Innerkartlien",
+        "en": "Inner Kartli",
+        "ru": "Внутренняя Картлия"
+    },
+    "2000090": {
+        "de": "Mzcheta-Mtianeti",
+        "ru": "Мцхета-Мтианетия"
+    },
+    "2000091": {
+        "de": "Kachetien",
+        "ru": "Кахетия"
+    },
+    "2000092": {
+        "de": "Niederkartlien",
+        "en": "Lower Kartli",
+        "ru": "Нижняя Картлия"
+    },
+    "2025886": {
+        "en": "Assam"
+    },
+    "2060170": {
+        "de": "Bengasi"
+    },
+    "2095259": {
+        "ru": "Тверская область"
+    },
+    "2096902": {
+        "de": "Timbuktu"
+    },
+    "2099216": {
+        "de": "Oblast Murmansk",
+        "en": "Murmansk Oblast",
+        "es": "Óblast de Múrmansk",
+        "fr": "Oblast de Mourmansk",
+        "ru": "Мурманская область"
+    },
+    "2104170": {
+        "en": "North-West District"
+    },
+    "2127079": {
+        "en": "Kaohsiung City",
+        "zh": "高雄市"
+    },
+    "2105525": {
+        "en": "Bamako District"
+    },
+    "2128285": {
+        "en": "Hainan",
+        "ru": "Хайнань",
+        "zh": "海南省"
+    },
+    "2145268": {
+        "de": "Bayern",
+        "en": "Free State of Bavaria",
+        "es": "Baviera",
+        "fr": "Bavière",
+        "ru": "Бавария"
+    },
+    "2190479": {
+        "ar": "الاستوائية الوسطى",
+        "de": "Zentral-Äquatoria"
+    },
+    "2190480": {
+        "ar": "البحيرات",
+        "de": "Seen"
+    },
+    "2190481": {
+        "ar": "جونقلي",
+        "de": "Jonglei"
+    },
+    "2190482": {
+        "ar": "شرق الاستوائية",
+        "de": "Ost-Äquatoria"
+    },
+    "2190483": {
+        "ar": "غرب الاستوائية",
+        "de": "West-Äquatoria"
+    },
+    "2190518": {
+        "de": "Obernil"
+    },
+    "2190521": {
+        "de": "Warrap"
+    },
+    "2195081": {
+        "fr": "Atlántico Sur",
+        "it": "Regione Autonoma Atlantico Sud",
+        "ru": "Атлантический Южный",
+        "zh": "南大西洋自治區"
+    },
+    "2200024": {
+        "en": "Kep"
+    },
+    "2200301": {
+        "en": "Ratanikiri"
+    },
+    "2200456": {
+        "en": "Kratie"
+    },
+    "2216724": {
+        "de": "Taschkent",
+        "en": "Tashkent",
+        "es": "Taskent",
+        "fr": "Tachkent",
+        "it": "Tashkent",
+        "ru": "Ташкент"
+    },
+    "2232180": {
+        "en": "East Azerbaijan"
+    },
+    "2269815": {
+        "en": "Amazonas State",
+        "es": "Estado Amazonas"
+    },
+    "2297418": {
+        "de": "Seoul",
+        "en": "Seoul",
+        "es": "Seúl",
+        "fr": "Séoul",
+        "it": "Seul",
+        "ru": "Сеул"
+    },
+    "2297419": {
+        "en": "Incheon"
+    },
+    "2301441": {
+        "en": "Svay Rieng"
+    },
+    "2304454": {
+        "de": "Gyeongsangbuk-do",
+        "en": "Gyeongsangbuk-do",
+        "es": "Gyeongsang del Norte",
+        "fr": "Gyeongsang du Nord",
+        "it": "Nord Gyeongsang",
+        "ru": "Кёнсан-Пукто",
+        "zh": "庆尚北道"
+    },
+    "2306392": {
+        "de": "Gyeonggi-do",
+        "en": "Gyeonggi-do",
+        "es": "Gyeonggi",
+        "fr": "Gyeonggi",
+        "it": "Gyeonggi",
+        "ru": "Кёнгидо",
+        "zh": "京畿道"
+    },
+    "2308426": {
+        "de": "Gangwon-do",
+        "en": "Gangwon-do",
+        "es": "Gangwon",
+        "fr": "Gangwon",
+        "it": "Gangwon",
+        "ru": "Канвондо",
+        "zh": "江原道"
+    },
+    "2327258": {
+        "de": "Chungcheongbuk-do",
+        "en": "Chungcheongbuk-do",
+        "es": "Chungcheong del Norte",
+        "fr": "Chungcheong du Nord",
+        "it": "Nord Chungcheong",
+        "ru": "Чхунчхон-Пукто",
+        "zh": "忠清北道"
+    },
+    "2327259": {
+        "de": "Chungcheongnam-do",
+        "en": "Chungcheongnam-do",
+        "es": "Chungcheong del Sur",
+        "fr": "Chungcheong du Sud",
+        "it": "Sud Chungcheong",
+        "ru": "Чхунчхон-Намдо",
+        "zh": "忠清南道"
+    },
+    "2349795": {
+        "de": "Sejong",
+        "en": "Sejong",
+        "es": "Ciudad de Sejong",
+        "fr": "Sejong",
+        "it": "Città di Sejong",
+        "ru": "Сечжон",
+        "zh": "世宗特別自治市"
+    },
+    "2349984": {
+        "ar": "دايجيون",
+        "de": "Daejeon",
+        "en": "Daejeon",
+        "es": "Daejeon",
+        "fr": "Daejeon",
+        "it": "Daejeon",
+        "ru": "Тэджон",
+        "zh": "大田广域市"
+    },
+    "2355168": {
+        "de": "Jeollabuk-do",
+        "en": "Jeollabuk-do",
+        "es": "Jeolla del Norte",
+        "fr": "Jeolla du Nord",
+        "it": "Nord Jeolla",
+        "ru": "Чолла-Пукто",
+        "zh": "全羅北道"
+    },
+    "2379566": {
+        "de": "Nachitschewan",
+        "en": "Nakhchivan",
+        "ru": "Нахичевань"
+    },
+    "2390842": {
+        "de": "Süd-Sumatra",
+        "en": "South Sumatra"
+    },
+    "2393403": {
+        "de": "Gyeongsangnam-do",
+        "en": "Gyeongsangnam-do",
+        "es": "Gyeongsang del Sur",
+        "fr": "Gyeongsang du Sud",
+        "it": "Sud Gyeongsang",
+        "ru": "Кёнсан-Намдо",
+        "zh": "庆尚南道"
+    },
+    "2395867": {
+        "ar": "أولسان",
+        "de": "Ulsan",
+        "en": "Ulsan",
+        "es": "Ulsan",
+        "fr": "Ulsan",
+        "it": "Ulsan",
+        "ru": "Ульсан",
+        "zh": "蔚山广域市"
+    },
+    "2395674": {
+        "ar": "ديغو",
+        "de": "Daegu",
+        "en": "Daegu",
+        "es": "Daegu",
+        "fr": "Daegu",
+        "it": "Daegu",
+        "ru": "Тэгу",
+        "zh": "大邱廣域市"
+    },
+    "2396450": {
+        "ar": "بسان",
+        "de": "Busan",
+        "en": "Busan",
+        "es": "Busan",
+        "fr": "Busan",
+        "it": "Busan",
+        "ru": "Пусан",
+        "zh": "釜山廣域市"
+    },
+    "2398104": {
+        "de": "Jeollanam-do",
+        "en": "Jeollanam-do",
+        "es": "Jeolla del Sur",
+        "fr": "Jeolla du Sud",
+        "it": "Sud Jeolla",
+        "ru": "Чолла-Намдо",
+        "zh": "全羅南道"
+    },
+    "2398560": {
+        "ar": "مقاطعة جيجو",
+        "de": "Jeju-do",
+        "en": "Jeju-do",
+        "es": "Jeju",
+        "fr": "Jeju",
+        "it": "Jeju-do",
+        "ru": "Чеджудо",
+        "zh": "濟州特別自治道"
+    },
+    "2399220": {
+        "ar": "غوانغجو",
+        "de": "Gwangju",
+        "en": "Gwangju",
+        "es": "Gwangju",
+        "fr": "Gwangju",
+        "it": "Gwangju",
+        "ru": "Кванджу",
+        "zh": "光州廣域市"
+    },
+    "2418506": {
+        "en": "Tainan City",
+        "zh": "台南市"
+    },
+    "2502058": {
+        "en": "French Guiana",
+        "es": "Guayana Francesa",
+        "ru": "Французская Гвиана"
+    },
+    "2522303": {
+        "ar": "المحافظة الشمالية",
+        "en": "Northern Governorate"
+    },
+    "2522430": {
+        "ar": "المحافظة الجنوبية",
+        "en": "Southern Governorate"
+    },
+    "2522469": {
+        "ar": "المحافظة الوسطى",
+        "en": "Central Governorate"
+    },
+    "2528143": {
+        "en": "Brcko district of Bosnia and Herzegowina"
+    },
+    "2528144": {
+        "de": "Entitat Föderation Bosnien und Herzegowina",
+        "en": "Entity Federation of Bosnia and Herzegovina"
+    },
+    "2528145": {
+        "de": "Entitat Serbische Republik",
+        "en": "Entity Republika Srpska"
+    },
+    "2556680": {
+        "ru": "Табаско"
+    },
+    "2568834": {
+        "ru": "Кампече"
+    },
+    "2589611": {
+        "de": "Süd-Niederkalifornien",
+        "en": "South Lower California",
+        "ru": "Южная Калифорния"
+    },
+    "2679957": {
+        "en": "Chiba"
+    },
+    "2682940": {
+        "en": "Ibaraki"
+    },
+    "2689487": {
+        "en": "Kanagawa"
+    },
+    "2744350": {
+        "en": "Sud Department"
+    },
+    "2793215": {
+        "es": "Annobón",
+        "fr": "Annobon"
+    },
+    "2793216": {
+        "es": "Bioko Norte",
+        "fr": "Bioko Nord"
+    },
+    "2793217": {
+        "es": "Bioko Sur",
+        "fr": "Bioko Sud"
+    },
+    "2803879": {
+        "fr": "Alibori"
+    },
+    "2803880": {
+        "fr": "Borgou"
+    },
+    "1703814": {
+        "de": "Staat Palästina",
+        "en": "State of Palestine",
+        "es": "Estado de Palestina",
+        "fr": "l’État de Palestine",
+        "ru": "Государство Палестина"
+    },
+    "148838": {
+        "ar": "الولايات المتّحدة الأمريكيّة",
+        "de": "Vereinigte Staaten von Amerika",
+        "en": "United States of America",
+        "es": "Estados Unidos de América",
+        "fr": "États-Unis d'Amérique",
+        "it": "Stati Uniti d'America",
+        "ru": "Соединённые Штаты Америки",
+        "zh": "美利坚合众国"
+    },
+    "153310": {
+        "en": "Xinjiang",
+        "ru": "Синьцзян-Уйгурский автономный район",
+        "zh": "新疆"
+    },
+    "153314": {
+        "de": "Gansu",
+        "en": "Gansu",
+        "ru": "Ганьсу",
+        "zh": "甘肅"
+    },
+    "161349": {
+        "en": "Inner Mongolia",
+        "fr": "Mongolie-Intérieure",
+        "ru": "Внутренняя Монголия",
+        "zh": "内蒙古"
+    },
+    "199073": {
+        "en": "Heilongjiang",
+        "ru": "Хэйлунцзян",
+        "zh": "黑龙江省"
+    },
+    "237518": {
+        "en": "Kachin"
+    },
+    "237815": {
+        "en": "Yangon"
+    },
+    "237855": {
+        "en": "Ayeyarwady"
+    },
+    "270051": {
+        "de": "Ömnö-Gobi",
+        "en": "Ömnögovi"
+    },
+    "358004": {
+        "de": "Stammesgebiete unter Bundesverwaltung",
+        "en": "Federally Administered Tribal Areas"
+    },
+    "537693": {
+        "en": "Sistan and Baluchestan",
+        "ru": "Систан и Белуджистан"
+    },
+    "1116270": {
+        "ru": "Аляска"
+    },
+    "1435835": {
+        "ar": "ولاية تونس",
+        "en": "Tunis Governorate",
+        "fr": "gouvernorat de Tunis"
+    },
+    "1580811": {
+        "en": "South Sulawesi Coastline"
+    },
+    "1844412": {
+        "en": "Cao Bang province",
+        "zh": "高平省"
+    },
+    "1902951": {
+        "en": "Lang Son province"
+    },
+    "2390841": {
+        "de": "West-Sumatra",
+        "en": "West Sumatra"
+    },
+    "278746": {
+        "en": "Leinster"
+    },
+    "278750": {
+        "en": "Munster"
+    },
+    "22238": {
+        "ru": "Зала"
+    },
+    "22259": {
+        "ru": "Пешт"
+    },
+    "22255": {
+        "ru": "Фейер"
+    },
+    "22260": {
+        "ru": "Бач-Кишкун"
+    },
+    "22267": {
+        "ru": "Хайду-Бихар"
+    },
+    "22271": {
+        "ru": "Боршод-Абауй-Земплен"
+    },
+    "58983": {
+        "ru": "Муниципий Бельцы"
+    },
+    "58984": {
+        "ru": "Фалештский район"
+    },
+    "58985": {
+        "ru": "Унгенский район"
+    },
+    "58988": {
+        "ru": "Каларашский район"
+    },
+    "58990": {
+        "ru": "Ниспоренский район"
+    },
+    "58991": {
+        "ru": "Хынчештский район"
+    },
+    "58993": {
+        "ru": "Теленештский район"
+    },
+    "58996": {
+        "ru": "Сынжерейский район"
+    },
+    "59000": {
+        "ru": "Единецкий район"
+    },
+    "59002": {
+        "ru": "Бричанский район"
+    },
+    "59005": {
+        "ru": "Окницкий район"
+    },
+    "59007": {
+        "ru": "Дондюшанский район"
+    },
+    "65343": {
+        "ru": "Каушанский район"
+    },
+    "65344": {
+        "ru": "Штефан-Водский район"
+    },
+    "85827": {
+        "ru": "Страшенский район"
+    },
+    "93906": {
+        "de": "Windau",
+        "ru": "Вентспилс"
+    },
+    "222646": {
+        "ru": "Осиецко-Бараньская жупания"
+    },
+    "222649": {
+        "de": "Gespanschaft Vukovar-Srijem",
+        "ru": "Вуковарско-Сремская жупания"
+    },
+    "222861": {
+        "de": "Gespanschaft Brod-Posavina",
+        "it": "Regione di Brod e della Posavina",
+        "ru": "Бродско-Посавская жупания"
+    },
+    "222869": {
+        "ru": "Вировитицко-Подравская жупания"
+    },
+    "222870": {
+        "ru": "Пожежско-Славонская жупания"
+    },
+    "224139": {
+        "ru": "Сисацко-Мославинская жупания"
+    },
+    "224165": {
+        "ru": "Беловарско-Билогорская жупания"
+    },
+    "224183": {
+        "ru": "Меджимурская жупания"
+    },
+    "226209": {
+        "de": "Gespanschaft Kopreinitz-Kreutz",
+        "ru": "Копривницко-Крижевацкая жупания"
+    },
+    "226210": {
+        "ru": "Вараждинская жупания"
+    },
+    "226223": {
+        "ru": "Крапинско-Загорская жупания"
+    },
+    "226224": {
+        "de": "Stadt Zagreb",
+        "ru": "Город Загреб"
+    },
+    "226241": {
+        "de": "Gespanschaft Zagreb",
+        "en": "Zagreb County",
+        "es": "Condado de Zagreb",
+        "fr": "Comitat de Zagreb",
+        "ru": "Загребская жупания"
+    },
+    "226271": {
+        "de": "Gespanschaft Karlstadt",
+        "ru": "Карловацкая жупания"
+    },
+    "226351": {
+        "de": "Gespanschaft Istrien",
+        "it": "Regione istriana",
+        "ru": "Истрийская жупания"
+    },
+    "226452": {
+        "ru": "Приморско-Горанская жупания"
+    },
+    "226465": {
+        "de": "Gespanschaft Lika-Senj",
+        "ru": "Лицко-Сеньская жупания"
+    },
+    "226726": {
+        "de": "Gespanschaft Zadar",
+        "ru": "Задарская жупания"
+    },
+    "226741": {
+        "de": "Gespanschaft Šibenik-Knin",
+        "ru": "Шибенско-Книнская жупания"
+    },
+    "226749": {
+        "de": "Gespanschaft Split-Dalmatien",
+        "ru": "Сплитско-Далматинская жупания"
+    },
+    "226750": {
+        "de": "Gespanschaft Dubrovnik-Neretva",
+        "ru": "Дубровницко-Неретванская жупания"
+    },
+    "285441": {
+        "ru": "Санта-Крус"
+    },
+    "350144": {
+        "ru": "Уезд Сааремаа"
+    },
+    "350303": {
+        "ru": "Уезд Пярнумаа"
+    },
+    "350340": {
+        "ru": "Уезд Хийумаа"
+    },
+    "350424": {
+        "ru": "Уезд Ляэнемаа"
+    },
+    "350459": {
+        "de": "Kreis Ost-Wierland",
+        "ru": "Уезд Ида-Вирумаа"
+    },
+    "351063": {
+        "de": "West-Wierland",
+        "ru": "Уезд Ляэне-Вирумаа"
+    },
+    "350585": {
+        "ru": "Уезд Харьюмаа"
+    },
+    "351246": {
+        "de": "Kreis Dorpat",
+        "ru": "Уезд Тартумаа"
+    },
+    "351379": {
+        "ru": "Уезд Валгамаа"
+    },
+    "352454": {
+        "ru": "Уезд Пылвамаа"
+    },
+    "352449": {
+        "ru": "Уезд Вильяндимаа"
+    },
+    "353776": {
+        "de": "Kreis Jerwen",
+        "ru": "Уезд Ярвамаа"
+    },
+    "353779": {
+        "ru": "Уезд Рапламаа"
+    },
+    "354089": {
+        "de": "Kreis Laisholm",
+        "ru": "Уезд Йыгевамаа"
+    },
+    "353812": {
+        "de": "Kreis Werro",
+        "ru": "Уезд Вырумаа"
+    },
+    "435514": {
+        "de": "Hauptstadt Prag",
+        "ru": "Столица Прага"
+    },
+    "442311": {
+        "de": "Südmährische Region",
+        "ru": "Южноморавский край"
+    },
+    "442314": {
+        "de": "Region Karlsbad",
+        "ru": "Карловарский край"
+    },
+    "442397": {
+        "de": "Mittelböhmische Region",
+        "ru": "Среднечешский край"
+    },
+    "442321": {
+        "de": "Südböhmische Region",
+        "ru": "Южночешский край"
+    },
+    "442452": {
+        "de": "Region Aussig",
+        "ru": "Устецкий край"
+    },
+    "442455": {
+        "de": "Region Reichenberg",
+        "ru": "Либерецкий край"
+    },
+    "442453": {
+        "de": "Region Hochland",
+        "ru": "Край Высочина"
+    },
+    "442459": {
+        "de": "Region Olmütz",
+        "en": "Olomouc Region",
+        "ru": "Оломоуцкий край"
+    },
+    "442460": {
+        "de": "Region Pardubitz",
+        "ru": "Пардубицкий край"
+    },
+    "442461": {
+        "de": "Mährisch-Schlesische Region",
+        "ru": "Моравскосилезский край"
+    },
+    "442463": {
+        "de": "Region Königgrätz",
+        "ru": "Краловеградецкий край"
+    },
+    "442466": {
+        "de": "Region Pilsen",
+        "ru": "Пльзенский край"
+    },
+    "1104136": {
+        "ru": "Бессарабский район"
+    },
+    "1211126": {
+        "ru": "Чимишлийский район"
+    },
+    "1300657": {
+        "en": "Stara Zagora Region"
+    },
+    "1435790": {
+        "ru": "Резинский район"
+    },
+    "1437135": {
+        "en": "Varna Region"
+    },
+    "1553735": {
+        "en": "Fukuoka Prefecture"
+    },
+    "1554509": {
+        "ru": "Рига"
+    },
+    "1691800": {
+        "ru": "Яловенский район"
+    },
+    "1691801": {
+        "ru": "Муниципий Кишинёв"
+    },
+    "1692078": {
+        "ru": "Новоаненский район"
+    },
+    "1692126": {
+        "ru": "Криулянский район"
+    },
+    "1692172": {
+        "ru": "Оргеевский район"
+    },
+    "1693523": {
+        "ru": "Сорокский район"
+    },
+    "1693560": {
+        "ru": "Флорештский район"
+    },
+    "1693561": {
+        "ru": "Шолданештский район"
+    },
+    "1693874": {
+        "ru": "Глодянский район"
+    },
+    "1693907": {
+        "ru": "Дрокиевский район"
+    },
+    "1693908": {
+        "ru": "Рышканский район"
+    },
+    "1699022": {
+        "ru": "Кантемирский район"
+    },
+    "1699023": {
+        "ru": "Леовский район"
+    },
+    "1699033": {
+        "ru": "Тараклийский район"
+    },
+    "1699034": {
+        "ru": "Кагульский район"
+    },
+    "1739521": {
+        "en": "Blagoevgrad Region"
+    },
+    "1739523": {
+        "de": "Oblast Burgas",
+        "en": "Burgas Region"
+    },
+    "1739524": {
+        "en": "Veliko Tarnovo Region"
+    },
+    "1739525": {
+        "en": "Vidin Region"
+    },
+    "1739526": {
+        "en": "Vratsa Region"
+    },
+    "1739527": {
+        "en": "Gabrovo Region"
+    },
+    "1739528": {
+        "de": "Oblast Dobritsch",
+        "en": "Dobrich Region"
+    },
+    "1739529": {
+        "en": "Kardzhali Region"
+    },
+    "1739530": {
+        "en": "Kyustendil Region"
+    },
+    "1739531": {
+        "en": "Lovech Region"
+    },
+    "1739532": {
+        "en": "Montana Region"
+    },
+    "1739533": {
+        "en": "Pazardzhik Region"
+    },
+    "1739534": {
+        "en": "Pernik Region"
+    },
+    "1739535": {
+        "en": "Pleven Region"
+    },
+    "1739536": {
+        "en": "Plovdiv Region"
+    },
+    "1739537": {
+        "en": "Razgrad Region"
+    },
+    "1739538": {
+        "en": "Ruse Region"
+    },
+    "1739539": {
+        "en": "Silistra Region"
+    },
+    "1739540": {
+        "en": "Sliven Region"
+    },
+    "1739541": {
+        "en": "Smolyan Region"
+    },
+    "1739542": {
+        "en": "Sofia Region"
+    },
+    "1739543": {
+        "en": "Sofia-City Region"
+    },
+    "1739544": {
+        "en": "Targovishte Region"
+    },
+    "1739545": {
+        "en": "Haskovo Region"
+    },
+    "1739546": {
+        "en": "Shumen Region"
+    },
+    "1739547": {
+        "de": "Oblast Jambol",
+        "en": "Yambol Region"
+    },
+    "1781240": {
+        "ru": "Бабитский край"
+    },
+    "1781249": {
+        "de": "Mitau",
+        "ru": "Елгава"
+    },
+    "1783911": {
+        "de": "Rigastrand",
+        "ru": "Юрмала"
+    },
+    "1788369": {
+        "de": "Dünaburg",
+        "ru": "Даугавпилс"
+    },
+    "1865678": {
+        "ru": "Резекне"
+    },
+    "2019053": {
+        "de": "Libau"
+    },
+    "2021109": {
+        "ru": "Марупский край"
+    },
+    "2279652": {
+        "en": "Kowloon",
+        "zh": "九龍"
+    },
+    "2432321": {
+        "en": "Municiplity of Kisela Voda"
+    },
+    "2432325": {
+        "en": "Municipality of Aerodrom"
+    },
+    "2433366": {
+        "en": "Municipality of Gazi Baba"
+    },
+    "2433475": {
+        "en": "Municipality of Butel"
+    },
+    "2433521": {
+        "en": "Municipality of Chair"
+    },
+    "2433628": {
+        "en": "Municipality of Shuto Orizari"
+    },
+    "2439777": {
+        "en": "Municipality of Centar"
+    },
+    "2440308": {
+        "en": "Municipality of Saraj"
+    },
+    "2440352": {
+        "en": "Municipality of Gjorche Petrov"
+    },
+    "2440380": {
+        "en": "Municipality of Karposh"
+    },
+    "2454874": {
+        "en": "Municipality of Kochani"
+    },
+    "2460481": {
+        "en": "Municipality of Sopishte"
+    },
+    "2460539": {
+        "en": "Municipality of Studenichani"
+    },
+    "2460678": {
+        "en": "Municipality of Zelenikovo"
+    },
+    "2460743": {
+        "en": "Municipality of Petrovec"
+    },
+    "2460762": {
+        "en": "Municipality of Ilinden"
+    },
+    "2460854": {
+        "en": "Municipality of Chucher Sandevo"
+    },
+    "2460855": {
+        "en": "Municipality of Arachinovo"
+    },
+    "2572593": {
+        "en": "Municipality of Lozovo"
+    },
+    "2572599": {
+        "en": "Municipality of Sveti Nikole"
+    },
+    "2575609": {
+        "en": "Municipality of Veles"
+    },
+    "2575972": {
+        "en": "Municipality of Gradsko"
+    },
+    "2576148": {
+        "en": "Municipality of Chashka"
+    },
+    "2577488": {
+        "en": "Municipality of Rosoman"
+    },
+    "2577610": {
+        "en": "Minicipality of Kavadarci"
+    },
+    "2577657": {
+        "en": "Municipality of Negotino"
+    },
+    "2577810": {
+        "en": "Municipality of Demir Kapija"
+    },
+    "2580154": {
+        "en": "Municipality of Shtip"
+    },
+    "2580986": {
+        "en": "Municipality of Karbinci"
+    },
+    "2581655": {
+        "en": "Municipality of Zrnovci"
+    },
+    "2582634": {
+        "en": "Municipality of Probishtip"
+    },
+    "2583425": {
+        "en": "Municipality of Makedonska Kamenica"
+    },
+    "2583460": {
+        "en": "Municipality of Vinica"
+    },
+    "2583474": {
+        "en": "Municipality of Delchevo"
+    },
+    "2583788": {
+        "en": "Municipality of Pehchevo"
+    },
+    "2583831": {
+        "en": "Municipality of Berovo"
+    },
+    "2585376": {
+        "en": "Municipality of Lipkovo"
+    },
+    "2585982": {
+        "en": "Municipality of Kumanovo"
+    },
+    "2586114": {
+        "en": "Municipality of Staro Nagorichane"
+    },
+    "2587448": {
+        "en": "Municipality of Kratovo"
+    },
+    "2587610": {
+        "en": "Municipality of Rankovce"
+    },
+    "2587615": {
+        "en": "Municipality of Kriva Palanka"
+    },
+    "2588938": {
+        "en": "Municipality of Radovish"
+    },
+    "2589047": {
+        "en": "Municipality of Vasilevo"
+    },
+    "2589262": {
+        "en": "Municipality of Konche"
+    },
+    "2589323": {
+        "en": "Municipality of Bosilovo"
+    },
+    "2589373": {
+        "en": "Municipality of Novo Selo"
+    },
+    "2590953": {
+        "en": "Municipality of Valandovo"
+    },
+    "2591087": {
+        "en": "Municipality of Strumica"
+    },
+    "2591259": {
+        "en": "Municipality of Dojran"
+    },
+    "2591417": {
+        "en": "Municipality of Gevgelija"
+    },
+    "2591418": {
+        "en": "Municipality of Bogdanci"
+    },
+    "2592899": {
+        "en": "Municipality of Dolneni"
+    },
+    "2593112": {
+        "en": "Municipality of Prilep"
+    },
+    "2596009": {
+        "en": "Municipality of Krivogashtani"
+    },
+    "2596098": {
+        "en": "Municipality of Krushevo"
+    },
+    "2596099": {
+        "en": "Municipality of Mogila"
+    },
+    "2598190": {
+        "en": "Municipality of Novaci"
+    },
+    "2598353": {
+        "en": "Municipality of Demir Hisar"
+    },
+    "2598354": {
+        "en": "Municipality of Bitola"
+    },
+    "2598355": {
+        "en": "Municipality of Resen"
+    },
+    "2601514": {
+        "en": "Municipality of Ohrid"
+    },
+    "2603059": {
+        "en": "Municipality of Debarca"
+    },
+    "2603187": {
+        "en": "Municipality of Vevchani"
+    },
+    "2603188": {
+        "en": "Municipality of Struga"
+    },
+    "2605589": {
+        "en": "Municipality of Centar Zhupa"
+    },
+    "2605591": {
+        "en": "Municipality of Debar"
+    },
+    "2606600": {
+        "en": "Municipality of Kichevo"
+    },
+    "2608063": {
+        "en": "Municipality of Plasnica"
+    },
+    "2608091": {
+        "en": "Municipality of Makedonski Brod"
+    },
+    "2608570": {
+        "en": "Municipality of Jegunovce"
+    },
+    "2615107": {
+        "en": "Municipality of Zhelino"
+    },
+    "2615128": {
+        "en": "Municiplaity of Tearce"
+    },
+    "2615182": {
+        "en": "Municipality of Tetovo"
+    },
+    "2615505": {
+        "en": "Municipality of Brvenica"
+    },
+    "2615507": {
+        "en": "Municipality of Bogovinje"
+    },
+    "2615539": {
+        "en": "Municipality of Vrapchishte"
+    },
+    "2615530": {
+        "en": "Municipality of Gostivar"
+    },
+    "2615675": {
+        "en": "Municipality of Mavrovo and Rostusha"
+    },
+    "357112": {
+        "en": "Fukui Prefecture"
+    },
+    "1851649": {
+        "en": "Gunma"
+    },
+    "2137477": {
+        "en": "Kyoto Prefecture"
+    },
+    "59195": {
+        "en": "Minsk",
+        "ru": "Минск"
+    },
+    "356992": {
+        "en": "Fukuchiyama"
+    },
+    "358674": {
+        "en": "Osaka"
+    },
+    "541301": {
+        "de": "Grafenwarth"
+    },
+    "541496": {
+        "de": "Laserbach"
+    },
+    "722201": {
+        "en": "Takashima"
+    },
+    "812080": {
+        "en": "Taga",
+        "ru": "Тага"
+    },
+    "900262": {
+        "en": "Sasayama"
+    },
+    "900267": {
+        "en": "Inagawa"
+    },
+    "900278": {
+        "en": "Ichikawa"
+    },
+    "901520": {
+        "en": "Amagasaki"
+    },
+    "1224652": {
+        "en": "Autonomous City of Buenos Aires"
+    },
+    "1675593": {
+        "de": "Kronau"
+    },
+    "1675608": {
+        "de": "Neumarktl"
+    },
+    "1675609": {
+        "de": "Scheraunitz"
+    },
+    "1675621": {
+        "de": "Seeland"
+    },
+    "1675660": {
+        "de": "Veldes"
+    },
+    "1675676": {
+        "de": "Krainburg"
+    },
+    "1675677": {
+        "de": "Naklas"
+    },
+    "1675775": {
+        "de": "Wochein"
+    },
+    "1675838": {
+        "de": "Eisern"
+    },
+    "1675858": {
+        "de": "Bischoflack"
+    },
+    "1675861": {
+        "de": "Sankt Georgen"
+    },
+    "1676290": {
+        "de": "Unterdrauburg"
+    },
+    "1676350": {
+        "de": "Pettau"
+    },
+    "1681496": {
+        "de": "Tüffer"
+    },
+    "1681504": {
+        "de": "Lichtenwald"
+    },
+    "1681505": {
+        "de": "Sankt Ruprecht"
+    },
+    "1681509": {
+        "de": "Eichthal"
+    },
+    "1681506": {
+        "de": "Töplitz"
+    },
+    "1681510": {
+        "de": "Trifail"
+    },
+    "1681511": {
+        "de": "Seger an der Sau"
+    },
+    "1681516": {
+        "de": "Littai"
+    },
+    "1681517": {
+        "de": "Ratschach"
+    },
+    "1681520": {
+        "de": "Hönigstein"
+    },
+    "1681522": {
+        "de": "Treffen"
+    },
+    "1681527": {
+        "de": "Töplitz"
+    },
+    "1681528": {
+        "de": "Semitsch"
+    },
+    "1681529": {
+        "de": "Oberstrascha"
+    },
+    "1681530": {
+        "de": "Seisenberg"
+    },
+    "1681533": {
+        "de": "Großlupp"
+    },
+    "1681536": {
+        "de": "Reifnitz"
+    },
+    "1681537": {
+        "de": "Soderschitz"
+    },
+    "1681540": {
+        "de": "Franzdorf"
+    },
+    "1685719": {
+        "de": "Rann"
+    },
+    "1685726": {
+        "de": "Landstraß an der Gurk"
+    },
+    "1685728": {
+        "de": "Gottschee"
+    },
+    "1685729": {
+        "de": "Gurkfeld"
+    },
+    "1685733": {
+        "de": "Möttling"
+    },
+    "1685734": {
+        "de": "Neustadtl"
+    },
+    "1685736": {
+        "de": "Ossilnitz"
+    },
+    "1685747": {
+        "de": "Tschernembl"
+    },
+    "1685748": {
+        "de": "Sankt Barthlemä"
+    },
+    "1685749": {
+        "de": "Sankt Kanzian"
+    },
+    "27548009": {
+        "ar": "أستانا",
+        "de": "Astana",
+        "en": "Astana",
+        "es": "Astaná",
+        "fr": "Astana",
+        "ru": "Астана",
+        "zh": "阿斯塔納"
+    },
+    "2324452": {
+        "fr": "Saint-Eustache"
+    }
+}
