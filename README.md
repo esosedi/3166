@@ -4,6 +4,8 @@ This world is small enough. But not everyone knows all countries and all states.
 * How to get list of all countries: call `getDataSet` and traverse look for .name in every object inside
 * How to get states of country: call getRegionsFor(countryIsoCode) and do the same.
 
+> npm install iso3166-2-db
+
 Just look at json file, and you will understand.
  
 So we have some simple things:
