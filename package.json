@@ -1,6 +1,6 @@
 {
   "name": "iso3166-2-db",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides information about countries and stated of the world",
   "main": "index.js",
   "scripts": {
@@ -14,11 +14,15 @@
   "keywords": [
     "3166",
     "3166-2",
+    "iso-3166",
+    "iso-3166-1",
+    "iso-3166-2",
     "countries",
     "regions",
+    "states",
     "opendata"
   ],
-  "author": "Anton Korzunov <thekashey@gmail.com>",
+  "author": "Kashey <thekashey@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/esosedi/3166/issues"

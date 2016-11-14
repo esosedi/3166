@@ -29,7 +29,7 @@ const getDataSet = (dispute = DEFAULT_DISPUTE) => {
     lastDisputedData = {
         dispute: dispute,
         names: NAMES_SET,
-        data: patchNameProvider(getDisputedData(dataFile, dispute),NAMES_SET)
+        data: patchNameProvider(getDisputedData(dataFile, dispute), NAMES_SET)
     };
     return lastDisputedData.data;
 }
@@ -77,10 +77,10 @@ const findRegionByCode = (code, dispute) => {
     return country.regions.filter(region=>region.iso === iso2);
 };
 
-const reduce = (dataset, lang, countryList) => {
+const reduce = (dataset, lang, countryList, reduceElement = a=>a) => {
     let result = {};
     Object.keys(dataset).forEach(iso1=> {
-        if(countryList && countryList.indexOf(iso1)<0){
+        if (countryList && countryList.indexOf(iso1) < 0) {
             return;
         }
 
@@ -90,6 +90,7 @@ const reduce = (dataset, lang, countryList) => {
         country.name = country.names[lang] || country.name;
         delete country.names;
         const regions = country.regions;
+        country = reduceElement(country);
         country.regions = [];
         regions.forEach(oldRegion=> {
             let region = {
@@ -97,7 +98,7 @@ const reduce = (dataset, lang, countryList) => {
             };
             region.name = region.names[lang] || region.name;
             delete region.names;
-            country.regions.push(region);
+            country.regions.push(reduceElement(region));
         });
 
         result[iso1] = country;
