@@ -1,6 +1,6 @@
 {
   "name": "iso3166-2-db",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides information about countries and stated of the world",
   "main": "index.js",
   "scripts": {
@@ -30,9 +30,7 @@
   "homepage": "https://github.com/esosedi/3166",
   "devDependencies": {
     "babel-cli": "^6.18.0",
-    "babel-preset-latest": "^6.16.0"
-  },
-  "dependencies": {
+    "babel-preset-latest": "^6.16.0",
     "babel-preset-stage-1": "^6.16.0"
   }
 }
