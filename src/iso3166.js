@@ -3,7 +3,7 @@ import calculateDispute from './disputedBorders';
 import patchNameProvider from './nameProvider'
 
 let DEFAULT_DISPUTE = 'en';
-let NAMES_SET = 'wikipedia'
+let NAMES_SET = 'wikipedia';
 
 const changeDispute = (newValue) => (DEFAULT_DISPUTE = newValue);
 const changeNameProvider = (newValue) => (NAMES_SET = newValue);
@@ -32,7 +32,7 @@ const getDataSet = (dispute = DEFAULT_DISPUTE) => {
         data: patchNameProvider(getDisputedData(dataFile, dispute), NAMES_SET)
     };
     return lastDisputedData.data;
-}
+};
 
 const getFlatData = (dispute = DEFAULT_DISPUTE) => {
     const list = getDataSet(dispute);

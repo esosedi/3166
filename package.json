@@ -1,11 +1,12 @@
 {
   "name": "iso3166-2-db",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Provides information about countries and stated of the world",
-  "main": "index.js",
+  "main": "lib/iso3166.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d lib"
+    "build": "babel src -d lib",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
