@@ -61,12 +61,12 @@ This is open source made from open source. Everything can be wrong. And will be.
 Main datafile is auto generated from free sources.
 
 Used sources:    
-  1. (geolocated.org)[http://geolocated.org/] – as primary source.
-  2. (Geonames.org)[http://geonames.org/] – as main information source
-  3. (Wikipedia.org)[http://wikipedia.org/] – as main information source
-  4. (Esosedi.org)[http://esosedi.org/] – as main information source 
-  5. (OpenStreetMap.org)[http://openstreetmap.org/] – as secondary source
-  6. (Whosonfirst-data)[https://github.com/whosonfirst-data/] – as external links for region information (as long Pelias return region code as WOF entity)
+  1. [geolocated.org](http://geolocated.org/) – as primary source.
+  2. [Geonames.org](http://geonames.org/) – as main information source
+  3. [Wikipedia.org](http://wikipedia.org/) – as main information source
+  4. [Esosedi.org](http://esosedi.org/) – as main information source 
+  5. [OpenStreetMap.org](http://openstreetmap.org/) – as secondary source
+  6. [Whosonfirst-data](https://github.com/whosonfirst-data/) – as external links for region information (as long Pelias return region code as WOF entity]
     
 All sources used as external dictionaries, for ability to link and merge data.
 Countries and states exists by themselves and have their own names.
