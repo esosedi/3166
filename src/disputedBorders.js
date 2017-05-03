@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const disputedBorders = {
     ru: {
         60199: region=>region.hasParent(60199) && region.osmId != 72639 && region.osmId != 1574364 && region.osmId != 421866, //UA

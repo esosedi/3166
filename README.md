@@ -23,7 +23,7 @@ So we have some simple things:
     
     **Remember – main data file is `wrong` by default. You HAVE to apply some filter to data.**
     Or you will get TW as country and Crimea as part of  Russia (use 'ru' dispute mode to have it :P). 
- 3. src/iso3166.js – library logic (exported as index.js)
+ 3. src/iso3166.js – library logic (main entry point)
  
     We have a simply command for it(2.) getDataSet(dispute='en') for it.
     

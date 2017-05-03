@@ -1,14 +1,14 @@
-// YAP YAP.. there is no tests here :)
+// YAP YAP.. smoke tests
 
-let lib = require('../lib/iso3166.js');
+const lib = require('../lib/iso3166.js');
 
-//console.log(lib.getDataSet('ru'));
-//console.log(lib.findRegionByCode('AU-NSW'));
-//console.log(lib.findCountryByName('Россия'));
-//console.log(lib.getRegionsFor('AU'));
-//console.log(lib.findCountryByName('Россия','en'));
+lib.getDataSet('ru')['AU'].regions[0].name;
+lib.findRegionByCode('AU-NSW').name;
+lib.findCountryByName('Россия');
+lib.getRegionsFor('AU')[0].name;
+lib.findCountryByName('Россия', 'en').regions[0].name;
 
-//console.log(lib.reduce(lib.getDataSet(), 'ru', ['CA','AU']));
+lib.reduce(lib.getDataSet(), 'ru', ['CA', 'AU']);
 
-//lib.changeNameProvider('osm');
-//console.log(lib.getDataSet()['RW'].names);
+lib.changeNameProvider('osm');
+lib.getDataSet()['RW'].names;

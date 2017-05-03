@@ -1,12 +1,14 @@
 {
   "name": "iso3166-2-db",
-  "version": "1.0.8",
+  "version": "2.0.1",
   "description": "Provides information about countries and states of the world",
   "main": "lib/iso3166.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build && node ./bin/prepublish.js",
+    "lint": "eslint src tests",
+    "lint:fix": "eslint src tests --fix"
   },
   "repository": {
     "type": "git",
@@ -31,7 +33,9 @@
   "homepage": "https://github.com/esosedi/3166",
   "devDependencies": {
     "babel-cli": "^6.18.0",
+    "babel-eslint": "^7.2.3",
     "babel-preset-latest": "^6.16.0",
-    "babel-preset-stage-1": "^6.16.0"
+    "babel-preset-stage-1": "^6.16.0",
+    "eslint": "^3.19.0"
   }
 }

@@ -1,3 +1,8 @@
 node_modules/
 lib/
+
+countryList/
+i18n/
+regions/
+
 .DS_Store

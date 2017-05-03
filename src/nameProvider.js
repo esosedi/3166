@@ -1,5 +1,6 @@
 import geonames from '../data/names_geonames.json';
 import osm from '../data/names_osm.json';
+import {setNameProvider} from './IoT';
 
 const traverse = (data, keyfn, source) => {
     let result = {};
@@ -47,7 +48,6 @@ const patchOsm = (dataset) => traverse(
     osm
 );
 
-
 const patch = (dataset, provider = 'wikipedia')=> {
     if (provider == 'geonames') {
         return patchGeonames(dataset);
@@ -58,5 +58,7 @@ const patch = (dataset, provider = 'wikipedia')=> {
     return dataset;
 };
 
+
+setNameProvider(patch);
 
 export default patch;
