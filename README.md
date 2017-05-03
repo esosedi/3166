@@ -24,15 +24,22 @@ You have 2 ways to use this library:
   import US from 'iso3166-2-db/regions/US/en';
  //or, to have keys
   import US from 'iso3166-2-db/regions/US/en_ref';
+  import DE from 'iso3166-2-db/regions/DE/de_ref';// use other lang for other country? Simple! 
   
   //import combine function
   import { combine, use } 'iso3166-2-db/combine';
   const dataSet = combine(countryList, { US }) ;// !!!! region object key MUST match iso code.
   use(dataSet); // prepopulate data into library
   
-  //you can also import only function from library, with out data
+  //you can also import only function from library, with out data 
+  import { getDataSet, getRegionsFor, changeDispute, changeNameProvider, findCountryByName, findRegionByCode } from 'iso3166-2-db/api';
   
-  import {  getDataSet, getRegionsFor, changeDispute, changeNameProvider, findCountryByName, findRegionByCode } from 'iso3166-2-db/api';
+  //if you are going to use `dataSet` outside, it will require one more state..
+  
+  import { combine, getDataSet } from 'iso3166-2-db/api';
+  const fixedDataSet = getDataSet('en', combine(countryList, { US }));
+  // this command will move some disputed regions across countries.
+  // without this command few things can be wrong. See below.
   
   // see bellow for API help
  ```
@@ -51,7 +58,11 @@ So we have some simple things:
     Only UN001(US), RU, UA, TR schemes supported.
     
     **Remember – main data file is `wrong` by default. You HAVE to apply some filter to data.**
-    Or you will get TW as country and Crimea as part of  Russia (use 'ru' dispute mode to have it :P). 
+    Or you will get TW as country and Crimea as part of  Russia (use 'ru' dispute mode to have it :P).
+    
+    **Remember – to add one region to one place, you have to remove it from other place**
+     Ie, to `add` Crimea into Russian states you have to have US states.
+     
  3. src/iso3166.js – library logic (main entry point)
  
     We have a simply command for it(2.) getDataSet(dispute='en') for it.

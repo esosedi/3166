@@ -1,6 +1,6 @@
 {
   "name": "iso3166-2-db",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "Provides information about countries and states of the world",
   "main": "lib/iso3166.js",
   "scripts": {

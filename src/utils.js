@@ -1,5 +1,6 @@
 import calculateDispute from './disputedBorders';
 import {getDataFile, getNameProvider} from './IoT';
+import { combine, use } from './combine';
 
 let DEFAULT_DISPUTE = 'en';
 let NAMES_SET = 'wikipedia';
@@ -15,13 +16,14 @@ const patchNameProvider = (data, set) => {
 let lastDisputedData = {};
 let lastDataSet = {};
 
-const getDisputedData = (dispute = DEFAULT_DISPUTE) => {
-    if (lastDisputedData.dispute === dispute) {
+const getDisputedData = (dispute = DEFAULT_DISPUTE, dataSet) => {
+    if (lastDisputedData.dispute === dispute && lastDisputedData.original === dataSet) {
         return lastDisputedData.data;
     }
     lastDisputedData = {
         dispute: dispute,
-        data: calculateDispute(getDataFile(), dispute)
+        original: dataSet,
+        data: calculateDispute(dataSet || getDataFile(), dispute)
     };
     return lastDisputedData.data;
 };
@@ -39,7 +41,7 @@ const getDataSet = (dispute = DEFAULT_DISPUTE, dataSet) => {
     lastDisputedData = {
         dispute: dispute,
         names: NAMES_SET,
-        data: patchNameProvider(getDisputedData(dataSet || getDataFile(), dispute), NAMES_SET)
+        data: patchNameProvider(getDisputedData(dispute, dataSet || getDataFile()), NAMES_SET)
     };
     return lastDisputedData.data;
 };
@@ -154,5 +156,8 @@ export {
     findCountryByName,
     findRegionByCode,
 
-    reduce
+    reduce,
+
+    combine,
+    use
 }

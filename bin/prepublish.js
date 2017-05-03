@@ -51,7 +51,11 @@ Object.keys(langs).forEach(lang => {
     fs.writeFileSync('./i18n/' + lang + '.json', JSON.stringify(i18n[lang]));
     fs.writeFileSync('./countryList/' + lang + '_ref.json', JSON.stringify(langs[lang]));
     fs.writeFileSync('./countryList/' + lang + '.json', JSON.stringify(
-        mmap(langs[lang], x => Object.assign({}, x, {reference: {}}))
+        mmap(langs[lang], x => Object.assign({}, x, {
+            reference: {
+                openstreetmap: x.reference.openstreetmap
+            }
+        }))
     ));
     const langRegions = regions[lang];
     Object.keys(langRegions).forEach(iso1 => {
