@@ -7,6 +7,35 @@ This world is small enough. But not everyone knows all countries and all states.
 > npm install iso3166-2-db
 
 Just look at json file, and you will understand.
+
+You have 2 ways to use this library:
+ 1. Use it at `backend`. Just import few function from 'iso3166-2-db' and go on.
+ You will have everything - all data, in pack of languages, with different dispute models and name sources.
+ 
+ 2. Use it as data files - this way is preferred for `frontend`.
+ ```javascript
+ // just import what you want - /countryList/{lang}
+ import countryList from 'iso3166-2-db/countryList/en';
+ // or, to have countryListWithForeignKeys.US.CA.reference.wikipedia and so on
+ import countryListWithForeignKeys from 'iso3166-2-db/countryList/en_ref';
+ 
+  
+ //import states of FEW countries /countryList/{iso1}/{lang}
+  import US from 'iso3166-2-db/regions/US/en';
+ //or, to have keys
+  import US from 'iso3166-2-db/regions/US/en_ref';
+  
+  //import combine function
+  import { combine, use } 'iso3166-2-db/combine';
+  const dataSet = combine(countryList, { US }) ;// !!!! region object key MUST match iso code.
+  use(dataSet); // prepopulate data into library
+  
+  //you can also import only function from library, with out data
+  
+  import {  getDataSet, getRegionsFor, changeDispute, changeNameProvider, findCountryByName, findRegionByCode } from 'iso3166-2-db/api';
+  
+  // see bellow for API help
+ ```
  
 So we have some simple things:
  1. data/iso3166-2.json – main datafile. It containtains all counties and all regions. 
@@ -28,7 +57,7 @@ So we have some simple things:
     We have a simply command for it(2.) getDataSet(dispute='en') for it.
     
      * changeDispute(string) – change default dispute.
-     * getDataSet([dispute]) - returns transformed iso3166 data.
+     * getDataSet([dispute], [dataSet]) - returns transformed iso3166 data.
      * getRegionsFor(country) - returns states for a country.     
      * findCountryByName(countryName) - perform lookup via all possible names
      * findRegionByCode(string(iso3166-2 code)) - returns region for a code. AU-NSW for example
@@ -42,6 +71,8 @@ So we have some simple things:
     * data/names_osm.json – same from openstreetmap.org
     
     Just call `changeNameProvider('geonames|osm|wikipedia')` _(yap, buy default we use wikipedia article names)_
+    
+    Working only for `backend way`.
     
  5. And do not forget **THIS THING IS FOR BACKEND**!
     Datafiles are VERY large. But you can reduce them.
