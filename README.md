@@ -1,48 +1,125 @@
-# 3166 (iso standart about 2-3 letter codes of administrative divisions)
-This world is small enough. But not everyone knows all countries and all states. So, lets just create a list of countries as iso3166-1 and lists of states or regions as iso3166-2. And include external references to all sources, you may use (GeoNames, OpenStreetMap, Wikipedia, WOF)
+# iso3166, iso3166-1, iso3166-2  
+(iso standart about N-letter codes of administrative divisions and subdivisions)
+The country codes in the data are in the ISO 3166-1 alpha 2 format (US, SE ...), 
+it also possible to use alpha 3 codes (USA, SWE ...) or alpha-numeric codes. In most cases one use alpha-2.
 
-* How to get list of all countries: call `getDataSet` and traverse look for .name in every object inside
-* How to get states of country: call getRegionsFor(countryIsoCode) and do the same.
+[![Build Status](https://secure.travis-ci.org/esosedi/3361.svg)](http://travis-ci.org/esosedi/3166)
 
+[![NPM](https://nodei.co/npm/iso3166-2-db.png?downloads=true&stars=true)](https://nodei.co/npm/iso3166-2-db/)
+
+>This world is small enough. 
+But not everyone knows all countries and all states. 
+So, lets just create a list of countries as iso3166-1 and lists of states or regions as iso3166-2. 
+And include external references to all sources, you may use (GeoNames, OpenStreetMap, Wikipedia, WOF)
+This is nodejs/javascript module, but you can use it as set of json files from other languages 
+
+```javascript
+import worldDatabase from 'iso3166-2-db/i18n/dispute/UN/en';
+import listOfCountries from 'iso3166-2-db/countryList/dispute/UN/en';
+import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
+```
+
+# FYI
+* iso3166-1 is a country list
+* iso3166-2 is a states, regions, provinces and so on list.
+
+# About
+* This library provides both iso3166-1 and iso3166-2 codes
+* This library is capable to generate different `point of view` (ie [Territorial dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
+* This library is both modular and functional. Fits both for frontend and backend
+* This library contain external references to a `trusted` sources
+* This library is brought to you by esosedi – one of lagest cartographical site in the World. Not hipsters.
+
+# Usage
 > npm install iso3166-2-db
-
-Just look at json file, and you will understand.
 
 You have 2 ways to use this library:
  1. Use it at `backend`. Just import few function from 'iso3166-2-db' and go on.
  You will have everything - all data, in pack of languages, with different dispute models and name sources.
+ But - full database has size of few megabytes.
  
- 2. Use it as data files - this way is preferred for `frontend`.
+ 2. Use it as data files, ie modular format - this way is preferred for `frontend`. 
+ Result will produce much smaller code.
+  
+# Modular API
+ * There is two versions on `modular` API - `pure` and `compiled`.
+ In 99% cases you need - compiled
+ 
+    * Import data from 'iso3166-2-db/countryList/dispute/UN/{lang}' to get country list.
+    * Import data from 'iso3166-2-db/regions/{iso3166-1}/dispute/UN/{lang}' to get states(regions) for selected country.
+    * Import data from 'iso3166-2-db/i18n/dispute/UN/{lang}' to get both states and countries.
+ 
+ Where UN - is United Nations. World from United Nations point of view. We call this - `dispute`.
+ Possible values - UN, UA, TR, RU. IF you need more - open a pull request.
+ 
+ You can also load `pure` data:  
+ 
+    * Import data from 'iso3166-2-db/countryList/{lang}' to get country list.
+    * Import data from 'iso3166-2-db/regions/{iso3166-1}/*' to get states(regions) for selected country.
+    * Import data from 'iso3166-2-db/i18n/{lang}' to get both states and countries.
+ 
+ PS: import ..._ref, to get data with external references.
+ 
+ ### example
  ```javascript
  // just import what you want - /countryList/{lang}
  import countryList from 'iso3166-2-db/countryList/en';
+ 
  // or, to have countryListWithForeignKeys.US.CA.reference.wikipedia and so on
  import countryListWithForeignKeys from 'iso3166-2-db/countryList/en_ref';
- 
-  
- //import states of FEW countries /countryList/{iso1}/{lang}
+
+  // import states for a country /countryList/{iso1}/{lang}
+  // import states for a country /countryList/{iso1}/dispute/{source}/{lang}
+
+  // next will import US states for point of view of United Nations.
+  import US from 'iso3166-2-db/regions/US/dispute/UN/en'; 
+    
+  // or you can import `default` dataset
   import US from 'iso3166-2-db/regions/US/en';
- //or, to have keys
+  // or, import with keys
   import US from 'iso3166-2-db/regions/US/en_ref';
   import DE from 'iso3166-2-db/regions/DE/de_ref';// use other lang for other country? Simple! 
   
   //import combine function
-  import { combine, use } 'iso3166-2-db/combine';
-  const dataSet = combine(countryList, { US }) ;// !!!! region object key MUST match iso code.
-  use(dataSet); // prepopulate data into library
+  import { combine } 'iso3166-2-db/combine';
   
-  //you can also import only function from library, with out data 
+  // join country dataset with states
+  const dataSet = combine(countryList, { US }) ;// !!!! region object key MUST match iso code.
+  // dataSet is similar to i18n, but contains regions only for US, not for a whole world.   
+  ```
+  
+  To process `pure` data you should call getDataSet command.
+  ```javascript
+  
+  // you can also import only function from library, with out data 
   import { getDataSet, getRegionsFor, changeDispute, changeNameProvider, findCountryByName, findRegionByCode } from 'iso3166-2-db/api';
   
-  //if you are going to use `dataSet` outside, it will require one more state..
-  
-  import { combine, getDataSet } from 'iso3166-2-db/api';
   const fixedDataSet = getDataSet('en', combine(countryList, { US }));
   // this command will move some disputed regions across countries.
-  // without this command few things can be wrong. See below.
-  
-  // see bellow for API help
+  // without this command few things can be wrong. See below.  
  ```
+
+ I hope you did not understand, what `dispute` means, and why you should run getDataSet.
+ it is very simple -
+ ```js 
+ import RU from 'iso3166-2-db/regions/RU/dispute/UN/en' // - will NOT contain Crimea
+ import RU from 'iso3166-2-db/regions/RU/en'            // - will NOT contain Crimea
+ import RU from 'iso3166-2-db/regions/RU/dispute/RU/en' // - will CONTAIN Crimea
+ const fixedDataSet = getDataSet('ru', combine(countryList, { RU })); // - will CONTAIN Crimea
+ ```
+ Also some countries are not exists, or exists not as counties, but as stated by point of view of some different countries.
+ 
+ 
+ 
+### creating country selector with React
+ See [example](//esosedi/3166/examples/react.countrySelector.js)
+ 
+#Functional API
+
+* How to get list of all countries: call `getDataSet` and traverse look for .name in every object inside
+* How to get states of country: call getRegionsFor(countryIsoCode) and do the same.
+ 
+Just look at source json file(data/iso3166-2.json), and you will understand.
  
 So we have some simple things:
  1. data/iso3166-2.json – main datafile. It containtains all counties and all regions. 
@@ -101,6 +178,69 @@ I am not sure about them.
 This is open source made from open source. Everything can be wrong. And will be.
 
 Main datafile is auto generated from free sources.
+
+# Data format
+ Country list is a hash. 
+ Key is a iso3166-1 code
+ Value 
+ ```js 
+ {
+     "iso": "AD",   //iso3166-1 `two` letter code
+     "iso3": "AND", //iso3166-1 `three` letter code
+     "numeric": 20, //iso3166-1 `numeric` code
+     "fips": "AN",  //FIPS code
+     // next key is exist only in `_ref` exports
+     "reference": { // external reference to
+         "geonames": 3041565,      // geonames.org 
+         "openstreetmap": 9407,    // openstreetmap releation id
+         "wikipedia": "en:Andorra" // wikipedia article
+     },
+     // next key is not exist in full pack
+     name: "Andorra",
+     // next key is not exist in language-reduced pack 
+     "names": {                    // names in different languages
+         "geonames": "Andorra",
+         "en": "Andorra",
+         "ar": "أندورا",
+         "de": "Andorra",
+         "es": "Andorra",
+         "fr": "Andorre",
+         "it": "Andorra",
+         "ru": "Андорра",
+         "zh": "Chinese"
+     },
+     regions:[ /* set of regions */]
+   }
+ ```
+ 
+ Regions is an array of
+ ```js 
+ {
+     // next keys will contain name in selected language
+     "name": "Sant Julià de Lòria",
+     // next keys is not exists in language-reduced pack
+     "names": {
+         "geonames": "Parroquia de Sant Julia de Loria",
+         "ru": "Сан-Жулиа-де-Лория",
+         "en": "Sant Julià de Lòria",
+         "de": "Sant Julià de Lòria",
+         "es": "San Julián de Loria",
+         "fr": "Sant Julià de Lòria",
+         "it": "Parrocchia di Sant Julià de Lòria",
+         "zh": "圣胡利娅-德洛里亚"
+     },                 
+     "iso": "06",    // iso3166-2 code
+     "fips": "06",   // FIPS code
+     // next key is exist only in `_ref` exports
+     "reference": {
+         "geonames": 3039162,                   // geonames.org
+         "openstreetmap": 2804759,              // openstreetmap relation id
+         "openstreetmap_level": 7,              // openstreetmap administrative division level
+         "wikipedia": "en:Sant_Julià_de_Lòria", // wikipedia article
+         "wof": null                            // WOF code 
+     }
+ },
+ ```
 
 Used sources:    
   1. [geolocated.org](http://geolocated.org/) – as primary source.

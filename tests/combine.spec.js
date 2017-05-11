@@ -1,12 +1,18 @@
-const countrySet = require('../countryList/en');
-const US = require('../regions/US/en_ref.json');
+describe("combine smoke test", () => {
+    it("should not fail", () => {
 
-const {combine} = require('../lib/combine');
+        const countrySet = require('../countryList/en');
+        const US = require('../regions/US/en_ref.json');
 
-const subset = combine(countrySet, {
-    US
-});
+        const {combine} = require('../lib/combine');
+
+        const subset = combine(countrySet, {
+            US
+        });
 
 //smoke
-subset['US'].regions.find(region => region.iso === 'CA').name;
-subset['US'].regions.find(region => region.iso === 'CA').reference.openstreetmap.length;
+        subset['US'].regions.find(region => region.iso === 'CA').name;
+        subset['US'].regions.find(region => region.iso === 'CA').reference.openstreetmap.length;
+
+    });
+});

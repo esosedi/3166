@@ -1,12 +1,15 @@
 {
   "name": "iso3166-2-db",
-  "version": "2.0.3",
-  "description": "Provides information about countries and states of the world",
+  "version": "2.1.0",
+  "description": "Provides information about countries and states of the world. In a best way",
   "main": "lib/iso3166.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm run test:pick -- 'tests/**/*.spec.js'",
+    "test:pick": "BABEL_ENV=test mocha --compilers js:babel-core/register",
+
     "build": "babel src -d lib",
     "prepublish": "npm run build && node ./bin/prepublish.js",
+
     "lint": "eslint src tests",
     "lint:fix": "eslint src tests --fix"
   },
@@ -17,6 +20,8 @@
   "keywords": [
     "3166",
     "3166-2",
+    "iso3166-2",
+    "iso3166",
     "iso-3166",
     "iso-3166-1",
     "iso-3166-2",
@@ -36,6 +41,9 @@
     "babel-eslint": "^7.2.3",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-stage-1": "^6.16.0",
-    "eslint": "^3.19.0"
+    "eslint": "^3.19.0",
+    "chai": "^3.5.0",
+    "eslint-plugin-mocha": "^4.9.0",
+    "mocha": "^3.3.0"
   }
 }
