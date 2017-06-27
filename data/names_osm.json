@@ -1511,65 +1511,10 @@
         "en": "Autonomous Monastic State of the Holy Mountain",
         "fr": "République monastique du Mont Athos"
     },
-    "8636": {
-        "de": "Elsass",
-        "es": "Alsacia",
-        "it": "Alsazia"
-    },
-    "8637": {
-        "de": "Aquitanien",
-        "es": "Aquitania",
-        "ru": "Аквитания"
-    },
-    "8638": {
-        "es": "Auvernia"
-    },
     "8640": {
         "de": "Zentrum",
         "es": "Centro",
         "it": "Centro"
-    },
-    "8641": {
-        "de": "Champagne-Ardennen",
-        "es": "Champaña-Ardenas"
-    },
-    "8642": {
-        "de": "Freie Grafschaft",
-        "en": "Free County",
-        "es": "Franco Condado",
-        "it": "Franca Contea"
-    },
-    "8643": {
-        "es": "Languedoc-Rosellón",
-        "it": "Linguadoca-Rossiglione",
-        "ru": "Лангедок"
-    },
-    "8644": {
-        "es": "Lemosín",
-        "it": "Limosino"
-    },
-    "8645": {
-        "de": "Lothringen",
-        "es": "Lorena",
-        "it": "Lorena"
-    },
-    "8646": {
-        "de": "Niedernormandie",
-        "en": "Lower Normandy",
-        "es": "Baja Normandía",
-        "fr": "Basse-Normandie",
-        "it": "Bassa Normandia",
-        "ru": "Нижняя Нормандия"
-    },
-    "8647": {
-        "de": "Midi-Pyrenäen",
-        "es": "Mediodía-Pirineos",
-        "it": "Midi-Pirenei",
-        "ru": "Юг"
-    },
-    "8648": {
-        "es": "Norte-Paso de Calais",
-        "it": "Nord-Passo di Calais"
     },
     "8649": {
         "ar": "إيل دو فرانس",
@@ -1581,39 +1526,16 @@
         "it": "Paesi della Loira",
         "ru": "Земли Луары"
     },
-    "8651": {
-        "en": "Picardy",
-        "es": "Picardía",
-        "it": "Piccardia"
-    },
-    "8652": {
-        "ru": "Пуату-Шаранта"
-    },
     "8654": {
         "es": "Provenza-Alpes-Costa Azul",
         "it": "Provenza-Alpi-Costa Azzurra",
         "ru": "Прованс"
-    },
-    "8655": {
-        "de": "Rhone-Alpen",
-        "es": "Ródano-Alpes",
-        "it": "Rodano-Alpi",
-        "ru": "Рона"
-    },
-    "8656": {
-        "es": "Alta Normandía",
-        "it": "Alta Normandia"
     },
     "28322": {
         "en": "Mecklenburg-Vorpommern",
         "es": "Mecklemburgo-Pomerania Occidental",
         "fr": "Mecklembourg-Poméranie-Occidentale",
         "ru": "Мекленбург-Передняя Померания"
-    },
-    "27768": {
-        "de": "Burgund",
-        "es": "Borgoña",
-        "it": "Borgogna"
     },
     "35183": {
         "de": "Steiermark",
@@ -3709,10 +3631,6 @@
     "407787": {
         "ru": "Согн-ог-Фьюране"
     },
-    "407835": {
-        "de": "Distrikt Luxemburg",
-        "fr": "District Luxembourg"
-    },
     "408105": {
         "ru": "Нурланн"
     },
@@ -4168,14 +4086,8 @@
         "en": "Sevastopol",
         "ru": "Севастополь"
     },
-    "1592819": {
-        "fr": "Tanger-Tétouan"
-    },
     "1600798": {
         "ru": "Мтвара"
-    },
-    "1609815": {
-        "ru": "Бафин"
     },
     "1614020": {
         "en": "Zanzibar South & Central"
@@ -4729,32 +4641,6 @@
         "fr": "Bavière",
         "ru": "Бавария"
     },
-    "2190479": {
-        "ar": "الاستوائية الوسطى",
-        "de": "Zentral-Äquatoria"
-    },
-    "2190480": {
-        "ar": "البحيرات",
-        "de": "Seen"
-    },
-    "2190481": {
-        "ar": "جونقلي",
-        "de": "Jonglei"
-    },
-    "2190482": {
-        "ar": "شرق الاستوائية",
-        "de": "Ost-Äquatoria"
-    },
-    "2190483": {
-        "ar": "غرب الاستوائية",
-        "de": "West-Äquatoria"
-    },
-    "2190518": {
-        "de": "Obernil"
-    },
-    "2190521": {
-        "de": "Warrap"
-    },
     "2195081": {
         "fr": "Atlántico Sur",
         "it": "Regione Autonoma Atlantico Sud",
@@ -4966,10 +4852,6 @@
         "ar": "المحافظة الجنوبية",
         "en": "Southern Governorate"
     },
-    "2522469": {
-        "ar": "المحافظة الوسطى",
-        "en": "Central Governorate"
-    },
     "2528143": {
         "en": "Brcko district of Bosnia and Herzegowina"
     },
@@ -5110,6 +4992,10 @@
     "278750": {
         "en": "Munster"
     },
+    "407824": {
+        "de": "Kanton Luxemburg",
+        "fr": "Canton Luxembourg"
+    },
     "22238": {
         "ru": "Зала"
     },
@@ -5127,6 +5013,13 @@
     },
     "22271": {
         "ru": "Боршод-Абауй-Земплен"
+    },
+    "37355": {
+        "ru": "Уусимаа"
+    },
+    "38092": {
+        "en": "Finland Proper",
+        "ru": "Варсинайс-Суоми"
     },
     "58983": {
         "ru": "Муниципий Бельцы"
@@ -5364,6 +5257,12 @@
         "de": "Region Pilsen",
         "ru": "Пльзенский край"
     },
+    "918897": {
+        "ru": "Этеля-Саво"
+    },
+    "918898": {
+        "ru": "Северное Саво"
+    },
     "1104136": {
         "ru": "Бессарабский район"
     },
@@ -5378,6 +5277,10 @@
     },
     "1437135": {
         "en": "Varna Region"
+    },
+    "1473990": {
+        "en": "Tavastia Proper",
+        "ru": "Канта-Хяме"
     },
     "1553735": {
         "en": "Fukuoka Prefecture"
@@ -5429,6 +5332,27 @@
     },
     "1699034": {
         "ru": "Кагульский район"
+    },
+    "1701740": {
+        "ru": "Центральная Финляндия"
+    },
+    "1701741": {
+        "ru": "Пирканмаа"
+    },
+    "1702263": {
+        "ru": "Этеля-Похьянмаа"
+    },
+    "1702330": {
+        "ru": "Кески-Похьянмаа"
+    },
+    "1703362": {
+        "ru": "Пяйят-Хяме"
+    },
+    "1724359": {
+        "ru": "Лапландия"
+    },
+    "1724360": {
+        "ru": "Похьойс-Похьянмаа"
     },
     "1739521": {
         "en": "Blagoevgrad Region"
@@ -5529,11 +5453,30 @@
     "1865678": {
         "ru": "Резекне"
     },
+    "1997164": {
+        "ru": "Кайнуу"
+    },
+    "1999428": {
+        "ru": "Северная Карелия"
+    },
+    "2000320": {
+        "ru": "Похьянмаа"
+    },
+    "2000361": {
+        "ru": "Сатакунта"
+    },
     "2019053": {
         "de": "Libau"
     },
     "2021109": {
         "ru": "Марупский край"
+    },
+    "2067231": {
+        "en": "South Karelia",
+        "ru": "Южная Карелия"
+    },
+    "2102313": {
+        "ru": "Куменлааксо"
     },
     "2279652": {
         "en": "Kowloon",
