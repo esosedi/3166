@@ -599,6 +599,9 @@
         "zh": "亞美尼亞",
         "es": "Armenia"
     },
+    "178837": {
+        "it": "Distretto di Uasin Gishu"
+    },
     "192950": {
         "ar": "كينيا",
         "de": "Kenia",
@@ -619,16 +622,19 @@
         "zh": "扎伊尔",
         "ar": "الكونغو - كينشاسا"
     },
+    "204704": {
+        "en": "Tshopo",
+        "ru": "Чопо",
+        "zh": "乔波省"
+    },
     "205413": {
         "en": "South Kivu Province"
     },
     "206938": {
         "en": "Nord Kivu"
     },
-    "216139": {
-        "en": "Eastern Province",
-        "fr": "Haut-Congo",
-        "it": "Provincia Orientale"
+    "214140": {
+        "en": "Kasai"
     },
     "220781": {
         "en": "Tadjourah Region",
@@ -1481,23 +1487,14 @@
     "379253": {
         "en": "Khartoum State"
     },
-    "381229": {
-        "en": "Upper Nile State"
-    },
     "389462": {
         "ar": "الشمال"
-    },
-    "389463": {
-        "ar": "بلدية الغويرية"
     },
     "389465": {
         "ar": "الخور والذخيرة"
     },
     "389467": {
         "ar": "أم صلال"
-    },
-    "389468": {
-        "ar": "بلدية الجميلية"
     },
     "389469": {
         "ar": "الريان"
@@ -1507,9 +1504,6 @@
     },
     "389472": {
         "ar": "الوكرة"
-    },
-    "389473": {
-        "ar": "بلدية جريان الباطنة"
     },
     "390903": {
         "ar": "يونان",
@@ -1524,9 +1518,6 @@
     "408646": {
         "en": "Red Sea State"
     },
-    "408647": {
-        "en": "El Buhayrat"
-    },
     "408648": {
         "en": "Al Jazīrah",
         "ar": "ولاية الجزيرة"
@@ -1535,24 +1526,12 @@
         "en": "Al Qaḑārif",
         "ar": "القضارف"
     },
-    "408650": {
-        "en": "Unity State"
-    },
     "408653": {
         "en": "White Nile",
         "ar": "النيل الأبيض"
     },
     "408654": {
         "en": "Blue Nile State"
-    },
-    "408655": {
-        "en": "Central Equatoria"
-    },
-    "408656": {
-        "en": "Western Equatoria"
-    },
-    "408657": {
-        "en": "Western Bahr el Ghazal"
     },
     "408658": {
         "en": "Western Darfur",
@@ -1566,10 +1545,6 @@
         "en": "Southern Kordofan",
         "ar": "جنوب كردفان"
     },
-    "408662": {
-        "en": "Jonglei",
-        "ar": "Junqolēy"
-    },
     "408663": {
         "en": "Kassala",
         "ar": "كسلا"
@@ -1577,9 +1552,6 @@
     "408664": {
         "en": "River Nile State",
         "ar": "An Nīl"
-    },
-    "408665": {
-        "en": "Northern Bahr al Ghazal"
     },
     "408666": {
         "en": "Northern Darfur",
@@ -1589,16 +1561,9 @@
         "ar": "شمال كردفان‎",
         "en": "Shamāl Kurdufān"
     },
-    "408668": {
-        "en": "Eastern Equatoria State"
-    },
     "408669": {
         "en": "Sinnār",
         "ar": "Sinnār"
-    },
-    "408670": {
-        "ar": "Wārrāb",
-        "en": "Warrap"
     },
     "409417": {
         "en": "Shirvan"
@@ -2434,14 +2399,6 @@
         "de": "Weißrussland",
         "es": "Bielorrusia"
     },
-    "643485": {
-        "en": "Oulu",
-        "fr": "Province d'Oulu"
-    },
-    "648958": {
-        "fr": "Laponie",
-        "en": "Province of Lapland"
-    },
     "660013": {
         "ar": "فنلندا",
         "de": "Finnland",
@@ -2877,17 +2834,113 @@
     "828307": {
         "en": "Yevlax City"
     },
-    "828987": {
-        "fr": "Finlande-Méridionale",
-        "en": "Southern Finland"
+    "830603": {
+        "en": "Lapland"
     },
-    "828988": {
-        "fr": "Finlande-Orientale",
-        "en": "Eastern Finland"
+    "830664": {
+        "en": "Kainuu Region",
+        "fr": "Kainuu",
+        "de": "Kainuu",
+        "it": "Kainuu",
+        "ar": "كاينو",
+        "ru": "Кайнуу",
+        "zh": "凱努區"
     },
-    "828989": {
-        "fr": "Finlande-Occidentale",
-        "en": "Western Finland"
+    "830667": {
+        "fr": "Ostrobotnie du Nord",
+        "en": "North Ostrobothnia",
+        "de": "Nordösterbotten",
+        "es": "Ostrobotnia del Norte",
+        "it": "Ostrobotnia settentrionale",
+        "ar": "بوهيانما الشمالية",
+        "ru": "Северная Остроботния",
+        "zh": "北博滕區"
+    },
+    "830675": {
+        "fr": "Ostrobotnie-Centrale",
+        "en": "Central Ostrobothnia Region"
+    },
+    "830676": {
+        "fr": "Ostrobotnie",
+        "en": "Ostrobothnia Region",
+        "es": "Ostrobotnia",
+        "it": "Ostrobotnia",
+        "ar": "بوهيانما",
+        "ru": "Остроботния",
+        "zh": "博滕區"
+    },
+    "830682": {
+        "fr": "Ostrobotnie du Sud",
+        "en": "South Ostrobothnia",
+        "de": "Südösterbotten",
+        "es": "Ostrobotnia del Sur",
+        "it": "Ostrobotnia meridionale",
+        "ar": "بوهيانما الجنوبية",
+        "ru": "Южная Остроботния",
+        "zh": "南博滕區"
+    },
+    "830685": {
+        "fr": "Finlande-Centrale",
+        "it": "Finlandia Centrale",
+        "en": "Central Finland Region"
+    },
+    "830686": {
+        "en": "North Karelia Region",
+        "fr": "Carélie du Nord"
+    },
+    "830690": {
+        "fr": "Savonie du Nord",
+        "en": "North Savo"
+    },
+    "830695": {
+        "fr": "Savonie du Sud",
+        "en": "Southern Savonia"
+    },
+    "830699": {
+        "en": "South Karelia Region",
+        "fr": "Carélie du Sud"
+    },
+    "830703": {
+        "en": "Kymenlaakso Region",
+        "fr": "Vallée de la Kymi",
+        "de": "Kymenlaakso",
+        "it": "Kymenlaakso",
+        "ar": "كومنلاكسو",
+        "ru": "Кюменлааксо",
+        "zh": "屈米區"
+    },
+    "830704": {
+        "de": "Pirkanmaa",
+        "en": "Tampere",
+        "fr": "Pirkanmaa",
+        "it": "Pirkanmaa",
+        "ar": "بيركنما",
+        "ru": "Пирканмаа",
+        "zh": "皮爾卡區"
+    },
+    "830708": {
+        "fr": "Finlande propre",
+        "es": "Finlandia Propia",
+        "ar": "فارسينايس سوومي",
+        "ru": "Варсинайс-Суоми",
+        "zh": "西南芬蘭區"
+    },
+    "830709": {
+        "de": "Uusimaa",
+        "en": "Newland",
+        "fr": "Uusimaa",
+        "ar": "أوسيما",
+        "ru": "Уусимаа",
+        "zh": "新地区"
+    },
+    "831040": {
+        "en": "Paijat-Hame"
+    },
+    "831041": {
+        "ar": "ستاكونتا",
+        "ru": "Сатакунта",
+        "zh": "薩卡昆達區",
+        "en": "Satakunta"
     },
     "858785": {
         "de": "Woiwodschaft Lublin",
@@ -4629,9 +4682,6 @@
         "zh": "文莱",
         "es": "Brunéi"
     },
-    "1821273": {
-        "en": "Municipality of Macau"
-    },
     "1821275": {
         "es": "Macao",
         "de": "Macau",
@@ -4641,9 +4691,6 @@
         "it": "Macao",
         "ru": "Аомынь",
         "zh": "澳门"
-    },
-    "1821286": {
-        "en": "Municipality of the Islands"
     },
     "1821301": {
         "en": "Pursat",
@@ -5846,6 +5893,11 @@
         "zh": "赤道几内亚",
         "fr": "Guinée équatoriale"
     },
+    "2313847": {
+        "en": "Kwilu District",
+        "ru": "Квилу",
+        "zh": "奎卢省"
+    },
     "2328926": {
         "ar": "نيجيريا",
         "de": "Nigeria",
@@ -5983,10 +6035,6 @@
         "it": "Regione di Tagant",
         "ru": "Тагант",
         "zh": "塔甘特省"
-    },
-    "2377449": {
-        "fr": "Wilaya de Nouakchott",
-        "ar": "Nuwākshūţ"
     },
     "2378080": {
         "ar": "Mūrītāniyā",
@@ -6355,9 +6403,6 @@
         "ru": "Марокко",
         "zh": "摩洛哥"
     },
-    "2542995": {
-        "es": "Marrakech"
-    },
     "2562770": {
         "en": "Malta",
         "ar": "مالطا",
@@ -6451,77 +6496,6 @@
         "it": "Dipartimento del Litorale",
         "ru": "Литораль",
         "zh": "濱海省"
-    },
-    "2597316": {
-        "it": "Regione delle Lagune",
-        "ru": "Лагюн",
-        "zh": "潟湖區"
-    },
-    "2597318": {
-        "fr": "Agnébi",
-        "it": "Regione di Agnéby",
-        "ru": "Агнеби",
-        "zh": "阿涅比区"
-    },
-    "2597319": {
-        "it": "Regione dellAlto Sassandra",
-        "ru": "О-Сассандра",
-        "zh": "上萨桑德拉区"
-    },
-    "2597321": {
-        "it": "Regione della Valle del Bandama",
-        "ru": "Валле-дю-Бандама",
-        "zh": "邦达马河谷区"
-    },
-    "2597322": {
-        "it": "Regione del Medio Comoé",
-        "ru": "Муайен-Комоэ",
-        "zh": "中科莫埃区"
-    },
-    "2597324": {
-        "it": "Regione dei Laghi",
-        "ru": "Лак",
-        "zh": "湖泊区"
-    },
-    "2597325": {
-        "it": "Regione di Zanzan",
-        "ru": "Занзан",
-        "zh": "赞赞区"
-    },
-    "2597326": {
-        "it": "Regione del Basso Sassandra",
-        "ru": "Ба-Сассандра",
-        "zh": "下萨桑德拉区"
-    },
-    "2597327": {
-        "it": "Regione di Worodougou",
-        "ru": "Вородугу",
-        "zh": "沃罗杜古区"
-    },
-    "2597328": {
-        "it": "Regione di Denguélé",
-        "ru": "Денгеле",
-        "zh": "登盖莱区"
-    },
-    "2597329": {
-        "it": "Regione del Bandama Sud",
-        "ru": "Сюд-Бандама",
-        "zh": "南邦达马区"
-    },
-    "2597330": {
-        "it": "Regione di Fromager",
-        "ru": "Фромаже",
-        "zh": "弗罗马格尔区"
-    },
-    "2597332": {
-        "it": "Regione di Marahoué",
-        "ru": "Марауэ",
-        "zh": "马拉韦区"
-    },
-    "2597333": {
-        "it": "Regione del Medio Cavally",
-        "ru": "Муайен-Кавелли",
-        "zh": "中卡瓦利区"
     },
     "2597439": {
         "en": "Kara Region",
@@ -7216,6 +7190,21 @@
         "ru": "Баден-Вюртемберг",
         "de": "Baden-Württemberg"
     },
+    "2959975": {
+        "de": "Kanton Wiltz"
+    },
+    "2960020": {
+        "de": "Kanton Vianden"
+    },
+    "2960152": {
+        "de": "Kanton Remich"
+    },
+    "2960161": {
+        "de": "Kanton Redingen"
+    },
+    "2960275": {
+        "de": "Kanton Mersch"
+    },
     "2960313": {
         "fr": "Luxembourg",
         "ar": "لوكسمبورج",
@@ -7226,14 +7215,26 @@
         "zh": "卢森堡",
         "es": "Luxemburgo"
     },
-    "2960314": {
-        "de": "Luxemburg"
+    "2960315": {
+        "de": "Kanton Luxemburg",
+        "fr": "Luxembourg Campagne"
     },
-    "2960513": {
-        "de": "Distrikt Grevenmacher"
+    "2960514": {
+        "de": "Kanton Grevenmacher"
     },
-    "2960655": {
-        "de": "Distrikt Diekirch"
+    "2960629": {
+        "fr": "Canton d'Echternach",
+        "de": "Kanton Echternach"
+    },
+    "2960656": {
+        "de": "Kanton Diekirch"
+    },
+    "2960683": {
+        "de": "Kanton Clerf",
+        "fr": "Clerveaux"
+    },
+    "2960696": {
+        "de": "Kanton Capellen"
     },
     "2963597": {
         "en": "Republic of Ireland",
@@ -7245,15 +7246,6 @@
         "zh": "爱尔兰共和国",
         "fr": "Irlande"
     },
-    "2983751": {
-        "fr": "Région Rhône-Alpes",
-        "es": "Ródano-Alpes",
-        "de": "Rhône-Alpes",
-        "en": "Rhône-Alpes Region",
-        "it": "Rodano-Alpi",
-        "ru": "Рона",
-        "zh": "罗纳-阿尔卑斯"
-    },
     "2985244": {
         "es": "Provenza-Alpes-Costa Azul",
         "de": "Provence-Alpes-Côte d’Azur",
@@ -7263,35 +7255,11 @@
         "zh": "普罗旺斯-阿尔卑斯-蓝色海岸",
         "fr": "Région Provence-Alpes-Côte d'Azur"
     },
-    "2986492": {
-        "fr": "Région Poitou-Charentes",
-        "de": "Poitou-Charentes",
-        "es": "Poitou-Charentes",
-        "en": "Poitou-Charentes Region",
-        "it": "Poitou-Charentes",
-        "ru": "Пуату",
-        "zh": "普瓦图-夏朗德"
-    },
-    "2987375": {
-        "es": "Picardía",
-        "fr": "Région Picardie",
-        "de": "Picardie",
-        "en": "Région Picardie",
-        "it": "Piccardia",
-        "ru": "Пикардия",
-        "zh": "皮卡第"
-    },
     "2988289": {
         "fr": "Région Pays de la Loire",
         "en": "Pays de la Loire Region",
         "es": "Países del Loira",
         "de": "Pays de la Loire"
-    },
-    "2990119": {
-        "en": "Nord-Pas-de-Calais Region",
-        "fr": "Région Nord-Pas-de-Calais",
-        "es": "Norte Paso de Calais",
-        "de": "Nord-Pas-de-Calais"
     },
     "2993457": {
         "fr": "Monaco",
@@ -7303,60 +7271,11 @@
         "ru": "Монако",
         "zh": "摩纳哥"
     },
-    "2993955": {
-        "fr": "Région Midi-Pyrénées",
-        "de": "Midi-Pyrénées",
-        "es": "Mediodía-Pirineos",
-        "en": "Midi-Pyrénées Region",
-        "it": "Midi-Pirenei",
-        "ru": "Юг",
-        "zh": "南部-比利牛斯"
-    },
-    "2997551": {
-        "en": "Lorraine Region",
-        "it": "Lorena",
-        "fr": "Région Lorraine",
-        "de": "Lothringen",
-        "es": "Lorena"
-    },
-    "2998268": {
-        "en": "Limousin Region",
-        "fr": "Région Limousin",
-        "es": "Lemosín",
-        "de": "Limousin"
-    },
-    "3007670": {
-        "es": "Languedoc-Rosellón",
-        "en": "Languedoc-Roussillon Region",
-        "de": "Languedoc-Roussillon",
-        "it": "Linguadoca-Rossiglione",
-        "ru": "Лангедок",
-        "zh": "朗格多克-鲁西永",
-        "fr": "Région Languedoc-Roussillon"
-    },
     "3012874": {
         "fr": "Région Île-de-France",
         "en": "Île-de-France Region",
         "de": "Île-de-France",
         "es": "Isla de Francia"
-    },
-    "3013756": {
-        "fr": "Région Haute-Normandie",
-        "de": "Haute-Normandie",
-        "es": "Alta Normandía",
-        "it": "Alta Normandia",
-        "ru": "Верхняя Нормандия",
-        "zh": "上諾曼地",
-        "en": "Upper Normandy Region"
-    },
-    "3017372": {
-        "es": "Franco Condado",
-        "en": "Franche-Comté Region",
-        "de": "Franche-Comté",
-        "it": "Franca Contea",
-        "ru": "Франш-Конте",
-        "zh": "弗朗什-孔泰",
-        "fr": "Région Franche-Comté"
     },
     "3017382": {
         "fr": "France",
@@ -7373,15 +7292,6 @@
         "en": "Corsica",
         "de": "Korsika"
     },
-    "3027257": {
-        "fr": "Région Champagne-Ardenne",
-        "en": "Champagne-Ardenne Region",
-        "de": "Champagne-Ardenne",
-        "es": "Champaña-Ardenas",
-        "it": "Champagne-Ardenne",
-        "ru": "Шампань",
-        "zh": "香槟-阿登"
-    },
     "3027939": {
         "es": "Centro",
         "en": "Centre Region",
@@ -7396,49 +7306,6 @@
         "ru": "Бретань",
         "zh": "布列塔尼半岛",
         "fr": "Région Bretagne"
-    },
-    "3030967": {
-        "es": "Borgoña",
-        "fr": "Région Bourgogne",
-        "de": "Burgund",
-        "en": "Burgundy Region",
-        "it": "Borgogna",
-        "ru": "Бургундия",
-        "zh": "勃艮第"
-    },
-    "3034693": {
-        "fr": "Région Basse-Normandie",
-        "de": "Basse-Normandie",
-        "es": "Baja Normandía",
-        "en": "Région Basse-Normandie",
-        "it": "Bassa Normandia",
-        "ru": "Нижняя Нормандия",
-        "zh": "下诺曼底"
-    },
-    "3035876": {
-        "es": "Auvernia",
-        "en": "Auvergne Region",
-        "fr": "Auvergne",
-        "de": "Auvergne"
-    },
-    "3037350": {
-        "es": "Aquitania",
-        "fr": "Région Aquitaine",
-        "en": "Aquitaine Region",
-        "de": "Aquitanien",
-        "it": "Aquitania",
-        "ru": "Аквитания",
-        "zh": "阿基坦"
-    },
-    "3038033": {
-        "fr": "Région Alsace",
-        "de": "Elsass",
-        "es": "Alsacia",
-        "en": "Alsace Region",
-        "it": "Alsazia",
-        "ru": "Эльзас",
-        "zh": "阿尔萨斯",
-        "ar": "ألزاس"
     },
     "3039162": {
         "en": "Sant Julià de Loria",
@@ -7936,6 +7803,48 @@
     "3229999": {
         "en": "Federation of Bosnia and Herzegovina",
         "es": "Federacion de Bosnia-Herzegovina"
+    },
+    "3237072": {
+        "fr": "Saint-Clément",
+        "en": "St Clement"
+    },
+    "3237073": {
+        "fr": "Saint-Sauveur",
+        "en": "St Saviour"
+    },
+    "3237203": {
+        "en": "Grouville"
+    },
+    "3237212": {
+        "en": "St Mary",
+        "fr": "Sainte-Marie"
+    },
+    "3237214": {
+        "en": "St Lawrence",
+        "fr": "Saint-Laurent"
+    },
+    "3237221": {
+        "en": "St Peter",
+        "fr": "Saint-Pierre"
+    },
+    "3237229": {
+        "en": "Saint Ouen",
+        "fr": "Saint-Ouen"
+    },
+    "3237497": {
+        "en": "St John"
+    },
+    "3237530": {
+        "en": "Trinity",
+        "fr": "La Trinité"
+    },
+    "3237716": {
+        "en": "St Martîn",
+        "fr": "Saint-Martin"
+    },
+    "3237864": {
+        "en": "St Helier",
+        "fr": "Saint-Hélier"
     },
     "3239054": {
         "en": "Municipality of Pivka",
@@ -8834,9 +8743,6 @@
     },
     "3572238": {
         "en": "Harbour Island District"
-    },
-    "3572312": {
-        "en": "Governor's Harbour District"
     },
     "3572678": {
         "en": "Cat Island"
@@ -10511,6 +10417,45 @@
         "fr": "Province du Sud",
         "en": "Southern Province"
     },
+    "6417213": {
+        "en": "St Pierre du Bois"
+    },
+    "6417214": {
+        "en": "Torteval",
+        "ru": "Тортевал"
+    },
+    "6417215": {
+        "en": "Saint Saviour",
+        "fr": "Saint-Sauveur"
+    },
+    "6417223": {
+        "en": "Forest",
+        "fr": "La Forêt"
+    },
+    "6417224": {
+        "en": "St Martin",
+        "fr": "Saint-Martin"
+    },
+    "6417226": {
+        "en": "St Andrew",
+        "fr": "Saint-André-de-la-Pommeraye",
+        "ru": "Сент-Андру"
+    },
+    "6417228": {
+        "en": "St Peter Port"
+    },
+    "6417229": {
+        "en": "Castel",
+        "fr": "Sainte-Marie-du-Câtel",
+        "ru": "Кастел"
+    },
+    "6417230": {
+        "en": "Vale",
+        "fr": "Le Valle"
+    },
+    "6417233": {
+        "en": "St Sampson"
+    },
     "6418538": {
         "fr": "Hovedstaden",
         "en": "Capital Region"
@@ -10869,9 +10814,6 @@
     "7603255": {
         "fr": "Région du Barh el Gazel"
     },
-    "7603256": {
-        "fr": "Région du l'Ennedi"
-    },
     "7603257": {
         "fr": "Région du Sila"
     },
@@ -11008,27 +10950,6 @@
     "8030557": {
         "en": "South Eleuthera District"
     },
-    "8030589": {
-        "en": "South Province"
-    },
-    "8030590": {
-        "en": "Upper South Province"
-    },
-    "8030591": {
-        "en": "Upper North"
-    },
-    "8030592": {
-        "en": "Central Province"
-    },
-    "8030593": {
-        "en": "South Central Province"
-    },
-    "8030594": {
-        "en": "North Central"
-    },
-    "8030595": {
-        "en": "North Province"
-    },
     "8133582": {
         "en": "Log"
     },
@@ -11037,6 +10958,9 @@
     },
     "8133592": {
         "de": "Sankt Ruprecht"
+    },
+    "8239588": {
+        "en": "Naypyitaw District"
     },
     "8299747": {
         "en": "Saint John"
@@ -11096,8 +11020,32 @@
     "8469241": {
         "en": "Njombe"
     },
-    "400741": {
-        "en": "Eastern"
+    "8604684": {
+        "en": "North Kalimantan"
+    },
+    "8604857": {
+        "fr": "Région de l'Ennedi-Ouest"
+    },
+    "8604858": {
+        "fr": "Région de l'Ennedi-Est"
+    },
+    "8693188": {
+        "en": "Kavango East"
+    },
+    "8693189": {
+        "en": "Kavango West"
+    },
+    "8986279": {
+        "en": "Gorje"
+    },
+    "9645387": {
+        "en": "Soqatra Governorate"
+    },
+    "189794": {
+        "en": "Laikipia"
+    },
+    "208741": {
+        "en": "Mongala"
     },
     "444182": {
         "en": "Dire Dawa"
@@ -11343,17 +11291,11 @@
     "2507475": {
         "es": "Argel"
     },
-    "2553603": {
-        "es": "Casablanca"
-    },
     "2565341": {
         "en": "Delta"
     },
     "2565342": {
         "en": "Adamawa"
-    },
-    "2597553": {
-        "en": "Oriental"
     },
     "2732264": {
         "es": "Viseu"
@@ -11410,6 +11352,9 @@
     },
     "3230000": {
         "es": "República Serbia"
+    },
+    "3237200": {
+        "en": "St. Brelade"
     },
     "3239318": {
         "en": "Ljubljana"

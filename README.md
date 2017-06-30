@@ -28,7 +28,7 @@ import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 * This library is capable to generate different `point of view` (ie [Territorial dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
 * This library is both modular and functional. Fits both for frontend and backend
 * This library contain external references to a `trusted` sources
-* This library is brought to you by esosedi – one of lagest cartographical site in the World. Not hipsters.
+* This library is brought to you by esosedi – one of largest cartographical site in the World. Not hipsters.
 
 # Usage
 > npm install iso3166-2-db
