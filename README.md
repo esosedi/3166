@@ -1,16 +1,17 @@
 # iso3166, iso3166-1, iso3166-2  
-(iso standart about N-letter codes of administrative divisions and subdivisions)
-The country codes in the data are in the ISO 3166-1 alpha 2 format (US, SE ...), 
-it also possible to use alpha 3 codes (USA, SWE ...) or alpha-numeric codes. In most cases one use alpha-2.
+(ISO standard about N-letter codes of administrative divisions and subdivisions)
+
+The country codes are mainly in the ISO 3166-1 `alpha 2` format (US, SE ...). 
+It also possible to use `alpha 3` codes (USA, SWE ...) or `alpha-numeric codes`. In most cases you need alpha-2.
 
 [![Build Status](https://secure.travis-ci.org/esosedi/3361.svg)](http://travis-ci.org/esosedi/3166)
 
 [![NPM](https://nodei.co/npm/iso3166-2-db.png?downloads=true&stars=true)](https://nodei.co/npm/iso3166-2-db/)
 
 >This world is small enough. 
-But not everyone knows all countries and all states. 
-So, lets just create a list of countries as iso3166-1 and lists of states or regions as iso3166-2. 
-And include external references to all sources, you may use (GeoNames, OpenStreetMap, Wikipedia, WOF)
+But not everyone knows all countries and all states.
+List of countries is known as iso3166-1 and lists of states or regions is known as iso3166-2. 
+And lets extend information withexternal references to all sources, you may use (GeoNames, OpenStreetMap, Wikipedia, WOF)
 This is nodejs/javascript module, but you can use it as set of json files from other languages 
 
 ```javascript
@@ -23,9 +24,22 @@ import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 * iso3166-1 is a country list
 * iso3166-2 is a states, regions, provinces and so on list.
 
+# Fast onboarding
+```javascript
+    // to get both states and countries in an English for US
+    import data from 'iso3166-2-db/i18n/dispute/UN/en';
+
+    // to get only list countries in an English for US
+    import data from 'iso3166-2-db/countryList/UN/en';
+    
+    // to get only list stated for the country in an English for US
+    import data from 'iso3166-2-db/regions/{COUNTRYISOCODE}/UN/en';
+```
+Yep. Did not forget to add `/dispute/UN/`. It is the main difference between this library and any other.
+
 # About
 * This library provides both iso3166-1 and iso3166-2 codes
-* This library is capable to generate different `point of view` (ie [Territorial dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
+* This library is capable to generate data for different `points of view` (ie [Territorial dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
 * This library is both modular and functional. Fits both for frontend and backend
 * This library contain external references to a `trusted` sources
 * This library is brought to you by esosedi – one of largest cartographical site in the World. Not hipsters.
@@ -35,8 +49,8 @@ import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 
 You have 2 ways to use this library:
  1. Use it at `backend`. Just import few function from 'iso3166-2-db' and go on.
- You will have everything - all data, in pack of languages, with different dispute models and name sources.
- But - full database has size of few megabytes.
+ You will have everything - all data, pack of languages, with different dispute models and name sources.
+ But - full database has a size of few megabytes.
  
  2. Use it as data files, ie modular format - this way is preferred for `frontend`. 
  Result will produce much smaller code.
@@ -44,39 +58,57 @@ You have 2 ways to use this library:
 # Modular API
  * There is two versions on `modular` API - `pure` and `compiled`.
  In 99% cases you need - compiled
- 
-    * Import data from 'iso3166-2-db/countryList/dispute/UN/{lang}' to get country list.
-    * Import data from 'iso3166-2-db/regions/{iso3166-1}/dispute/UN/{lang}' to get states(regions) for selected country.
-    * Import data from 'iso3166-2-db/i18n/dispute/UN/{lang}' to get both states and countries.
+ ```javascript
+    // to get country list.
+    import data from 'iso3166-2-db/countryList/dispute/UN/{lang}'
+    // to get states(regions) for selected country.
+    import data from 'iso3166-2-db/regions/{iso3166-1}/dispute/UN/{lang}'
+    // to get both states and countries.
+    import data from 'iso3166-2-db/i18n/dispute/UN/{lang}'
+ ```
  
  Where UN - is United Nations. World from United Nations point of view. We call this - `dispute`.
  Possible values - UN, UA, TR, RU. IF you need more - open a pull request.
  
  You can also load `pure` data:  
  
-    * Import data from 'iso3166-2-db/countryList/{lang}' to get country list.
-    * Import data from 'iso3166-2-db/regions/{iso3166-1}/*' to get states(regions) for selected country.
-    * Import data from 'iso3166-2-db/i18n/{lang}' to get both states and countries.
+ ```javascript
+    //to get country list.
+    import data from 'iso3166-2-db/countryList/{lang}' 
+    // to get states(regions) for selected country.
+    import data from 'iso3166-2-db/regions/{iso3166-1}/*'
+    //to get both states and countries.
+    import data from 'iso3166-2-db/i18n/{lang}'
+ ```
  
  PS: import ..._ref, to get data with external references.
+  ```javascript
+     import data from 'iso3166-2-db/i18n/{lang}_ref'
+  ```
  
  ### example
  ```javascript
- // just import what you want - /countryList/{lang}
- import countryList from 'iso3166-2-db/countryList/en';
+  // just import what you want - /countryList/{lang}
+  import countryList from 'iso3166-2-db/countryList/en';
  
- // or, to have countryListWithForeignKeys.US.CA.reference.wikipedia and so on
- import countryListWithForeignKeys from 'iso3166-2-db/countryList/en_ref';
+  // or, to have foreignKeys to wikipedia, geonames and so on
+  import countryListWithForeignKeys from 'iso3166-2-db/countryList/en_ref';
 
   // import states for a country /countryList/{iso1}/{lang}
   // import states for a country /countryList/{iso1}/dispute/{source}/{lang}
 
-  // next will import US states for point of view of United Nations.
-  import US from 'iso3166-2-db/regions/US/dispute/UN/en'; 
-    
-  // or you can import `default` dataset
+  //  will import RU states for point of view of United Nations - without Crimea
+  import US from 'iso3166-2-db/regions/RU/dispute/UN/en';
+  //  will import RU states for point of view of Russia - including Crimea
+  import US from 'iso3166-2-db/regions/RU/dispute/RU/en';
+  ```
+  
+  ### Advanced usage
+  1. Import unprocced, `pure` data
+  ```javascript
+  // you can import `default` dataset
   import US from 'iso3166-2-db/regions/US/en';
-  // or, import with keys
+  // or, import with foreignKeys
   import US from 'iso3166-2-db/regions/US/en_ref';
   import DE from 'iso3166-2-db/regions/DE/de_ref';// use other lang for other country? Simple! 
   
@@ -86,8 +118,8 @@ You have 2 ways to use this library:
   // join country dataset with states
   const dataSet = combine(countryList, { US }) ;// !!!! region object key MUST match iso code.
   // dataSet is similar to i18n, but contains regions only for US, not for a whole world.   
-  ```
   
+```
   To process `pure` data you should call getDataSet command.
   ```javascript
   
