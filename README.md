@@ -18,6 +18,8 @@ import worldDatabase from 'iso3166-2-db/i18n/dispute/UN/en';
 import listOfCountries from 'iso3166-2-db/countryList/dispute/UN/en';
 import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 ```
+[![Try it online ](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/LgBN3qy5j) 
+- try it online.
 
 # FYI
 * iso3166-1 is a country list
