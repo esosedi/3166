@@ -1,0 +1,8 @@
+{
+  "name": "iso3166-2-db",
+  "version": "2.1.1",
+  "repository": "treetopllc/3166",
+  "scripts": [
+    "index.js"
+  ]
+}
