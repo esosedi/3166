@@ -3,7 +3,7 @@
 export default {
     rules: {
         307787: (region) => false, //drop BIG Cirpus
-        1741311: (region) => region.hasParent(1741311) && region.level == 6,//RS w/o RS-KM
+        1741311: (region) => region.hasParent(1741311) && region.level == 4,//RS w/o RS-KM
 
         1152720: (region) => false,//drop Ab
         1152717: (region) => false,//drop Oset

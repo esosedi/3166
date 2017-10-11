@@ -15,7 +15,7 @@ export default {
         3263728: (region) => false, //drop Cirpus
         3263726: (region) => false, //drop Cirpus
 
-        2088990: (region) => false //drop Serbia
+        2088990: (region) => false //drop Kosovo
     },
     fixtures: {
         72639: {

@@ -6,7 +6,7 @@ export default {
         3263728: (region) => false, //drop Cirpus
         3263726: (region) => false, //drop Cirpus
 
-        2088990: (region) => false,//drop Serbia
+        2088990: (region) => false,//drop Kosovo
 
         192691: (region) => region.hasParent(192691) || region.osmId == 195838, //move EH to MA
         195838: (region) => false, //drop EH
