@@ -1,5 +1,6 @@
 # iso3166, iso3166-1, iso3166-2  
 (ISO standard about N-letter codes of administrative divisions and subdivisions)
+In other words - Administrative Divisions of Countries (aka "Statoids").
 
 The country codes are mainly in the ISO 3166-1 `alpha 2` format (US, SE ...). 
 It also possible to use `alpha 3` codes (USA, SWE ...) or `alpha-numeric codes`. In most cases you need alpha-2.
@@ -281,6 +282,8 @@ Used sources:
   4. [Esosedi.org](http://esosedi.org/) – as main information source 
   5. [OpenStreetMap.org](http://openstreetmap.org/) – as secondary source
   6. [Whosonfirst-data](https://github.com/whosonfirst-data/) – as external links for region information (as long Pelias return region code as WOF entity]
+
+As result - iso3166-2-db is best best free source for countries divisions. With incomparable to [Statoids](http://www.statoids.com/)(1000$) quality. I mean - this one is better.  
     
 All sources used as external dictionaries, for ability to link and merge data.
 Countries and states exists by themselves and have their own names.
