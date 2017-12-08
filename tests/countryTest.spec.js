@@ -4,8 +4,8 @@ import database from '../i18n/dispute/UN/en';
 
 describe('Country test', () => {
 
-    it('should contain 233 country', () =>
-        expect(Object.keys(database)).to.have.length(233)
+    it('should contain 234 country', () =>
+        expect(Object.keys(database)).to.have.length(234)
     );
 
     it('AU states', ()=> {

@@ -6,9 +6,9 @@ import database_RU from '../i18n/dispute/RU/en';
 
 describe('Terrotorial dispute test', () => {
     it('show have difference between disputes', () => {
-        expect(database_pure).not.to.be.deep.equal(database_UN);
         expect(database_pure).not.to.be.deep.equal(database_RU);
         expect(database_UN).not.to.be.deep.equal(database_RU);
+        expect(database_pure).to.be.deep.equal(database_UN);
     });
 
     it('should be equal in equal states', () => {
