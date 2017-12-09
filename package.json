@@ -13,6 +13,13 @@
     "lint": "eslint src tests",
     "lint:fix": "eslint src tests --fix"
   },
+  "files": [
+    "mapping",
+    "lib",
+    "i18n",
+    "regions",
+    "countryList"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/esosedi/3166.git"
