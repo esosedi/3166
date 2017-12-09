@@ -1,6 +1,6 @@
 # iso3166, iso3166-1, iso3166-2  
 (ISO standard about N-letter codes of administrative divisions and subdivisions)
-In other words - Administrative Divisions of Countries (aka "Statoids").
+In other words - Administrative Divisions of Countries (aka "Statoids" or "Country names").
 
 The country codes are mainly in the ISO 3166-1 `alpha 2` format (US, SE ...). 
 It also possible to use `alpha 3` codes (USA, SWE ...) or `alpha-numeric codes`. In most cases you need alpha-2.
@@ -25,27 +25,27 @@ import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 
 # FYI
 * iso3166-1 is a country list
-* iso3166-2 is a states, regions, provinces and so on list.
+* iso3166-2 is states, regions, provinces and so on.
 
 # Fast onboarding
 ```javascript
-    // to get both states and countries in an English for US
+    // to get both states and countries in an English from UN prospective
     import data from 'iso3166-2-db/i18n/dispute/UN/en';
 
-    // to get only list countries in an English for US
+    // to get only list countries in an English from UN prospective
     import data from 'iso3166-2-db/countryList/UN/en';
     
-    // to get only list stated for the country in an English for US
-    import data from 'iso3166-2-db/regions/{COUNTRYISOCODE}/UN/en';
+    // to get only list stated for the country in an %Lang% from UN prospective
+    import data from 'iso3166-2-db/regions/{COUNTRYISOCODE}/UN/{lang}';
 ```
-Yep. Did not forget to add `/dispute/UN/`. It is the main difference between this library and any other.
+Yep. Did not forget to add `/dispute/UN/`. It is the main difference between this library and any other - it knows that world is not united, yet.
 
 # About
 * This library provides both iso3166-1 and iso3166-2 codes
 * This library is capable to generate data for different `points of view` (ie [Territorial dispute](https://en.wikipedia.org/wiki/Territorial_dispute))
 * This library is both modular and functional. Fits both for frontend and backend
 * This library contain external references to a `trusted` sources
-* This library is brought to you by esosedi – one of largest cartographical site in the World. Not hipsters.
+* This library is brought to you by esosedi – one of largest cartographical site in the World. And in the past.
 
 # Usage
 > npm install iso3166-2-db
@@ -84,7 +84,7 @@ You have 2 ways to use this library:
     import data from 'iso3166-2-db/i18n/{lang}'
  ```
  
- PS: import ..._ref, to get data with external references.
+ PS: import ..._ref, to get data with external references. It has a bit bigger size.
   ```javascript
      import data from 'iso3166-2-db/i18n/{lang}_ref'
   ```
@@ -107,7 +107,7 @@ You have 2 ways to use this library:
   ```
   
   ### Advanced usage
-  1. Import unprocced, `pure` data
+  1. Import unprocessed, `pure` data
   ```javascript
   // you can import `default` dataset
   import US from 'iso3166-2-db/regions/US/en';
@@ -149,7 +149,7 @@ You have 2 ways to use this library:
 ### creating country selector with React
  See [example](//esosedi/3166/examples/react.countrySelector.js)
  
-#Functional API
+# Functional API
 
 * How to get list of all countries: call `getDataSet` and traverse look for .name in every object inside
 * How to get states of country: call getRegionsFor(countryIsoCode) and do the same.
@@ -204,7 +204,7 @@ So we have some simple things:
     
     example: reduce(getDataSet(), 'en', ['US','CA','AU']) 
    
-**And be aware** - some `states` is not a states. Until they have iso3166-2(iso) code.
+**And be aware** - some `states` are not the states. Until they have iso3166-2(iso) code.
 Some of them contain only `FIPS`.
 
 Also **be aware** about operstreetmap_level. Most of regions have `4`. Some of them (in Slovenia) have `6`. But.. there is regions with `7`.
@@ -285,14 +285,12 @@ Used sources:
   5. [OpenStreetMap.org](http://openstreetmap.org/) – as secondary source
   6. [Whosonfirst-data](https://github.com/whosonfirst-data/) – as external links for region information (as long Pelias return region code as WOF entity]
 
-As result - iso3166-2-db is best best free source for countries divisions. With incomparable to [Statoids](http://www.statoids.com/)(1000$) quality. I mean - this one is better.  
+As result - iso3166-2-db is best best free source for countries divisions. With incomparable to [Statoids](http://www.statoids.com/)(1000$ btw) quality. I mean - this one is better.  
     
 All sources used as external dictionaries, for ability to link and merge data.
 Countries and states exists by themselves and have their own names.
 You dont have to refer to us, to wikipedia, to osm, geonames or everything else in cases you showing `our` list of countries.
 
 This is not `our` or `their` list. This is ground truth, and it cannot be licensed.
-
-Just obtain your own `reduces` version of big original file, and be happy. 
 We are on the same planet.
     
