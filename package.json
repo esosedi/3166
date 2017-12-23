@@ -12,6 +12,7 @@
     "lint:fix": "eslint src tests --fix"
   },
   "files": [
+    "data",
     "mapping",
     "lib",
     "i18n",
