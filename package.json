@@ -18,8 +18,8 @@
     "i18n",
     "regions",
     "countryList",
-    "api",
-    "combine"
+    "api.js",
+    "combine.js"
   ],
   "repository": {
     "type": "git",
