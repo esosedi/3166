@@ -17,7 +17,9 @@
     "lib",
     "i18n",
     "regions",
-    "countryList"
+    "countryList",
+    "api",
+    "combine"
   ],
   "repository": {
     "type": "git",
