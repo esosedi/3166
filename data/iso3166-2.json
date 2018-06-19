@@ -84103,34 +84103,289 @@
         },
         "regions": [
             {
-                "name": "Fukien",
+                "name": "Changhua",
                 "names": {
-                    "geonames": "Fukien",
-                    "en": "Fukien"
+                    "geonames": "Changhua",
+                    "en": "Changhua"
                 },
-                "iso": "",
+                "iso": "CHA",
                 "fips": "01",
                 "admin": "01",
                 "reference": {
-                    "geonames": 7280288,
-                    "openstreetmap": null,
-                    "openstreetmap_level": null,
+                    "geonames": 1679134,
+                    "openstreetmap": 2917549,
+                    "openstreetmap_level": 6,
                     "wikipedia": null,
                     "wof": null
                 }
             },
             {
-                "name": "Takao",
+                "name": "Chiayi",
                 "names": {
-                    "geonames": "Takao",
-                    "en": "Takao"
+                    "geonames": "Chiayi",
+                    "en": "Chiayi"
                 },
-                "iso": "KHQ",
+                "iso": "CYI",
                 "fips": "02",
                 "admin": "02",
                 "reference": {
-                    "geonames": 7280289,
+                    "geonames": 1678834,
+                    "openstreetmap": 2790418,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Chiayi",
+                "names": {
+                    "geonames": "Chiayi",
+                    "en": "Chiayi"
+                },
+                "iso": "CYQ",
+                "fips": "03",
+                "admin": "03",
+                "reference": {
+                    "geonames": 1678835,
+                    "openstreetmap": 2908173,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Hsinchu",
+                "names": {
+                    "geonames": "Hsinchu",
+                    "en": "Hsinchu"
+                },
+                "iso": "HSZ",
+                "fips": "04",
+                "admin": "04",
+                "reference": {
+                    "geonames": 1675103,
+                    "openstreetmap": 2849488,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Hsinchu",
+                "names": {
+                    "geonames": "Hsinchu",
+                    "en": "Hsinchu"
+                },
+                "iso": "HSQ",
+                "fips": "05",
+                "admin": "05",
+                "reference": {
+                    "geonames": 1675107,
+                    "openstreetmap": 2912613,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Hualien",
+                "names": {
+                    "geonames": "Hualien",
+                    "en": "Hualien"
+                },
+                "iso": "HUA",
+                "fips": "06",
+                "admin": "06",
+                "reference": {
+                    "geonames": 1674502,
+                    "openstreetmap": 2921156,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Kaohsiung",
+                "names": {
+                    "geonames": "Kaohsiung",
+                    "en": "Kaohsiung"
+                },
+                "iso": "KHH",
+                "fips": "07",
+                "admin": "07",
+                "reference": {
+                    "geonames": 9613373,
                     "openstreetmap": 2127079,
+                    "openstreetmap_level": 4,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Keelung",
+                "names": {
+                    "geonames": "Keelung",
+                    "en": "Keelung"
+                },
+                "iso": "KEE",
+                "fips": "08",
+                "admin": "08",
+                "reference": {
+                    "geonames": 6724654,
+                    "openstreetmap": 1296154,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Kinmen",
+                "names": {
+                    "geonames": "Kinmen",
+                    "en": "Kinmen"
+                },
+                "iso": "KIN",
+                "fips": "09",
+                "admin": "09",
+                "reference": {
+                    "geonames": 1676511,
+                    "openstreetmap": 3339695,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Lienchiang",
+                "names": {
+                    "geonames": "Lienchiang",
+                    "en": "Lienchiang"
+                },
+                "iso": "LIE",
+                "fips": "10",
+                "admin": "10",
+                "reference": {
+                    "geonames": 6724655,
+                    "openstreetmap": 3777249,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Miaoli",
+                "names": {
+                    "geonames": "Miaoli",
+                    "en": "Miaoli"
+                },
+                "iso": "MIA",
+                "fips": "11",
+                "admin": "11",
+                "reference": {
+                    "geonames": 1671968,
+                    "openstreetmap": 2915592,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Nantou",
+                "names": {
+                    "geonames": "Nantou",
+                    "en": "Nantou"
+                },
+                "iso": "NAN",
+                "fips": "12",
+                "admin": "12",
+                "reference": {
+                    "geonames": 1671564,
+                    "openstreetmap": 2497975,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "New Taipei",
+                "names": {
+                    "geonames": "New Taipei",
+                    "en": "New Taipei"
+                },
+                "iso": "NWT",
+                "fips": "13",
+                "admin": "13",
+                "reference": {
+                    "geonames": 1665148,
+                    "openstreetmap": 1527220,
+                    "openstreetmap_level": 4,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Penghu",
+                "names": {
+                    "geonames": "Penghu",
+                    "en": "Penghu"
+                },
+                "iso": "PEN",
+                "fips": "14",
+                "admin": "14",
+                "reference": {
+                    "geonames": 1670651,
+                    "openstreetmap": 3339738,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Pingtung",
+                "names": {
+                    "geonames": "Pingtung",
+                    "en": "Pingtung"
+                },
+                "iso": "PIF",
+                "fips": "15",
+                "admin": "15",
+                "reference": {
+                    "geonames": 1670479,
+                    "openstreetmap": 2775815,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Taichung",
+                "names": {
+                    "geonames": "Taichung",
+                    "en": "Taichung"
+                },
+                "iso": "TXG",
+                "fips": "16",
+                "admin": "16",
+                "reference": {
+                    "geonames": 1668392,
+                    "openstreetmap": 2921154,
+                    "openstreetmap_level": 4,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Tainan",
+                "names": {
+                    "geonames": "Tainan",
+                    "en": "Tainan"
+                },
+                "iso": "TNN",
+                "fips": "17",
+                "admin": "17",
+                "reference": {
+                    "geonames": 1668352,
+                    "openstreetmap": 2418506,
                     "openstreetmap_level": 4,
                     "wikipedia": null,
                     "wof": null
@@ -84142,9 +84397,9 @@
                     "geonames": "Taipei",
                     "en": "Taipei"
                 },
-                "iso": "TPQ",
-                "fips": "03",
-                "admin": "03",
+                "iso": "TPE",
+                "fips": "18",
+                "admin": "18",
                 "reference": {
                     "geonames": 7280290,
                     "openstreetmap": 1293250,
@@ -84154,18 +84409,69 @@
                 }
             },
             {
-                "name": "Taiwan",
+                "name": "Taitung",
                 "names": {
-                    "geonames": "Taiwan",
-                    "en": "Taiwan"
+                    "geonames": "Taitung",
+                    "en": "Taitung"
                 },
-                "iso": "TNQ",
-                "fips": "04",
-                "admin": "04",
+                "iso": "TTT",
+                "fips": "19",
+                "admin": "19",
                 "reference": {
-                    "geonames": 7280291,
-                    "openstreetmap": 2418506,
+                    "geonames": 1668292,
+                    "openstreetmap": 2921155,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Taoyuan",
+                "names": {
+                    "geonames": "Taoyuan",
+                    "en": "Taoyuan"
+                },
+                "iso": "TAO",
+                "fips": "20",
+                "admin": "20",
+                "reference": {
+                    "geonames": 1667900,
+                    "openstreetmap": 2770986,
                     "openstreetmap_level": 4,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Yilan",
+                "names": {
+                    "geonames": "Yilan",
+                    "en": "Yilan"
+                },
+                "iso": "ILA",
+                "fips": "21",
+                "admin": "21",
+                "reference": {
+                    "geonames": 1674197,
+                    "openstreetmap": 2912630,
+                    "openstreetmap_level": 6,
+                    "wikipedia": null,
+                    "wof": null
+                }
+            },
+            {
+                "name": "Yunlin",
+                "names": {
+                    "geonames": "Yunlin",
+                    "en": "Yunlin"
+                },
+                "iso": "YUN",
+                "fips": "22",
+                "admin": "22",
+                "reference": {
+                    "geonames": 1665194,
+                    "openstreetmap": 2915930,
+                    "openstreetmap_level": 6,
                     "wikipedia": null,
                     "wof": null
                 }
