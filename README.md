@@ -5,7 +5,7 @@ In other words - Administrative Divisions of Countries (aka "Statoids" or "Count
 The country codes are mainly in the ISO 3166-1 `alpha 2` format (US, SE ...). 
 It also possible to use `alpha 3` codes (USA, SWE ...) or `alpha-numeric codes`. In most cases you need alpha-2.
 
-[![Build Status](https://secure.travis-ci.org/esosedi/3361.svg)](http://travis-ci.org/esosedi/3166)
+[![Build Status](https://secure.travis-ci.org/esosedi/3166.svg)](http://travis-ci.org/esosedi/3166)
 
 [![NPM](https://nodei.co/npm/iso3166-2-db.png?downloads=true&stars=true)](https://nodei.co/npm/iso3166-2-db/)
 
