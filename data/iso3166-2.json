@@ -86213,16 +86213,16 @@
                 }
             },
             {
-                "name": "Washington, D.C.",
+                "name": "District of Columbia",
                 "names": {
-                    "geonames": "Washington, D.C.",
-                    "ru": "Вашингтон",
-                    "en": "Washington",
+                    "geonames": "District of Columbia",
+                    "ru": "Округ Колумбия",
+                    "en": "District of Columbia",
                     "ar": "واشنطن العاصمة",
-                    "de": "Washington",
-                    "es": "Washington D. C.",
-                    "fr": "Washington",
-                    "it": "Washington",
+                    "de": "District of Columbia",
+                    "es": "Distrito de Columbia",
+                    "fr": "District de Columbia",
+                    "it": "Distretto della Columbia",
                     "zh": "华盛顿哥伦比亚特区"
                 },
                 "iso": "DC",
