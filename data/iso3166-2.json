@@ -38207,6 +38207,7 @@
             "es": "Dinastía Joseon",
             "fr": "Période Joseon",
             "it": "Dinastia Joseon",
+            "kr": "조선민주주의인민공화국",
             "ru": "Династия Чосон",
             "zh": "李氏朝鲜"
         },
@@ -38222,6 +38223,7 @@
                     "es": "Pionyang",
                     "fr": "Pyongyang",
                     "it": "Pyongyang",
+                    "kr": "평양직할시",
                     "zh": "平壤"
                 },
                 "iso": "01",
@@ -38245,6 +38247,7 @@
                     "es": "P'yŏngan del Sur",
                     "fr": "Pyongan du Sud",
                     "it": "Sud Pyongan",
+                    "kr": "평안남도",
                     "zh": "平安南道"
                 },
                 "iso": "02",
@@ -38268,6 +38271,7 @@
                     "es": "P'yŏngan del Norte",
                     "fr": "Pyongan du Nord",
                     "it": "Nord Pyongan",
+                    "kr": "평안북도",
                     "zh": "平安北道"
                 },
                 "iso": "03",
@@ -38291,6 +38295,7 @@
                     "es": "Kangwon-do",
                     "fr": "Kangwon",
                     "it": "Kangwon",
+                    "kr": "강원도",
                     "zh": "江原道"
                 },
                 "iso": "07",
@@ -38314,6 +38319,7 @@
                     "es": "Hwanghae del Sur",
                     "fr": "Hwanghae du Sud",
                     "it": "Sud Hwanghae",
+                    "kr": "황해남도",
                     "zh": "黄海南道"
                 },
                 "iso": "05",
@@ -38337,6 +38343,7 @@
                     "es": "Hwanghae del Norte",
                     "fr": "Hwanghae du Nord",
                     "it": "Nord Hwanghae",
+                    "kr": "황해북도",
                     "zh": "黄海北道"
                 },
                 "iso": "06",
@@ -38360,6 +38367,7 @@
                     "es": "Hamgyŏng del Sur",
                     "fr": "Hamgyong du Sud",
                     "it": "Sud Hamgyong",
+                    "kr": "함경북도",
                     "zh": "咸镜南道"
                 },
                 "iso": "08",
@@ -38383,6 +38391,7 @@
                     "es": "Ryanggang",
                     "fr": "Ryanggang",
                     "it": "Ryanggang",
+                    "kr": "량강도",
                     "zh": "两江道"
                 },
                 "iso": "10",
@@ -38406,6 +38415,7 @@
                     "es": "Hamgyŏng del Norte",
                     "fr": "Hamgyong du Nord",
                     "it": "Nord Hamgyong",
+                    "kr": "함경북도",
                     "zh": "咸镜北道"
                 },
                 "iso": "09",
@@ -38429,6 +38439,7 @@
                     "es": "Chagang",
                     "fr": "Jagang",
                     "it": "Chagang",
+                    "kr": "자강도",
                     "zh": "慈江道"
                 },
                 "iso": "04",
@@ -38452,6 +38463,7 @@
                     "es": "Rasŏn",
                     "fr": "Rasŏn",
                     "it": "Rasŏn",
+                    "kr": "라선특별시",
                     "zh": "羅先特別市"
                 },
                 "iso": "13",
@@ -38485,6 +38497,7 @@
             "es": "Corea",
             "fr": "Corée",
             "it": "Corea",
+            "kr": "대한민국",
             "ru": "Корея",
             "zh": "朝鲜"
         },
@@ -38500,6 +38513,7 @@
                     "es": "Ulsan",
                     "fr": "Ulsan",
                     "it": "Ulsan",
+                    "kr": "울산광역시",
                     "zh": "蔚山广域市"
                 },
                 "iso": "31",
@@ -38524,6 +38538,7 @@
                     "es": "Daejeon",
                     "fr": "Daejeon",
                     "it": "Daejeon",
+                    "kr": "대전광역시",
                     "zh": "大田广域市"
                 },
                 "iso": "30",
@@ -38548,6 +38563,7 @@
                     "es": "Daegu",
                     "fr": "Daegu",
                     "it": "Daegu",
+                    "kr": "대구광역시",
                     "zh": "大邱廣域市"
                 },
                 "iso": "27",
@@ -38572,6 +38588,7 @@
                     "es": "Seúl",
                     "fr": "Séoul",
                     "it": "Seul",
+                    "kr": "서울특별시",
                     "zh": "首爾"
                 },
                 "iso": "11",
@@ -38596,6 +38613,7 @@
                     "es": "Busan",
                     "fr": "Busan",
                     "it": "Busan",
+                    "kr": "부산광역시",
                     "zh": "釜山廣域市"
                 },
                 "iso": "26",
@@ -38619,6 +38637,7 @@
                     "es": "Gyeongsang del Norte",
                     "fr": "Gyeongsang du Nord",
                     "it": "Nord Gyeongsang",
+                    "kr": "경상북도",
                     "zh": "庆尚北道"
                 },
                 "iso": "47",
@@ -38643,6 +38662,7 @@
                     "es": "Gyeonggi",
                     "fr": "Gyeonggi",
                     "it": "Gyeonggi",
+                    "kr": "경기도",
                     "zh": "京畿道"
                 },
                 "iso": "41",
@@ -38667,6 +38687,7 @@
                     "es": "Gwangju",
                     "fr": "Gwangju",
                     "it": "Gwangju",
+                    "kr": "광주광역시",
                     "zh": "光州廣域市"
                 },
                 "iso": "29",
@@ -38690,6 +38711,7 @@
                     "es": "Gangwon",
                     "fr": "Gangwon",
                     "it": "Gangwon",
+                    "kr": "강원도",
                     "ru": "Канвондо",
                     "zh": "江原道"
                 },
@@ -38715,6 +38737,7 @@
                     "es": "Incheon",
                     "fr": "Incheon",
                     "it": "Incheon",
+                    "kr": "인천광역시",
                     "zh": "仁川廣域市"
                 },
                 "iso": "28",
@@ -38739,6 +38762,7 @@
                     "es": "Chungcheong del Sur",
                     "fr": "Chungcheong du Sud",
                     "it": "Sud Chungcheong",
+                    "kr": "충청남도",
                     "zh": "忠清南道"
                 },
                 "iso": "44",
@@ -38763,6 +38787,7 @@
                     "es": "Chungcheong del Norte",
                     "fr": "Chungcheong du Nord",
                     "it": "Nord Chungcheong",
+                    "kr": "충청북도",
                     "zh": "忠清北道"
                 },
                 "iso": "43",
@@ -38786,6 +38811,7 @@
                     "es": "Jeolla del Sur",
                     "fr": "Jeolla du Sud",
                     "it": "Sud Jeolla",
+                    "kr": "전라남도",
                     "zh": "全羅南道"
                 },
                 "iso": "46",
@@ -38809,6 +38835,7 @@
                     "es": "Jeolla del Norte",
                     "fr": "Jeolla du Nord",
                     "it": "Nord Jeolla",
+                    "kr": "전라북도",
                     "zh": "全羅北道"
                 },
                 "iso": "45",
@@ -38833,6 +38860,7 @@
                     "es": "Jeju",
                     "fr": "Jeju-do",
                     "it": "Jeju-do",
+                    "kr": "제주특별자치도",
                     "zh": "濟州特別自治道"
                 },
                 "iso": "49",
@@ -38856,6 +38884,7 @@
                     "es": "Gyeongsang del Sur",
                     "fr": "Gyeongsang du Sud",
                     "it": "Sud Gyeongsang",
+                    "kr": "경상남도",
                     "zh": "庆尚南道"
                 },
                 "iso": "48",
@@ -38873,7 +38902,8 @@
                 "name": "Sejong-si",
                 "names": {
                     "geonames": "Sejong-si",
-                    "en": "Sejong-si"
+                    "en": "Sejong-si",
+                    "kr": "세종특별자치시"
                 },
                 "iso": "22",
                 "fips": "22",

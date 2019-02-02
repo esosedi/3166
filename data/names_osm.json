@@ -4677,10 +4677,12 @@
         "es": "Seúl",
         "fr": "Séoul",
         "it": "Seul",
+        "kr": "서울특별시",
         "ru": "Сеул"
     },
     "2297419": {
-        "en": "Incheon"
+        "en": "Incheon",
+        "kr": "인천광역시"
     },
     "2301441": {
         "en": "Svay Rieng"
@@ -4691,6 +4693,7 @@
         "es": "Gyeongsang del Norte",
         "fr": "Gyeongsang du Nord",
         "it": "Nord Gyeongsang",
+        "kr": "경상북도",
         "ru": "Кёнсан-Пукто",
         "zh": "庆尚北道"
     },
@@ -4700,6 +4703,7 @@
         "es": "Gyeonggi",
         "fr": "Gyeonggi",
         "it": "Gyeonggi",
+        "kr": "경기도",
         "ru": "Кёнгидо",
         "zh": "京畿道"
     },
@@ -4709,6 +4713,7 @@
         "es": "Gangwon",
         "fr": "Gangwon",
         "it": "Gangwon",
+        "kr": "강원도",
         "ru": "Канвондо",
         "zh": "江原道"
     },
@@ -4718,6 +4723,7 @@
         "es": "Chungcheong del Norte",
         "fr": "Chungcheong du Nord",
         "it": "Nord Chungcheong",
+        "kr": "충청북도",
         "ru": "Чхунчхон-Пукто",
         "zh": "忠清北道"
     },
@@ -4727,6 +4733,7 @@
         "es": "Chungcheong del Sur",
         "fr": "Chungcheong du Sud",
         "it": "Sud Chungcheong",
+        "kr": "충청남도",
         "ru": "Чхунчхон-Намдо",
         "zh": "忠清南道"
     },
@@ -4736,6 +4743,7 @@
         "es": "Ciudad de Sejong",
         "fr": "Sejong",
         "it": "Città di Sejong",
+        "kr": "세종특별자치시",
         "ru": "Сечжон",
         "zh": "世宗特別自治市"
     },
@@ -4746,6 +4754,7 @@
         "es": "Daejeon",
         "fr": "Daejeon",
         "it": "Daejeon",
+        "kr": "대전광역시",
         "ru": "Тэджон",
         "zh": "大田广域市"
     },
@@ -4755,6 +4764,7 @@
         "es": "Jeolla del Norte",
         "fr": "Jeolla du Nord",
         "it": "Nord Jeolla",
+        "kr": "전라북도",
         "ru": "Чолла-Пукто",
         "zh": "全羅北道"
     },
@@ -4773,6 +4783,7 @@
         "es": "Gyeongsang del Sur",
         "fr": "Gyeongsang du Sud",
         "it": "Sud Gyeongsang",
+        "kr": "경상남도",
         "ru": "Кёнсан-Намдо",
         "zh": "庆尚南道"
     },
@@ -4783,6 +4794,7 @@
         "es": "Ulsan",
         "fr": "Ulsan",
         "it": "Ulsan",
+        "kr": "울산광역시",
         "ru": "Ульсан",
         "zh": "蔚山广域市"
     },
@@ -4793,6 +4805,7 @@
         "es": "Daegu",
         "fr": "Daegu",
         "it": "Daegu",
+        "kr": "대구광역시",
         "ru": "Тэгу",
         "zh": "大邱廣域市"
     },
@@ -4803,6 +4816,7 @@
         "es": "Busan",
         "fr": "Busan",
         "it": "Busan",
+        "kr": "부산광역시",
         "ru": "Пусан",
         "zh": "釜山廣域市"
     },
@@ -4812,6 +4826,7 @@
         "es": "Jeolla del Sur",
         "fr": "Jeolla du Sud",
         "it": "Sud Jeolla",
+        "kr": "전라남도",
         "ru": "Чолла-Намдо",
         "zh": "全羅南道"
     },
@@ -4822,6 +4837,7 @@
         "es": "Jeju",
         "fr": "Jeju",
         "it": "Jeju-do",
+        "kr": "제주특별자치도",
         "ru": "Чеджудо",
         "zh": "濟州特別自治道"
     },
@@ -4832,6 +4848,7 @@
         "es": "Gwangju",
         "fr": "Gwangju",
         "it": "Gwangju",
+        "kr": "광주광역시",
         "ru": "Кванджу",
         "zh": "光州廣域市"
     },
