@@ -18,7 +18,11 @@
             "fr": "Andorre",
             "it": "Andorra",
             "ru": "Андорра",
-            "zh": "Chinese"
+            "zh": "安道尔",
+            "he": "אנדורה",
+            "hi": "अण्डोरा",
+            "ja": "アンドラ",
+            "pt": "Andorra"
         },
         "regions": [
             {
@@ -204,7 +208,11 @@
             "fr": "Émirats arabes unis",
             "it": "Emirati Arabi Uniti",
             "ru": "Объединённые Арабские Эмираты",
-            "zh": "阿拉伯联合酋长国"
+            "zh": "阿拉伯联合酋长国",
+            "he": "איחוד האמירויות הערביות",
+            "hi": "संयुक्त अरब अमीरात",
+            "ja": "アラブ首長国連邦",
+            "pt": "Emirados Árabes Unidos"
         },
         "regions": [
             {
@@ -396,7 +404,11 @@
             "fr": "Afghanistan",
             "it": "Afghanistan",
             "ru": "Афганистан",
-            "zh": "Chinese"
+            "zh": "阿富汗",
+            "he": "אפגניסטן",
+            "hi": "अफ़ग़ानिस्तान",
+            "ja": "アフガニスタン",
+            "pt": "Afeganistão"
         },
         "regions": [
             {
@@ -1253,7 +1265,11 @@
             "fr": "Antigua-et-Barbuda",
             "it": "Antigua e Barbuda",
             "ru": "Антигуа и Барбуда",
-            "zh": "安提瓜和巴布达"
+            "zh": "安提瓜和巴布达",
+            "he": "אנטיגואה וברבודה",
+            "hi": "अण्टीगुआ और बारबूडा",
+            "ja": "アンティグア・バーブーダ",
+            "pt": "Antígua e Barbuda"
         },
         "regions": [
             {
@@ -1449,13 +1465,17 @@
         "names": {
             "geonames": "Anguilla",
             "en": "Anguilla",
-            "ar": "أنجويلا",
+            "ar": "أنغويلا",
             "de": "Anguilla",
             "es": "Anguila",
             "fr": "Anguilla",
             "it": "Anguilla",
             "ru": "Ангилья",
-            "zh": "安圭拉"
+            "zh": "安圭拉",
+            "he": "אנגווילה",
+            "hi": "अंगुइला",
+            "ja": "アンギラ",
+            "pt": "Anguilla"
         },
         "regions": [
             {
@@ -1717,7 +1737,11 @@
             "fr": "Albanie",
             "it": "Albania",
             "ru": "Албания",
-            "zh": "阿尔巴尼亚"
+            "zh": "阿尔巴尼亚",
+            "he": "אלבניה",
+            "hi": "अल्बानिया",
+            "ja": "アルバニア",
+            "pt": "Albânia"
         },
         "regions": [
             {
@@ -1981,7 +2005,11 @@
             "fr": "Arménie",
             "it": "Armenia",
             "ru": "Армения",
-            "zh": "Chinese"
+            "zh": "亞美尼亞",
+            "he": "ארמניה",
+            "hi": "आर्मीनिया",
+            "ja": "アルメニア",
+            "pt": "Arménia"
         },
         "regions": [
             {
@@ -2261,7 +2289,11 @@
             "fr": "Angola",
             "it": "Angola",
             "ru": "Ангола",
-            "zh": "安哥拉"
+            "zh": "安哥拉",
+            "he": "אנגולה",
+            "hi": "अंगोला",
+            "ja": "アンゴラ",
+            "pt": "Angola"
         },
         "regions": [
             {
@@ -2707,7 +2739,11 @@
             "fr": "Antarctique",
             "it": "Antartide",
             "ru": "Антарктида",
-            "zh": "Chinese"
+            "zh": "南极洲",
+            "he": "אנטארקטיקה",
+            "hi": "अंटार्कटिका",
+            "ja": "南極大陸",
+            "pt": "Antártida"
         },
         "regions": []
     },
@@ -2730,7 +2766,11 @@
             "fr": "Argentine",
             "it": "Argentina",
             "ru": "Аргентина",
-            "zh": "阿根廷"
+            "zh": "阿根廷",
+            "he": "ארגנטינה",
+            "hi": "अर्जेण्टीना",
+            "ja": "アルゼンチン",
+            "pt": "Argentina"
         },
         "regions": [
             {
@@ -3330,7 +3370,11 @@
             "fr": "Samoa américaines",
             "it": "Samoa Americane",
             "ru": "Американское Самоа",
-            "zh": "美屬薩摩亞"
+            "zh": "美屬薩摩亞",
+            "he": "סמואה האמריקנית",
+            "hi": "अमेरिकी समोआ",
+            "ja": "アメリカ領サモア",
+            "pt": "Samoa Americana"
         },
         "regions": [
             {
@@ -3439,7 +3483,11 @@
             "fr": "Autriche",
             "it": "Austria",
             "ru": "Австрия",
-            "zh": "Chinese"
+            "zh": "奥地利",
+            "he": "אוסטריה",
+            "hi": "ऑस्ट्रिया",
+            "ja": "オーストリア",
+            "pt": "Áustria"
         },
         "regions": [
             {
@@ -3679,7 +3727,11 @@
             "fr": "Australie",
             "it": "Australia",
             "ru": "Австралия",
-            "zh": "澳大利亚"
+            "zh": "澳大利亚",
+            "he": "אוסטרליה",
+            "hi": "ऑस्ट्रेलिया",
+            "ja": "オーストラリア",
+            "pt": "Austrália"
         },
         "regions": [
             {
@@ -3894,7 +3946,11 @@
             "fr": "Azerbaïdjan",
             "it": "Azerbaigian",
             "ru": "Азербайджан",
-            "zh": "阿塞拜疆"
+            "zh": "阿塞拜疆",
+            "he": "אזרבייג'ן",
+            "hi": "अज़रबाइजान",
+            "ja": "アゼルバイジャン",
+            "pt": "Azerbaijão"
         },
         "regions": [
             {
@@ -5533,11 +5589,15 @@
             "en": "Bosnia and Herzegovina",
             "ar": "البوسنة والهرسك",
             "de": "Bosnien und Herzegowina",
-            "es": "Bosnia-Herzegovina",
+            "es": "Bosnia y Herzegovina",
             "fr": "Bosnie-Herzégovine",
             "it": "Bosnia ed Erzegovina",
             "ru": "Босния и Герцеговина",
-            "zh": "波斯尼亚和黑塞哥维那"
+            "zh": "波斯尼亚和黑塞哥维那",
+            "he": "בוסניה והרצגובינה",
+            "hi": "बॉस्निया और हर्ज़ेगोविना",
+            "ja": "ボスニア・ヘルツェゴビナ",
+            "pt": "Bósnia e Herzegovina"
         },
         "regions": [
             {
@@ -5632,7 +5692,11 @@
             "fr": "Barbade",
             "it": "Barbados",
             "ru": "Барбадос",
-            "zh": "巴巴多斯"
+            "zh": "巴巴多斯",
+            "he": "ברבדוס",
+            "hi": "बारबाडोस",
+            "ja": "バルバドス",
+            "pt": "Barbados"
         },
         "regions": [
             {
@@ -5886,7 +5950,11 @@
             "fr": "Bangladesh",
             "it": "Bangladesh",
             "ru": "Бангладеш",
-            "zh": "孟加拉国"
+            "zh": "孟加拉国",
+            "he": "בנגלדש",
+            "hi": "बांग्लादेश",
+            "ja": "バングラデシュ",
+            "pt": "Bangladesh"
         },
         "regions": [
             {
@@ -6088,7 +6156,11 @@
             "fr": "Belgique",
             "it": "Belgio",
             "ru": "Бельгия",
-            "zh": "比利时"
+            "zh": "比利时",
+            "he": "בלגיה",
+            "hi": "बेल्जियम",
+            "ja": "ベルギー",
+            "pt": "Bélgica"
         },
         "regions": [
             {
@@ -6182,7 +6254,11 @@
             "fr": "Burkina Faso",
             "it": "Burkina Faso",
             "ru": "Буркина-Фасо",
-            "zh": "布吉納法索"
+            "zh": "布吉納法索",
+            "he": "בורקינה פאסו",
+            "hi": "बुर्किना फासो",
+            "ja": "ブルキナファソ",
+            "pt": "Burkina Faso"
         },
         "regions": [
             {
@@ -6506,7 +6582,11 @@
             "fr": "Bulgarie",
             "it": "Bulgaria",
             "ru": "Болгария",
-            "zh": "Chinese"
+            "zh": "保加利亚",
+            "he": "בולגריה",
+            "hi": "बुल्गारिया",
+            "ja": "ブルガリア",
+            "pt": "Bulgária"
         },
         "regions": [
             {
@@ -7172,7 +7252,11 @@
             "fr": "Bahreïn",
             "it": "Bahrein",
             "ru": "Бахрейн",
-            "zh": "巴林"
+            "zh": "巴林",
+            "he": "בחריין",
+            "hi": "बहरीन",
+            "ja": "バーレーン",
+            "pt": "Bahrein"
         },
         "regions": [
             {
@@ -7281,7 +7365,11 @@
             "fr": "Burundi",
             "it": "Burundi",
             "ru": "Бурунди",
-            "zh": "蒲隆地"
+            "zh": "蒲隆地",
+            "he": "בורונדי",
+            "hi": "बुरुण्डी",
+            "ja": "ブルンジ",
+            "pt": "Burundi"
         },
         "regions": [
             {
@@ -7714,7 +7802,11 @@
             "fr": "Bénin",
             "it": "Benin",
             "ru": "Бенин",
-            "zh": "贝宁"
+            "zh": "贝宁",
+            "he": "בנין",
+            "hi": "बेनिन",
+            "ja": "ベナン",
+            "pt": "Benim"
         },
         "regions": [
             {
@@ -8013,8 +8105,12 @@
             "es": "Bermudas",
             "fr": "Bermudes",
             "it": "Bermuda",
-            "ru": "Бермудские Острова",
-            "zh": "百慕大"
+            "ru": "Бермудские острова",
+            "zh": "百慕大",
+            "he": "ברמודה",
+            "hi": "बरमूडा",
+            "ja": "バミューダ諸島",
+            "pt": "Bermudas"
         },
         "regions": [
             {
@@ -8225,7 +8321,11 @@
             "fr": "Brunei",
             "it": "Brunei",
             "ru": "Бруней",
-            "zh": "文莱"
+            "zh": "汶莱",
+            "he": "ברוניי",
+            "hi": "ब्रुनेई",
+            "ja": "ブルネイ",
+            "pt": "Brunei"
         },
         "regions": [
             {
@@ -8338,7 +8438,11 @@
             "fr": "Bolivie",
             "it": "Bolivia",
             "ru": "Боливия",
-            "zh": "玻利維亞"
+            "zh": "玻利維亞",
+            "he": "בוליביה",
+            "hi": "बोलिविया",
+            "ja": "ボリビア",
+            "pt": "Bolívia"
         },
         "regions": [
             {
@@ -8558,12 +8662,14 @@
             "geonames": "Bonaire, Saint Eustatius and Saba ",
             "en": "Caribbean Netherlands",
             "ar": "الجزر الكاريبية الهولندية",
-            "de": "Besondere Gemeinde",
+            "de": "Karibische Niederlande",
             "es": "Caribe Neerlandés",
             "fr": "Pays-Bas caribéens",
-            "it": "Isole BES",
-            "ru": "Бонэйр",
-            "zh": "荷蘭加勒比區"
+            "it": "Paesi Bassi caraibici",
+            "ru": "Бонэйр, Синт-Эстатиус и Саба",
+            "zh": "荷蘭加勒比區",
+            "ja": "ボネール、シント・ユースタティウスおよびサバ",
+            "pt": "Países Baixos Caribenhos"
         },
         "regions": [
             {
@@ -8659,7 +8765,11 @@
             "fr": "Brésil",
             "it": "Brasile",
             "ru": "Бразилия",
-            "zh": "Chinese"
+            "zh": "巴西",
+            "he": "ברזיל",
+            "hi": "ब्राज़ील",
+            "ja": "ブラジル",
+            "pt": "Brasil"
         },
         "regions": [
             {
@@ -9325,13 +9435,17 @@
         "names": {
             "geonames": "Bahamas",
             "en": "The Bahamas",
-            "ar": "البهاما",
+            "ar": "باهاماس",
             "de": "Bahamas",
             "es": "Bahamas",
             "fr": "Bahamas",
             "it": "Bahamas",
             "ru": "Багамские Острова",
-            "zh": "巴哈马"
+            "zh": "巴哈马",
+            "he": "איי בהאמה",
+            "hi": "बहामास",
+            "ja": "バハマ",
+            "pt": "Bahamas"
         },
         "regions": [
             {
@@ -10050,7 +10164,11 @@
             "fr": "Bhoutan",
             "it": "Bhutan",
             "ru": "Бутан",
-            "zh": "不丹"
+            "zh": "不丹",
+            "he": "בהוטן",
+            "hi": "भूटान",
+            "ja": "ブータン",
+            "pt": "Butão"
         },
         "regions": [
             {
@@ -10534,7 +10652,11 @@
             "fr": "Botswana",
             "it": "Botswana",
             "ru": "Ботсвана",
-            "zh": "波札那"
+            "zh": "波札那",
+            "he": "בוטסואנה",
+            "hi": "बोत्सवाना",
+            "ja": "ボツワナ",
+            "pt": "Botswana"
         },
         "regions": [
             {
@@ -10758,13 +10880,17 @@
         "names": {
             "geonames": "Belarus",
             "en": "Belarus",
-            "ar": "بيلاروسيا",
+            "ar": "روسيا البيضاء",
             "de": "Weißrussland",
             "es": "Bielorrusia",
             "fr": "Biélorussie",
             "it": "Bielorussia",
             "ru": "Белоруссия",
-            "zh": "白俄罗斯"
+            "zh": "白俄罗斯",
+            "he": "בלארוס",
+            "hi": "बेलारूस",
+            "ja": "ベラルーシ",
+            "pt": "Bielorrússia"
         },
         "regions": [
             {
@@ -10955,7 +11081,11 @@
             "fr": "Belize",
             "it": "Belize",
             "ru": "Белиз",
-            "zh": "伯利兹"
+            "zh": "伯利兹",
+            "he": "בליז",
+            "hi": "बेलीज़",
+            "ja": "ベリーズ",
+            "pt": "Belize"
         },
         "regions": [
             {
@@ -11111,7 +11241,11 @@
             "fr": "Canada",
             "it": "Canada",
             "ru": "Канада",
-            "zh": "加拿大"
+            "zh": "加拿大",
+            "he": "קנדה",
+            "hi": "कनाडा",
+            "ja": "カナダ",
+            "pt": "Canadá"
         },
         "regions": [
             {
@@ -11441,13 +11575,17 @@
         "names": {
             "geonames": "Democratic Republic of the Congo",
             "en": "Democratic Republic of the Congo",
-            "ar": "جمهور��ة الكونغو الديمقراطية",
+            "ar": "جمهورية الكونغو الديمقراطية",
             "de": "Demokratische Republik Kongo",
             "es": "República Democrática del Congo",
             "fr": "République démocratique du Congo",
             "it": "Repubblica Democratica del Congo",
             "ru": "Демократическая Республика Конго",
-            "zh": "刚果民主共和国"
+            "zh": "刚果民主共和国",
+            "he": "הרפובליקה הדמוקרטית של קונגו",
+            "hi": "कांगो लोकतान्त्रिक गणराज्य",
+            "ja": "コンゴ民主共和国",
+            "pt": "República Democrática do Congo"
         },
         "regions": [
             {
@@ -11960,7 +12098,11 @@
             "fr": "République centrafricaine",
             "it": "Repubblica Centrafricana",
             "ru": "Центральноафриканская Республика",
-            "zh": "中非共和國"
+            "zh": "中非共和國",
+            "he": "הרפובליקה המרכז-אפריקאית",
+            "hi": "मध्य अफ़्रीकी गणराज्य",
+            "ja": "中央アフリカ共和国",
+            "pt": "República Centro-Africana"
         },
         "regions": [
             {
@@ -12376,7 +12518,11 @@
             "fr": "République du Congo",
             "it": "Repubblica del Congo",
             "ru": "Республика Конго",
-            "zh": "刚果共和国"
+            "zh": "刚果共和国",
+            "he": "הרפובליקה של קונגו",
+            "hi": "कांगो गणराज्य",
+            "ja": "コンゴ共和国",
+            "pt": "República do Congo"
         },
         "regions": [
             {
@@ -12670,7 +12816,11 @@
             "fr": "Suisse",
             "it": "Svizzera",
             "ru": "Швейцария",
-            "zh": "瑞士"
+            "zh": "瑞士",
+            "he": "שווייץ",
+            "hi": "स्विट्ज़रलैण्ड",
+            "ja": "スイス",
+            "pt": "Suíça"
         },
         "regions": [
             {
@@ -13311,13 +13461,17 @@
         "names": {
             "geonames": "Ivory Coast",
             "en": "Ivory Coast",
-            "ar": "كوت ديفوار",
+            "ar": "ساحل العاج",
             "de": "Elfenbeinküste",
             "es": "Costa de Marfil",
             "fr": "Côte d'Ivoire",
             "it": "Costa d'Avorio",
             "ru": "Кот-д’Ивуар",
-            "zh": "科特迪瓦"
+            "zh": "科特迪瓦",
+            "he": "חוף השנהב",
+            "hi": "कोत दिव्वार",
+            "ja": "コートジボワール",
+            "pt": "Costa do Marfim"
         },
         "regions": [
             {
@@ -13579,7 +13733,11 @@
             "fr": "Îles Cook",
             "it": "Isole Cook",
             "ru": "Острова Кука",
-            "zh": "库克群岛"
+            "zh": "库克群岛",
+            "he": "איי קוק",
+            "hi": "कुक द्वीपसमूह",
+            "ja": "クック諸島",
+            "pt": "Ilhas Cook"
         },
         "regions": []
     },
@@ -13602,7 +13760,11 @@
             "fr": "Chili",
             "it": "Cile",
             "ru": "Чили",
-            "zh": "智利"
+            "zh": "智利",
+            "he": "צ'ילה",
+            "hi": "चिली",
+            "ja": "チリ",
+            "pt": "Chile"
         },
         "regions": [
             {
@@ -13971,7 +14133,11 @@
             "fr": "Cameroun",
             "it": "Camerun",
             "ru": "Камерун",
-            "zh": "喀麦隆"
+            "zh": "喀麦隆",
+            "he": "קמרון",
+            "hi": "कैमरुन",
+            "ja": "カメルーン",
+            "pt": "Camarões"
         },
         "regions": [
             {
@@ -14215,12 +14381,16 @@
             "geonames": "China",
             "en": "China",
             "ar": "الصين",
-            "de": "Volksrepublik China",
-            "es": "República Popular China",
-            "fr": "République populaire de Chine",
+            "de": "China",
+            "es": "China",
+            "fr": "Chine",
             "it": "Cina",
-            "ru": "Китайская Народная Республика",
-            "zh": "中华人民共和国"
+            "ru": "Китай",
+            "zh": "中國",
+            "he": "סין",
+            "hi": "चीन",
+            "ja": "中国",
+            "pt": "China"
         },
         "regions": [
             {
@@ -14987,7 +15157,11 @@
             "fr": "Colombie",
             "it": "Colombia",
             "ru": "Колумбия",
-            "zh": "Chinese"
+            "zh": "哥伦比亚",
+            "he": "קולומביה",
+            "hi": "कोलम्बिया",
+            "ja": "コロンビア",
+            "pt": "Colômbia"
         },
         "regions": [
             {
@@ -15768,7 +15942,11 @@
             "fr": "Costa Rica",
             "it": "Costa Rica",
             "ru": "Коста-Рика",
-            "zh": "哥斯达黎加"
+            "zh": "哥斯达黎加",
+            "he": "קוסטה ריקה",
+            "hi": "कोस्ता रीका",
+            "ja": "コスタリカ",
+            "pt": "Costa Rica"
         },
         "regions": [
             {
@@ -15959,7 +16137,11 @@
             "fr": "Cuba",
             "it": "Cuba",
             "ru": "Куба",
-            "zh": "古巴"
+            "zh": "古巴",
+            "he": "קובה",
+            "hi": "क्यूबा",
+            "ja": "キューバ",
+            "pt": "Cuba"
         },
         "regions": [
             {
@@ -16348,7 +16530,11 @@
             "fr": "Cap-Vert",
             "it": "Capo Verde",
             "ru": "Кабо-Верде",
-            "zh": "佛得角"
+            "zh": "佛得角",
+            "he": "כף ורדה",
+            "hi": "केप वर्दे",
+            "ja": "カーボベルデ",
+            "pt": "Cabo Verde"
         },
         "regions": [
             {
@@ -16860,7 +17046,11 @@
             "fr": "Chypre",
             "it": "Cipro",
             "ru": "Республика Кипр",
-            "zh": "賽普勒斯"
+            "zh": "賽普勒斯",
+            "he": "קפריסין",
+            "hi": "साइप्रस",
+            "ja": "キプロス",
+            "pt": "Chipre"
         },
         "regions": [
             {
@@ -17028,7 +17218,11 @@
             "fr": "République tchèque",
             "it": "Repubblica Ceca",
             "ru": "Чехия",
-            "zh": "捷克"
+            "zh": "捷克",
+            "he": "צ'כיה",
+            "hi": "चेक गणराज्य",
+            "ja": "チェコ",
+            "pt": "República Checa"
         },
         "regions": [
             {
@@ -17376,7 +17570,11 @@
             "fr": "Allemagne",
             "it": "Germania",
             "ru": "Германия",
-            "zh": "Chinesisch"
+            "zh": "德国",
+            "he": "גרמניה",
+            "hi": "जर्मनी",
+            "ja": "ドイツ",
+            "pt": "Alemanha"
         },
         "regions": [
             {
@@ -17784,7 +17982,11 @@
             "fr": "Djibouti",
             "it": "Gibuti",
             "ru": "Джибути",
-            "zh": "吉布提"
+            "zh": "吉布提",
+            "he": "ג'יבוטי",
+            "hi": "जिबूती",
+            "ja": "ジブチ",
+            "pt": "Djibouti"
         },
         "regions": [
             {
@@ -17943,7 +18145,11 @@
             "fr": "Danemark",
             "it": "Danimarca",
             "ru": "Дания",
-            "zh": "kinesisk"
+            "zh": "丹麦",
+            "he": "דנמרק",
+            "hi": "डेनमार्क",
+            "ja": "デンマーク",
+            "pt": "Dinamarca"
         },
         "regions": [
             {
@@ -18083,7 +18289,11 @@
             "fr": "Dominique",
             "it": "Dominica",
             "ru": "Доминика",
-            "zh": "多米尼克"
+            "zh": "多米尼克",
+            "he": "דומיניקה",
+            "hi": "डोमिनिका",
+            "ja": "ドミニカ国",
+            "pt": "Dominica"
         },
         "regions": [
             {
@@ -18303,7 +18513,11 @@
             "fr": "République dominicaine",
             "it": "Repubblica Dominicana",
             "ru": "Доминиканская Республика",
-            "zh": "多明尼加共和國"
+            "zh": "多明尼加",
+            "he": "הרפובליקה הדומיניקנית",
+            "hi": "दोमिनिकन गणराज्य",
+            "ja": "ドミニカ共和国",
+            "pt": "República Dominicana"
         },
         "regions": [
             {
@@ -19043,7 +19257,11 @@
             "fr": "Algérie",
             "it": "Algeria",
             "ru": "Алжир",
-            "zh": "阿尔及利亚"
+            "zh": "阿尔及利亚",
+            "he": "אלג'יריה",
+            "hi": "अल्जीरिया",
+            "ja": "アルジェリア",
+            "pt": "Argélia"
         },
         "regions": [
             {
@@ -20219,7 +20437,11 @@
             "fr": "Équateur",
             "it": "Ecuador",
             "ru": "Эквадор",
-            "zh": "厄瓜多尔"
+            "zh": "厄瓜多尔",
+            "he": "אקוודור",
+            "hi": "ईक्वाडोर",
+            "ja": "エクアドル",
+            "pt": "Equador"
         },
         "regions": [
             {
@@ -20784,7 +21006,11 @@
             "fr": "Estonie",
             "it": "Estonia",
             "ru": "Эстония",
-            "zh": "爱沙尼亚"
+            "zh": "爱沙尼亚",
+            "he": "אסטוניה",
+            "hi": "एस्टोनिया",
+            "ja": "エストニア",
+            "pt": "Estónia"
         },
         "regions": [
             {
@@ -21154,7 +21380,11 @@
             "fr": "Égypte",
             "it": "Egitto",
             "ru": "Египет",
-            "zh": "Chinese"
+            "zh": "埃及",
+            "he": "מצרים",
+            "hi": "मिस्र",
+            "ja": "エジプト",
+            "pt": "Egito"
         },
         "regions": [
             {
@@ -21820,13 +22050,17 @@
         "names": {
             "geonames": "Eritrea",
             "en": "Eritrea",
-            "ar": "إرتريا",
+            "ar": "إريتريا",
             "de": "Eritrea",
             "es": "Eritrea",
             "fr": "Érythrée",
             "it": "Eritrea",
             "ru": "Эритрея",
-            "zh": "厄立特里亚"
+            "zh": "厄立特里亚",
+            "he": "אריתריאה",
+            "hi": "इरित्रिया",
+            "ja": "エリトリア",
+            "pt": "Eritreia"
         },
         "regions": [
             {
@@ -21990,7 +22224,11 @@
             "fr": "Espagne",
             "it": "Spagna",
             "ru": "Испания",
-            "zh": "Chinese"
+            "zh": "西班牙",
+            "he": "ספרד",
+            "hi": "स्पेन",
+            "ja": "スペイン",
+            "pt": "Espanha"
         },
         "regions": [
             {
@@ -22464,7 +22702,11 @@
             "fr": "Éthiopie",
             "it": "Etiopia",
             "ru": "Эфиопия",
-            "zh": "埃塞俄比亚"
+            "zh": "埃塞俄比亚",
+            "he": "אתיופיה",
+            "hi": "इथोपिया",
+            "ja": "エチオピア",
+            "pt": "Etiópia"
         },
         "regions": [
             {
@@ -22750,7 +22992,11 @@
             "fr": "Finlande",
             "it": "Finlandia",
             "ru": "Финляндия",
-            "zh": "Chinese"
+            "zh": "芬兰",
+            "he": "פינלנד",
+            "hi": "फ़िनलैण्ड",
+            "ja": "フィンランド",
+            "pt": "Finlândia"
         },
         "regions": [
             {
@@ -23206,7 +23452,11 @@
             "fr": "Fidji",
             "it": "Figi",
             "ru": "Фиджи",
-            "zh": "斐濟"
+            "zh": "斐濟",
+            "he": "פיג'י",
+            "hi": "फ़िजी",
+            "ja": "フィジー",
+            "pt": "Fiji"
         },
         "regions": [
             {
@@ -23345,7 +23595,11 @@
             "fr": "Îles Malouines",
             "it": "Isole Falkland",
             "ru": "Фолклендские острова",
-            "zh": "福克兰群岛"
+            "zh": "福克兰群岛",
+            "he": "איי פוקלנד",
+            "hi": "फ़ॉकलैंड द्वीपसमूह",
+            "ja": "フォークランド諸島",
+            "pt": "Ilhas Malvinas"
         },
         "regions": []
     },
@@ -23365,10 +23619,14 @@
             "ar": "ولايات ميكرونيسيا المتحدة",
             "de": "Föderierte Staaten von Mikronesien",
             "es": "Estados Federados de Micronesia",
-            "fr": "Micronésie",
+            "fr": "États fédérés de Micronésie",
             "it": "Stati Federati di Micronesia",
             "ru": "Федеративные Штаты Микронезии",
-            "zh": "密克罗尼西亚联邦"
+            "zh": "密克罗尼西亚联邦",
+            "he": "מיקרונזיה",
+            "hi": "संघीकृत राज्य माइक्रोनेशिया",
+            "ja": "ミクロネシア連邦",
+            "pt": "Estados Federados da Micronésia"
         },
         "regions": [
             {
@@ -23482,7 +23740,11 @@
             "fr": "Îles Féroé",
             "it": "Fær Øer",
             "ru": "Фарерские острова",
-            "zh": "法罗群岛"
+            "zh": "法罗群岛",
+            "he": "איי פארו",
+            "hi": "फ़रो द्वीपसमूह",
+            "ja": "フェロー諸島",
+            "pt": "Ilhas Feroe"
         },
         "regions": [
             {
@@ -23608,7 +23870,11 @@
             "fr": "France",
             "it": "Francia",
             "ru": "Франция",
-            "zh": "Chinese"
+            "zh": "法国",
+            "he": "צרפת",
+            "hi": "फ़्रान्स",
+            "ja": "フランス",
+            "pt": "França"
         },
         "regions": [
             {
@@ -23894,7 +24160,11 @@
             "fr": "Gabon",
             "it": "Gabon",
             "ru": "Габон",
-            "zh": "Chinese"
+            "zh": "加蓬",
+            "he": "גבון",
+            "hi": "गबोन",
+            "ja": "ガボン",
+            "pt": "Gabão"
         },
         "regions": [
             {
@@ -24125,7 +24395,11 @@
             "fr": "Royaume-Uni",
             "it": "Regno Unito",
             "ru": "Великобритания",
-            "zh": "英国"
+            "zh": "英国",
+            "he": "הממלכה המאוחדת",
+            "hi": "यूनाइटेड किंगडम",
+            "ja": "イギリス",
+            "pt": "Reino Unido"
         },
         "regions": [
             {
@@ -24239,13 +24513,17 @@
         "names": {
             "geonames": "Grenada",
             "en": "Grenada",
-            "ar": "جرينادا",
+            "ar": "غرينادا",
             "de": "Grenada",
             "es": "Granada",
             "fr": "Grenade",
             "it": "Grenada",
             "ru": "Гренада",
-            "zh": "格林纳达"
+            "zh": "格林纳达",
+            "he": "גרנדה",
+            "hi": "ग्रेनाडा",
+            "ja": "グレナダ",
+            "pt": "Granada"
         },
         "regions": [
             {
@@ -24390,7 +24668,11 @@
             "fr": "Géorgie",
             "it": "Georgia",
             "ru": "Грузия",
-            "zh": "格鲁吉亚"
+            "zh": "格鲁吉亚",
+            "he": "גאורגיה",
+            "hi": "जॉर्जिया",
+            "ja": "ジョージア",
+            "pt": "Geórgia"
         },
         "regions": [
             {
@@ -24692,8 +24974,12 @@
             "es": "Guayana Francesa",
             "fr": "Guyane",
             "it": "Guyana francese",
-            "ru": "Французская Гвиана",
-            "zh": "法屬圭亞那"
+            "ru": "Гвиана",
+            "zh": "法屬圭亞那",
+            "he": "גיאנה הצרפתית",
+            "hi": "फ़्रान्सीसी गुयाना",
+            "ja": "フランス領ギアナ",
+            "pt": "Guiana Francesa"
         },
         "regions": [
             {
@@ -24945,7 +25231,11 @@
             "fr": "Ghana",
             "it": "Ghana",
             "ru": "Гана",
-            "zh": "加纳"
+            "zh": "加纳",
+            "he": "גאנה",
+            "hi": "घाना",
+            "ja": "ガーナ",
+            "pt": "Gana"
         },
         "regions": [
             {
@@ -25175,7 +25465,11 @@
             "fr": "Gibraltar",
             "it": "Gibilterra",
             "ru": "Гибралтар",
-            "zh": "直布罗陀"
+            "zh": "直布罗陀",
+            "he": "גיברלטר",
+            "hi": "जिब्राल्टर",
+            "ja": "ジブラルタル",
+            "pt": "Gibraltar"
         },
         "regions": []
     },
@@ -25198,7 +25492,11 @@
             "fr": "Groenland",
             "it": "Groenlandia",
             "ru": "Гренландия",
-            "zh": "格陵兰"
+            "zh": "格陵兰",
+            "he": "גרינלנד",
+            "hi": "ग्रीनलैण्ड",
+            "ja": "グリーンランド",
+            "pt": "Gronelândia"
         },
         "regions": [
             {
@@ -25312,7 +25610,11 @@
             "fr": "Gambie",
             "it": "Gambia",
             "ru": "Гамбия",
-            "zh": "冈比亚"
+            "zh": "冈比亚",
+            "he": "גמביה",
+            "hi": "गाम्बिया",
+            "ja": "ガンビア",
+            "pt": "Gâmbia"
         },
         "regions": [
             {
@@ -25465,7 +25767,11 @@
             "fr": "Guinée",
             "it": "Guinea",
             "ru": "Гвинея",
-            "zh": "几内亚"
+            "zh": "几内亚",
+            "he": "גינאה",
+            "hi": "गिनी",
+            "ja": "ギニア",
+            "pt": "Guiné"
         },
         "regions": [
             {
@@ -25662,13 +25968,17 @@
         "names": {
             "geonames": "Guadeloupe",
             "en": "Guadeloupe",
-            "ar": "جوادلوب",
+            "ar": "غوادلوب",
             "de": "Guadeloupe",
             "es": "Guadalupe",
             "fr": "Guadeloupe",
             "it": "Guadalupa",
             "ru": "Гваделупа",
-            "zh": "瓜德罗普"
+            "zh": "瓜德罗普",
+            "he": "גוואדלופ",
+            "hi": "गुआदेलूप",
+            "ja": "グアドループ",
+            "pt": "Guadalupe"
         },
         "regions": [
             {
@@ -25709,7 +26019,11 @@
             "fr": "Guinée équatoriale",
             "it": "Guinea Equatoriale",
             "ru": "Экваториальная Гвинея",
-            "zh": "赤道几内亚"
+            "zh": "赤道几内亚",
+            "he": "גינאה המשוונית",
+            "hi": "भूमध्यरेखीय गिनी",
+            "ja": "赤道ギニア",
+            "pt": "Guiné Equatorial"
         },
         "regions": [
             {
@@ -25894,7 +26208,11 @@
             "fr": "Grèce",
             "it": "Grecia",
             "ru": "Греция",
-            "zh": "希腊"
+            "zh": "希腊",
+            "he": "יוון",
+            "hi": "यूनान",
+            "ja": "ギリシャ",
+            "pt": "Grécia"
         },
         "regions": [
             {
@@ -26251,10 +26569,14 @@
             "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
             "de": "Südgeorgien und die Südlichen Sandwichinseln",
             "es": "Islas Georgias del Sur y Sandwich del Sur",
-            "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
-            "it": "Georgia del Sud e Isole Sandwich Meridionali",
-            "ru": "Южная Георгия и Южные Сандвичевы острова",
-            "zh": "南喬治亞島與南桑威奇群島"
+            "fr": "Géorgie du Sud-et-les îles Sandwich du Sud",
+            "it": "Georgia del Sud e Isole Sandwich Australi",
+            "ru": "Южная Георгия и Южные Сандвичевы Острова",
+            "zh": "南乔治亚和南桑威奇群岛",
+            "he": "איי ג'ורג'יה הדרומית ואיי סנדוויץ' הדרומיים",
+            "hi": "दक्षिण जॉर्जिया एवं दक्षिण सैंडविच द्वीप समूह",
+            "ja": "サウスジョージア・サウスサンドウィッチ諸島",
+            "pt": "Ilhas Geórgia do Sul e Sandwich do Sul"
         },
         "regions": []
     },
@@ -26277,7 +26599,11 @@
             "fr": "Guatemala",
             "it": "Guatemala",
             "ru": "Гватемала",
-            "zh": "危地马拉"
+            "zh": "危地马拉",
+            "he": "גואטמלה",
+            "hi": "ग्वाटेमाला",
+            "ja": "グアテマラ",
+            "pt": "Guatemala"
         },
         "regions": [
             {
@@ -26807,7 +27133,11 @@
             "fr": "Guam",
             "it": "Guam",
             "ru": "Гуам",
-            "zh": "關島"
+            "zh": "關島",
+            "he": "גואם",
+            "hi": "गुआम",
+            "ja": "グアム",
+            "pt": "Guam"
         },
         "regions": [
             {
@@ -27154,7 +27484,11 @@
             "fr": "Guinée-Bissau",
             "it": "Guinea-Bissau",
             "ru": "Гвинея-Бисау",
-            "zh": "幾內亞比索"
+            "zh": "幾內亞比索",
+            "he": "גינאה ביסאו",
+            "hi": "गिनी-बिसाऊ",
+            "ja": "ギニアビサウ",
+            "pt": "Guiné-Bissau"
         },
         "regions": [
             {
@@ -27377,13 +27711,17 @@
         "names": {
             "geonames": "Guyana",
             "en": "Guyana",
-            "ar": "غويانا",
+            "ar": "غيانا",
             "de": "Guyana",
             "es": "Guyana",
             "fr": "Guyana",
             "it": "Guyana",
             "ru": "Гайана",
-            "zh": "圭亚那"
+            "zh": "圭亚那",
+            "he": "גיאנה",
+            "hi": "गयाना",
+            "ja": "ガイアナ",
+            "pt": "Guiana"
         },
         "regions": [
             {
@@ -27637,7 +27975,11 @@
             "fr": "Hong Kong",
             "it": "Hong Kong",
             "ru": "Гонконг",
-            "zh": "Chinese"
+            "zh": "香港",
+            "he": "הונג קונג",
+            "hi": "हॉन्ग कॉन्ग",
+            "ja": "香港",
+            "pt": "Hong Kong"
         },
         "regions": [
             {
@@ -27967,7 +28309,11 @@
             "fr": "Honduras",
             "it": "Honduras",
             "ru": "Гондурас",
-            "zh": "洪都拉斯"
+            "zh": "洪都拉斯",
+            "he": "הונדורס",
+            "hi": "हौण्डुरस",
+            "ja": "ホンジュラス",
+            "pt": "Honduras"
         },
         "regions": [
             {
@@ -28401,7 +28747,11 @@
             "fr": "Croatie",
             "it": "Croazia",
             "ru": "Хорватия",
-            "zh": "克罗地亚"
+            "zh": "克罗地亚",
+            "he": "קרואטיה",
+            "hi": "क्रोएशिया",
+            "ja": "クロアチア",
+            "pt": "Croácia"
         },
         "regions": [
             {
@@ -28927,7 +29277,11 @@
             "fr": "Haïti",
             "it": "Haiti",
             "ru": "Республика Гаити",
-            "zh": "海地"
+            "zh": "海地",
+            "he": "האיטי",
+            "hi": "हैती",
+            "ja": "ハイチ",
+            "pt": "Haiti"
         },
         "regions": [
             {
@@ -29140,7 +29494,11 @@
             "fr": "Hongrie",
             "it": "Ungheria",
             "ru": "Венгрия",
-            "zh": "匈牙利"
+            "zh": "匈牙利",
+            "he": "הונגריה",
+            "hi": "हंगरी",
+            "ja": "ハンガリー",
+            "pt": "Hungria"
         },
         "regions": [
             {
@@ -29632,18 +29990,22 @@
         "reference": {
             "geonames": 1643084,
             "openstreetmap": 304751,
-            "wikipedia": "en:Dutch_East_Indies"
+            "wikipedia": "en:Indonesia"
         },
         "names": {
             "geonames": "Indonesia",
-            "en": "Dutch East Indies",
-            "ar": "الهند الشرقية الهولندية",
-            "de": "Niederländisch-Indien",
-            "es": "Indias Orientales Neerlandesas",
-            "fr": "Indes orientales néerlandaises",
-            "it": "Indie Orientali Olandesi",
-            "ru": "Голландская Ост-Индия",
-            "zh": "荷屬東印度"
+            "en": "Indonesia",
+            "ar": "إندونيسيا",
+            "de": "Indonesien",
+            "es": "Indonesia",
+            "fr": "Indonésie",
+            "it": "Indonesia",
+            "ru": "Индонезия",
+            "zh": "印度尼西亚",
+            "he": "אינדונזיה",
+            "hi": "इंडोनेशिया",
+            "ja": "インドネシア",
+            "pt": "Indonésia"
         },
         "regions": [
             {
@@ -30454,14 +30816,18 @@
         },
         "names": {
             "geonames": "Ireland",
-            "en": "Ireland",
-            "ar": "جزيرة أيرلندا",
+            "en": "Republic of Ireland",
+            "ar": "جمهورية أيرلندا",
             "de": "Irland",
             "es": "Irlanda",
             "fr": "Irlande",
             "it": "Irlanda",
             "ru": "Ирландия",
-            "zh": "爱尔兰岛"
+            "zh": "爱尔兰",
+            "he": "אירלנד",
+            "hi": "आयरलैण्ड गणराज्य",
+            "ja": "アイルランド",
+            "pt": "República da Irlanda"
         },
         "regions": [
             {
@@ -30581,7 +30947,11 @@
             "fr": "Israël",
             "it": "Israele",
             "ru": "Израиль",
-            "zh": "Chinese"
+            "zh": "以色列",
+            "he": "ישראל",
+            "hi": "इज़राइल",
+            "ja": "イスラエル",
+            "pt": "Israel"
         },
         "regions": [
             {
@@ -30749,7 +31119,11 @@
             "fr": "Île de Man",
             "it": "Isola di Man",
             "ru": "Остров Мэн",
-            "zh": "曼島"
+            "zh": "曼島",
+            "he": "האי מאן",
+            "hi": "आइल ऑफ़ मैन",
+            "ja": "マン島",
+            "pt": "Ilha de Man"
         },
         "regions": [
             {
@@ -31181,7 +31555,11 @@
             "fr": "Inde",
             "it": "India",
             "ru": "Индия",
-            "zh": "Chinese"
+            "zh": "印度",
+            "he": "הודו",
+            "hi": "भारत",
+            "ja": "インド",
+            "pt": "Índia"
         },
         "regions": [
             {
@@ -32052,9 +32430,13 @@
             "de": "Britisches Territorium im Indischen Ozean",
             "es": "Territorio Británico del Océano Índico",
             "fr": "Territoire britannique de l'océan Indien",
-            "it": "Territorio britannico dell'oceano indiano",
-            "ru": "Британская территория в Индийском океане",
-            "zh": "英屬印度洋領地"
+            "it": "Territorio britannico dell'Oceano Indiano",
+            "ru": "Британская Территория в Индийском Океане",
+            "zh": "英屬印度洋領地",
+            "he": "הטריטוריה הבריטית באוקיינוס ההודי",
+            "hi": "ब्रिटिश हिंद महासागर क्षेत्र",
+            "ja": "イギリス領インド洋地域",
+            "pt": "Território Britânico do Oceano Índico"
         },
         "regions": []
     },
@@ -32077,7 +32459,11 @@
             "fr": "Irak",
             "it": "Iraq",
             "ru": "Ирак",
-            "zh": "伊拉克"
+            "zh": "伊拉克",
+            "he": "עיראק",
+            "hi": "इराक़",
+            "ja": "イラク",
+            "pt": "Iraque"
         },
         "regions": [
             {
@@ -32533,7 +32919,11 @@
             "fr": "Iran",
             "it": "Iran",
             "ru": "Иран",
-            "zh": "伊朗"
+            "zh": "伊朗",
+            "he": "איראן",
+            "hi": "ईरान",
+            "ja": "イラン",
+            "pt": "Irão"
         },
         "regions": [
             {
@@ -33294,7 +33684,11 @@
             "fr": "Islande",
             "it": "Islanda",
             "ru": "Исландия",
-            "zh": "Chinese"
+            "zh": "冰岛",
+            "he": "איסלנד",
+            "hi": "आइसलैण्ड",
+            "ja": "アイスランド",
+            "pt": "Islândia"
         },
         "regions": [
             {
@@ -33502,7 +33896,11 @@
             "fr": "Italie",
             "it": "Italia",
             "ru": "Италия",
-            "zh": "意大利"
+            "zh": "意大利",
+            "he": "איטליה",
+            "hi": "इटली",
+            "ja": "イタリア",
+            "pt": "Itália"
         },
         "regions": [
             {
@@ -33650,11 +34048,11 @@
                 }
             },
             {
-                "name": "Trentino-Alto Adige\/Südtirol",
+                "name": "Trentino-Alto Adige/Südtirol",
                 "names": {
                     "geonames": "Trentino-Alto Adige",
                     "ru": "Трентино-Альто-Адидже",
-                    "en": "Trentino-Alto Adige\/Südtirol",
+                    "en": "Trentino-Alto Adige/Südtirol",
                     "ar": "ترينتينو ألتو أديجي",
                     "de": "Trentino-Südtirol",
                     "es": "Trentino-Alto Adigio",
@@ -33669,7 +34067,7 @@
                     "geonames": 3165244,
                     "openstreetmap": 45757,
                     "openstreetmap_level": 4,
-                    "wikipedia": "en:Trentino-Alto_Adige\/Südtirol",
+                    "wikipedia": "en:Trentino-Alto_Adige/Südtirol",
                     "wof": "404227499"
                 }
             },
@@ -34004,9 +34402,13 @@
             "de": "Jersey",
             "es": "Jersey",
             "fr": "Jersey",
-            "it": "Baliato di Jersey",
+            "it": "Isola di Jersey",
             "ru": "Джерси",
-            "zh": "Chinese"
+            "zh": "澤西",
+            "he": "ג'רזי",
+            "hi": "जर्सी",
+            "ja": "ジャージー",
+            "pt": "Jersey"
         },
         "regions": [
             {
@@ -34234,7 +34636,11 @@
             "fr": "Jamaïque",
             "it": "Giamaica",
             "ru": "Ямайка",
-            "zh": "牙买加"
+            "zh": "牙买加",
+            "he": "ג'מייקה",
+            "hi": "जमैका",
+            "ja": "ジャマイカ",
+            "pt": "Jamaica"
         },
         "regions": [
             {
@@ -34564,7 +34970,11 @@
             "fr": "Jordanie",
             "it": "Giordania",
             "ru": "Иордания",
-            "zh": "约旦"
+            "zh": "约旦",
+            "he": "ירדן",
+            "hi": "जॉर्डन",
+            "ja": "ヨルダン",
+            "pt": "Jordânia"
         },
         "regions": [
             {
@@ -34866,7 +35276,11 @@
             "fr": "Japon",
             "it": "Giappone",
             "ru": "Япония",
-            "zh": "日本"
+            "zh": "日本",
+            "he": "יפן",
+            "hi": "जापान",
+            "ja": "日本",
+            "pt": "Japão"
         },
         "regions": [
             {
@@ -36018,7 +36432,11 @@
             "fr": "Kenya",
             "it": "Kenya",
             "ru": "Кения",
-            "zh": "肯尼亚"
+            "zh": "肯尼亚",
+            "he": "קניה",
+            "hi": "कीनिया",
+            "ja": "ケニア",
+            "pt": "Quénia"
         },
         "regions": [
             {
@@ -36634,10 +37052,10 @@
                 }
             },
             {
-                "name": "Elgeyo\/Marakwet",
+                "name": "Elgeyo/Marakwet",
                 "names": {
                     "geonames": "Marakwet District",
-                    "en": "Elgeyo\/Marakwet"
+                    "en": "Elgeyo/Marakwet"
                 },
                 "iso": "05",
                 "fips": "14",
@@ -36651,10 +37069,10 @@
                 }
             },
             {
-                "name": "Taita\/Taveta",
+                "name": "Taita/Taveta",
                 "names": {
                     "geonames": "Taita Taveta",
-                    "en": "Taita\/Taveta"
+                    "en": "Taita/Taveta"
                 },
                 "iso": "39",
                 "fips": "47",
@@ -36835,13 +37253,17 @@
         "names": {
             "geonames": "Kyrgyzstan",
             "en": "Kyrgyzstan",
-            "ar": "قرغيزستان",
+            "ar": "قيرغيزستان",
             "de": "Kirgisistan",
             "es": "Kirguistán",
             "fr": "Kirghizistan",
             "it": "Kirghizistan",
             "ru": "Киргизия",
-            "zh": "吉尔吉斯斯坦"
+            "zh": "吉尔吉斯斯坦",
+            "he": "קירגיזסטן",
+            "hi": "किर्गिज़स्तान",
+            "ja": "キルギス",
+            "pt": "Quirguistão"
         },
         "regions": [
             {
@@ -37074,7 +37496,11 @@
             "fr": "Cambodge",
             "it": "Cambogia",
             "ru": "Камбоджа",
-            "zh": "柬埔寨"
+            "zh": "柬埔寨",
+            "he": "קמבודיה",
+            "hi": "कम्बोडिया",
+            "ja": "カンボジア",
+            "pt": "Camboja"
         },
         "regions": [
             {
@@ -37671,7 +38097,11 @@
             "fr": "Kiribati",
             "it": "Kiribati",
             "ru": "Кирибати",
-            "zh": "基里巴斯"
+            "zh": "基里巴斯",
+            "he": "קיריבטי",
+            "hi": "किरिबाती",
+            "ja": "キリバス",
+            "pt": "Kiribati"
         },
         "regions": [
             {
@@ -37764,7 +38194,11 @@
             "fr": "Comores",
             "it": "Comore",
             "ru": "Коморы",
-            "zh": "葛摩"
+            "zh": "葛摩",
+            "he": "קומורו",
+            "hi": "कोमोरोस",
+            "ja": "コモロ",
+            "pt": "Comores"
         },
         "regions": [
             {
@@ -37860,7 +38294,11 @@
             "fr": "Saint-Christophe-et-Niévès",
             "it": "Saint Kitts e Nevis",
             "ru": "Сент-Китс и Невис",
-            "zh": "聖克里斯多福與尼維斯"
+            "zh": "聖克里斯多福及尼維斯",
+            "he": "סנט קיטס ונוויס",
+            "hi": "सेंट किट्स एंड नेविस",
+            "ja": "セントクリストファー・ネイビス",
+            "pt": "São Cristóvão e Nevis"
         },
         "regions": [
             {
@@ -38498,7 +38936,11 @@
             "it": "Corea",
             "kr": "대한민국",
             "ru": "Корея",
-            "zh": "朝鲜"
+            "zh": "朝鲜",
+            "he": "קוריאה",
+            "hi": "कोरिया",
+            "ja": "朝鮮",
+            "pt": "Coreia"
         },
         "regions": [
             {
@@ -38936,7 +39378,11 @@
             "fr": "Koweït",
             "it": "Kuwait",
             "ru": "Кувейт",
-            "zh": "科威特"
+            "zh": "科威特",
+            "he": "כווית",
+            "hi": "कुवैत",
+            "ja": "クウェート",
+            "pt": "Kuwait"
         },
         "regions": [
             {
@@ -39092,8 +39538,12 @@
             "es": "Islas Caimán",
             "fr": "Îles Caïmans",
             "it": "Isole Cayman",
-            "ru": "Каймановы острова",
-            "zh": "開曼群島"
+            "ru": "Острова Кайман",
+            "zh": "開曼群島",
+            "he": "איי קיימן",
+            "hi": "केमन द्वीपसमूह",
+            "ja": "ケイマン諸島",
+            "pt": "Ilhas Cayman"
         },
         "regions": [
             {
@@ -39219,7 +39669,11 @@
             "fr": "Kazakhstan",
             "it": "Kazakistan",
             "ru": "Казахстан",
-            "zh": "哈萨克斯坦"
+            "zh": "哈萨克斯坦",
+            "he": "קזחסטן",
+            "hi": "कज़ाख़िस्तान",
+            "ja": "カザフスタン",
+            "pt": "Cazaquistão"
         },
         "regions": [
             {
@@ -39644,7 +40098,11 @@
             "fr": "Laos",
             "it": "Laos",
             "ru": "Лаос",
-            "zh": "老挝"
+            "zh": "老挝",
+            "he": "לאוס",
+            "hi": "लाओस",
+            "ja": "ラオス",
+            "pt": "Laos"
         },
         "regions": [
             {
@@ -40091,7 +40549,11 @@
             "fr": "Liban",
             "it": "Libano",
             "ru": "Ливан",
-            "zh": "黎巴嫩"
+            "zh": "黎巴嫩",
+            "he": "לבנון",
+            "hi": "लेबनान",
+            "ja": "レバノン",
+            "pt": "Líbano"
         },
         "regions": [
             {
@@ -40293,9 +40755,13 @@
             "de": "St. Lucia",
             "es": "Santa Lucía",
             "fr": "Sainte-Lucie",
-            "it": "Santa Lucia",
+            "it": "Saint Lucia",
             "ru": "Сент-Люсия",
-            "zh": "Chinese"
+            "zh": "圣卢西亚",
+            "he": "סנט לוסיה",
+            "hi": "सेण्ट लूसिया",
+            "ja": "セントルシア",
+            "pt": "Santa Lúcia"
         },
         "regions": [
             {
@@ -40544,7 +41010,11 @@
             "fr": "Liechtenstein",
             "it": "Liechtenstein",
             "ru": "Лихтенштейн",
-            "zh": "列支敦斯登"
+            "zh": "列支敦斯登",
+            "he": "ליכטנשטיין",
+            "hi": "लिख्टेंश्टाइन",
+            "ja": "リヒテンシュタイン",
+            "pt": "Liechtenstein"
         },
         "regions": [
             {
@@ -40821,7 +41291,11 @@
             "fr": "Sri Lanka",
             "it": "Sri Lanka",
             "ru": "Шри-Ланка",
-            "zh": "Chinese"
+            "zh": "斯里蘭卡",
+            "he": "סרי לנקה",
+            "hi": "श्रीलंका",
+            "ja": "スリランカ",
+            "pt": "Sri Lanka"
         },
         "regions": [
             {
@@ -41052,7 +41526,11 @@
             "fr": "Liberia",
             "it": "Liberia",
             "ru": "Либерия",
-            "zh": "利比里亚"
+            "zh": "利比里亚",
+            "he": "ליבריה",
+            "hi": "लाइबेरिया",
+            "ja": "リベリア",
+            "pt": "Libéria"
         },
         "regions": [
             {
@@ -41420,7 +41898,11 @@
             "fr": "Lesotho",
             "it": "Lesotho",
             "ru": "Лесото",
-            "zh": "莱索托"
+            "zh": "莱索托",
+            "he": "לסוטו",
+            "hi": "लिसूतू",
+            "ja": "レソト",
+            "pt": "Lesoto"
         },
         "regions": [
             {
@@ -41680,7 +42162,11 @@
             "fr": "Lituanie",
             "it": "Lituania",
             "ru": "Литва",
-            "zh": "Chinese"
+            "zh": "立陶宛",
+            "he": "ליטא",
+            "hi": "लिथुआनिया",
+            "ja": "リトアニア",
+            "pt": "Lituânia"
         },
         "regions": [
             {
@@ -41944,7 +42430,11 @@
             "fr": "Luxembourg",
             "it": "Lussemburgo",
             "ru": "Люксембург",
-            "zh": "卢森堡"
+            "zh": "卢森堡",
+            "he": "לוקסמבורג",
+            "hi": "लक्ज़मबर्ग",
+            "ja": "ルクセンブルク",
+            "pt": "Luxemburgo"
         },
         "regions": [
             {
@@ -42214,7 +42704,11 @@
             "fr": "Lettonie",
             "it": "Lettonia",
             "ru": "Латвия",
-            "zh": "拉脫維亞"
+            "zh": "拉脫維亞",
+            "he": "לטביה",
+            "hi": "लातविया",
+            "ja": "ラトビア",
+            "pt": "Letónia"
         },
         "regions": [
             {
@@ -44686,7 +45180,11 @@
             "fr": "Libye",
             "it": "Libia",
             "ru": "Ливия",
-            "zh": "利比亚"
+            "zh": "利比亚",
+            "he": "לוב",
+            "hi": "लीबिया",
+            "ja": "リビア",
+            "pt": "Líbia"
         },
         "regions": [
             {
@@ -45238,7 +45736,11 @@
             "fr": "Maroc",
             "it": "Marocco",
             "ru": "Марокко",
-            "zh": "摩洛哥"
+            "zh": "摩洛哥",
+            "he": "מרוקו",
+            "hi": "मोरक्को",
+            "ja": "モロッコ",
+            "pt": "Marrocos"
         },
         "regions": [
             {
@@ -45550,7 +46052,11 @@
             "fr": "Monaco",
             "it": "Principato di Monaco",
             "ru": "Монако",
-            "zh": "摩纳哥"
+            "zh": "摩纳哥",
+            "he": "מונקו",
+            "hi": "मोनाको",
+            "ja": "モナコ",
+            "pt": "Mónaco"
         },
         "regions": [
             {
@@ -45586,12 +46092,16 @@
             "geonames": "Moldova",
             "en": "Moldova",
             "ar": "مولدوفا",
-            "de": "Moldawien",
+            "de": "Republik Moldau",
             "es": "Moldavia",
             "fr": "Moldavie",
             "it": "Moldavia",
             "ru": "Молдавия",
-            "zh": "摩尔多瓦"
+            "zh": "摩尔多瓦",
+            "he": "מולדובה",
+            "hi": "मॉल्डोवा",
+            "ja": "モルドバ",
+            "pt": "Moldávia"
         },
         "regions": [
             {
@@ -46471,7 +46981,11 @@
             "fr": "Monténégro",
             "it": "Montenegro",
             "ru": "Черногория",
-            "zh": "蒙特內哥羅"
+            "zh": "蒙特內哥羅",
+            "he": "מונטנגרו",
+            "hi": "मॉन्टेनीग्रो",
+            "ja": "モンテネグロ",
+            "pt": "Montenegro"
         },
         "regions": [
             {
@@ -47018,7 +47532,11 @@
             "fr": "Madagascar",
             "it": "Madagascar",
             "ru": "Мадагаскар",
-            "zh": "马达加斯加"
+            "zh": "马达加斯加",
+            "he": "מדגסקר",
+            "hi": "मेडागास्कर",
+            "ja": "マダガスカル",
+            "pt": "Madagáscar"
         },
         "regions": [
             {
@@ -47429,7 +47947,11 @@
             "fr": "Îles Marshall",
             "it": "Isole Marshall",
             "ru": "Маршалловы Острова",
-            "zh": "馬紹爾群島"
+            "zh": "馬紹爾群島",
+            "he": "איי מרשל",
+            "hi": "मार्शल द्वीपसमूह",
+            "ja": "マーシャル諸島",
+            "pt": "Ilhas Marshall"
         },
         "regions": [
             {
@@ -48145,18 +48667,22 @@
         "reference": {
             "geonames": 718075,
             "openstreetmap": 53293,
-            "wikipedia": "en:Republic_of_Macedonia"
+            "wikipedia": "en:North_Macedonia"
         },
         "names": {
-            "geonames": "Macedonia",
-            "en": "Republic of Macedonia",
-            "ar": "جمهورية مقدونيا",
-            "de": "Mazedonien",
-            "es": "República de Macedonia",
-            "fr": "Macédoine",
-            "it": "Repubblica di Macedonia",
-            "ru": "Республика Македония",
-            "zh": "Chinese"
+            "geonames": "North Macedonia",
+            "en": "North Macedonia",
+            "ar": "مقدونيا الشمالية",
+            "de": "Nordmazedonien",
+            "es": "Macedonia del Norte",
+            "fr": "Macédoine du Nord",
+            "it": "Macedonia del Nord",
+            "ru": "Северная Македония",
+            "zh": "北馬其頓",
+            "he": "מקדוניה הצפונית",
+            "hi": "उत्तर मैसिडोनिया",
+            "ja": "北マケドニア",
+            "pt": "Macedónia do Norte"
         },
         "regions": [
             {
@@ -49978,7 +50504,11 @@
             "fr": "Mali",
             "it": "Mali",
             "ru": "Мали",
-            "zh": "马里共和国"
+            "zh": "马里",
+            "he": "מאלי",
+            "hi": "माली",
+            "ja": "マリ共和国",
+            "pt": "Mali"
         },
         "regions": [
             {
@@ -50210,14 +50740,18 @@
         },
         "names": {
             "geonames": "Myanmar",
-            "en": "Burma",
-            "ar": "بورما",
+            "en": "Myanmar",
+            "ar": "ميانمار",
             "de": "Myanmar",
             "es": "Birmania",
             "fr": "Birmanie",
             "it": "Birmania",
             "ru": "Мьянма",
-            "zh": "Chinese"
+            "zh": "缅甸",
+            "he": "מיאנמר",
+            "hi": "म्यान्मार",
+            "ja": "ミャンマー",
+            "pt": "Myanmar"
         },
         "regions": [
             {
@@ -50582,7 +51116,11 @@
             "fr": "Mongolie",
             "it": "Mongolia",
             "ru": "Монголия",
-            "zh": "蒙古国"
+            "zh": "蒙古国",
+            "he": "מונגוליה",
+            "hi": "मंगोलिया",
+            "ja": "モンゴル国",
+            "pt": "Mongólia"
         },
         "regions": [
             {
@@ -51108,12 +51646,16 @@
             "geonames": "Macao",
             "en": "Macau",
             "ar": "ماكاو",
-            "de": "Macao",
+            "de": "Macau",
             "es": "Macao",
             "fr": "Macao",
             "it": "Macao",
             "ru": "Макао",
-            "zh": "澳門"
+            "zh": "澳門",
+            "he": "מקאו",
+            "hi": "मकाउ",
+            "ja": "マカオ",
+            "pt": "Macau"
         },
         "regions": []
     },
@@ -51135,8 +51677,12 @@
             "es": "Islas Marianas del Norte",
             "fr": "Îles Mariannes du Nord",
             "it": "Isole Marianne Settentrionali",
-            "ru": "Северные Марианские острова",
-            "zh": "北马里亚纳群岛"
+            "ru": "Северные Марианские Острова",
+            "zh": "北马里亚纳群岛",
+            "he": "איי מריאנה הצפוניים",
+            "hi": "उत्तरी मारियाना द्वीप",
+            "ja": "北マリアナ諸島",
+            "pt": "Ilhas Marianas Setentrionais"
         },
         "regions": [
             {
@@ -51228,7 +51774,11 @@
             "fr": "Martinique",
             "it": "Martinica",
             "ru": "Мартиника",
-            "zh": "馬提尼克"
+            "zh": "馬提尼克",
+            "he": "מרטיניק",
+            "hi": "मार्टीनिक",
+            "ja": "マルティニーク",
+            "pt": "Martinica"
         },
         "regions": [
             {
@@ -51269,7 +51819,11 @@
             "fr": "Mauritanie",
             "it": "Mauritania",
             "ru": "Мавритания",
-            "zh": "毛里塔尼亚"
+            "zh": "毛里塔尼亚",
+            "he": "מאוריטניה",
+            "hi": "मॉरीतानिया",
+            "ja": "モーリタニア",
+            "pt": "Mauritânia"
         },
         "regions": [
             {
@@ -51625,7 +52179,11 @@
             "fr": "Montserrat",
             "it": "Montserrat",
             "ru": "Монтсеррат",
-            "zh": "蒙塞拉特島"
+            "zh": "蒙塞拉特島",
+            "he": "מונטסראט",
+            "hi": "मॉण्टसेराट",
+            "ja": "モントセラト",
+            "pt": "Montserrat"
         },
         "regions": [
             {
@@ -51700,7 +52258,11 @@
             "fr": "Malte",
             "it": "Malta",
             "ru": "Мальта",
-            "zh": "马耳他"
+            "zh": "马耳他",
+            "he": "מלטה",
+            "hi": "माल्टा",
+            "ja": "マルタ",
+            "pt": "Malta"
         },
         "regions": [
             {
@@ -53244,7 +53806,11 @@
             "fr": "Maurice",
             "it": "Mauritius",
             "ru": "Маврикий",
-            "zh": "毛里求斯"
+            "zh": "毛里求斯",
+            "he": "מאוריציוס",
+            "hi": "मॉरिशस",
+            "ja": "モーリシャス",
+            "pt": "Maurícia"
         },
         "regions": [
             {
@@ -53538,13 +54104,17 @@
         "names": {
             "geonames": "Maldives",
             "en": "Maldives",
-            "ar": "جزر المالديف",
+            "ar": "المالديف",
             "de": "Malediven",
             "es": "Maldivas",
             "fr": "Maldives",
             "it": "Maldive",
             "ru": "Мальдивы",
-            "zh": "Chinese"
+            "zh": "马尔代夫",
+            "he": "האיים המלדיביים",
+            "hi": "मालदीव",
+            "ja": "モルディブ",
+            "pt": "Maldivas"
         },
         "regions": [
             {
@@ -53996,7 +54566,11 @@
             "fr": "Malawi",
             "it": "Malawi",
             "ru": "Малави",
-            "zh": "马拉维"
+            "zh": "马拉维",
+            "he": "מלאווי",
+            "hi": "मलावी",
+            "ja": "マラウイ",
+            "pt": "Malawi"
         },
         "regions": [
             {
@@ -54089,7 +54663,11 @@
             "fr": "Mexique",
             "it": "Messico",
             "ru": "Мексика",
-            "zh": "Chinese"
+            "zh": "墨西哥",
+            "he": "מקסיקו",
+            "hi": "मेक्सिको",
+            "ja": "メキシコ",
+            "pt": "México"
         },
         "regions": [
             {
@@ -54879,9 +55457,13 @@
             "de": "Malaysia",
             "es": "Malasia",
             "fr": "Malaisie",
-            "it": "Malesia",
+            "it": "Malaysia",
             "ru": "Малайзия",
-            "zh": "马来西亚"
+            "zh": "马来西亚",
+            "he": "מלזיה",
+            "hi": "मलेशिया",
+            "ja": "マレーシア",
+            "pt": "Malásia"
         },
         "regions": [
             {
@@ -55289,7 +55871,11 @@
             "fr": "Mozambique",
             "it": "Mozambico",
             "ru": "Мозамбик",
-            "zh": "莫桑比克"
+            "zh": "莫桑比克",
+            "he": "מוזמביק",
+            "hi": "मोज़ाम्बीक",
+            "ja": "モザンビーク",
+            "pt": "Moçambique"
         },
         "regions": [
             {
@@ -55568,7 +56154,11 @@
             "fr": "Namibie",
             "it": "Namibia",
             "ru": "Намибия",
-            "zh": "纳米比亚"
+            "zh": "纳米比亚",
+            "he": "נמיביה",
+            "hi": "नामीबिया",
+            "ja": "ナミビア",
+            "pt": "Namíbia"
         },
         "regions": [
             {
@@ -55905,7 +56495,11 @@
             "fr": "Niger",
             "it": "Niger",
             "ru": "Нигер",
-            "zh": "尼日尔"
+            "zh": "尼日尔",
+            "he": "ניז'ר",
+            "hi": "नाइजर",
+            "ja": "ニジェール",
+            "pt": "Níger"
         },
         "regions": [
             {
@@ -56121,7 +56715,11 @@
             "fr": "Nigeria",
             "it": "Nigeria",
             "ru": "Нигерия",
-            "zh": "奈及利亞"
+            "zh": "奈及利亞",
+            "he": "ניגריה",
+            "hi": "नाईजीरिया",
+            "ja": "ナイジェリア",
+            "pt": "Nigéria"
         },
         "regions": [
             {
@@ -57008,13 +57606,17 @@
         "names": {
             "geonames": "Nicaragua",
             "en": "Nicaragua",
-            "ar": "نيكاراجوا",
+            "ar": "نيكاراغوا",
             "de": "Nicaragua",
             "es": "Nicaragua",
             "fr": "Nicaragua",
             "it": "Nicaragua",
             "ru": "Никарагуа",
-            "zh": "尼加拉瓜"
+            "zh": "尼加拉瓜",
+            "he": "ניקרגואה",
+            "hi": "निकारागुआ",
+            "ja": "ニカラグア",
+            "pt": "Nicarágua"
         },
         "regions": [
             {
@@ -57430,7 +58032,11 @@
             "fr": "Pays-Bas",
             "it": "Paesi Bassi",
             "ru": "Нидерланды",
-            "zh": "Chinese"
+            "zh": "荷兰",
+            "he": "הולנד",
+            "hi": "नीदरलैण्ड",
+            "ja": "オランダ",
+            "pt": "Países Baixos"
         },
         "regions": [
             {
@@ -57742,7 +58348,11 @@
             "fr": "Norvège",
             "it": "Norvegia",
             "ru": "Норвегия",
-            "zh": "Chinese"
+            "zh": "挪威",
+            "he": "נורווגיה",
+            "hi": "नॉर्वे",
+            "ja": "ノルウェー",
+            "pt": "Noruega"
         },
         "regions": [
             {
@@ -58212,7 +58822,11 @@
             "fr": "Népal",
             "it": "Nepal",
             "ru": "Непал",
-            "zh": "尼泊尔"
+            "zh": "尼泊尔",
+            "he": "נפאל",
+            "hi": "नेपाल",
+            "ja": "ネパール",
+            "pt": "Nepal"
         },
         "regions": [
             {
@@ -58338,7 +58952,11 @@
             "fr": "Nauru",
             "it": "Nauru",
             "ru": "Науру",
-            "zh": "諾魯"
+            "zh": "諾魯",
+            "he": "נאורו",
+            "hi": "नाउरु",
+            "ja": "ナウル",
+            "pt": "Nauru"
         },
         "regions": [
             {
@@ -58685,7 +59303,10 @@
             "fr": "Niue",
             "it": "Niue",
             "ru": "Ниуэ",
-            "zh": "紐埃"
+            "zh": "紐埃",
+            "he": "ניואה",
+            "ja": "ニウエ",
+            "pt": "Niue"
         },
         "regions": []
     },
@@ -58708,7 +59329,11 @@
             "fr": "Nouvelle-Zélande",
             "it": "Nuova Zelanda",
             "ru": "Новая Зеландия",
-            "zh": "Chinese"
+            "zh": "新西兰",
+            "he": "ניו זילנד",
+            "hi": "ऩ्यूजीलैण्ड",
+            "ja": "ニュージーランド",
+            "pt": "Nova Zelândia"
         },
         "regions": [
             {
@@ -59142,7 +59767,11 @@
             "fr": "Oman",
             "it": "Oman",
             "ru": "Оман",
-            "zh": "阿曼"
+            "zh": "阿曼",
+            "he": "עומאן",
+            "hi": "ओमान",
+            "ja": "オマーン",
+            "pt": "Omã"
         },
         "regions": [
             {
@@ -59395,9 +60024,13 @@
             "de": "Panama",
             "es": "Panamá",
             "fr": "Panama",
-            "it": "Panamá",
+            "it": "Panama",
             "ru": "Панама",
-            "zh": "巴拿马"
+            "zh": "巴拿马",
+            "he": "פנמה",
+            "hi": "पनामा",
+            "ja": "パナマ",
+            "pt": "Panamá"
         },
         "regions": [
             {
@@ -59708,7 +60341,11 @@
             "fr": "Pérou",
             "it": "Perù",
             "ru": "Перу",
-            "zh": "Chinese"
+            "zh": "秘鲁",
+            "he": "פרו",
+            "hi": "पेरू",
+            "ja": "ペルー",
+            "pt": "Peru"
         },
         "regions": [
             {
@@ -60332,8 +60969,12 @@
             "es": "Papúa Nueva Guinea",
             "fr": "Papouasie-Nouvelle-Guinée",
             "it": "Papua Nuova Guinea",
-            "ru": "Папуа",
-            "zh": "巴布亚新几内亚"
+            "ru": "Папуа — Новая Гвинея",
+            "zh": "巴布亚新几内亚",
+            "he": "פפואה גינאה החדשה",
+            "hi": "पापुआ न्यू गिनी",
+            "ja": "パプアニューギニア",
+            "pt": "Papua-Nova Guiné"
         },
         "regions": [
             {
@@ -60835,7 +61476,11 @@
             "fr": "Philippines",
             "it": "Filippine",
             "ru": "Филиппины",
-            "zh": "菲律宾"
+            "zh": "菲律宾",
+            "he": "הפיליפינים",
+            "hi": "फ़िलीपीन्स",
+            "ja": "フィリピン",
+            "pt": "Filipinas"
         },
         "regions": [
             {
@@ -61268,7 +61913,11 @@
             "fr": "Pakistan",
             "it": "Pakistan",
             "ru": "Пакистан",
-            "zh": "巴基斯坦"
+            "zh": "巴基斯坦",
+            "he": "פקיסטן",
+            "hi": "पाकिस्तान",
+            "ja": "パキスタン",
+            "pt": "Paquistão"
         },
         "regions": [
             {
@@ -61467,7 +62116,11 @@
             "fr": "Pologne",
             "it": "Polonia",
             "ru": "Польша",
-            "zh": "波兰"
+            "zh": "波兰",
+            "he": "פולין",
+            "hi": "पोलैंड",
+            "ja": "ポーランド",
+            "pt": "Polónia"
         },
         "regions": [
             {
@@ -61863,13 +62516,17 @@
         "names": {
             "geonames": "Saint Pierre and Miquelon",
             "en": "Saint Pierre and Miquelon",
-            "ar": "سان بيار وميكلون",
+            "ar": "سان بيير وميكلون",
             "de": "Saint-Pierre und Miquelon",
             "es": "San Pedro y Miquelón",
             "fr": "Saint-Pierre-et-Miquelon",
             "it": "Saint-Pierre e Miquelon",
             "ru": "Сен-Пьер и Микелон",
-            "zh": "圣皮埃尔和密克隆群岛"
+            "zh": "圣皮埃尔和密克隆",
+            "he": "סן פייר ומיקלון",
+            "hi": "सन्त पियर और मिकलान",
+            "ja": "サンピエール島・ミクロン島",
+            "pt": "Saint-Pierre e Miquelon"
         },
         "regions": [
             {
@@ -61927,7 +62584,11 @@
             "fr": "Îles Pitcairn",
             "it": "Isole Pitcairn",
             "ru": "Острова Питкэрн",
-            "zh": "皮特凯恩群岛"
+            "zh": "皮特凯恩群岛",
+            "he": "פיטקרן",
+            "hi": "पिटकेर्न द्वीपसमूह",
+            "ja": "ピトケアン諸島",
+            "pt": "Ilhas Pitcairn"
         },
         "regions": []
     },
@@ -61950,7 +62611,11 @@
             "fr": "Porto Rico",
             "it": "Porto Rico",
             "ru": "Пуэрто-Рико",
-            "zh": "波多黎各"
+            "zh": "波多黎各",
+            "he": "פוארטו ריקו",
+            "hi": "पोर्टो रीको",
+            "ja": "プエルトリコ",
+            "pt": "Porto Rico"
         },
         "regions": [
             {
@@ -63300,7 +63965,10 @@
             "fr": "Palestine",
             "it": "Palestina",
             "ru": "Палестина",
-            "zh": "巴勒斯坦"
+            "zh": "巴勒斯坦地区",
+            "hi": "फ़िलिस्तीनी राज्यक्षेत्र",
+            "ja": "パレスチナ",
+            "pt": "Palestina"
         },
         "regions": [
             {
@@ -63358,7 +64026,11 @@
             "fr": "Portugal",
             "it": "Portogallo",
             "ru": "Португалия",
-            "zh": "Chinese"
+            "zh": "葡萄牙",
+            "he": "פורטוגל",
+            "hi": "पुर्तगाल",
+            "ja": "ポルトガル",
+            "pt": "Portugal"
         },
         "regions": [
             {
@@ -63855,7 +64527,11 @@
             "fr": "Palaos",
             "it": "Palau",
             "ru": "Палау",
-            "zh": "帛琉"
+            "zh": "帛琉",
+            "he": "פלאו",
+            "hi": "पलाउ",
+            "ja": "パラオ",
+            "pt": "Palau"
         },
         "regions": [
             {
@@ -64246,7 +64922,11 @@
             "fr": "Paraguay",
             "it": "Paraguay",
             "ru": "Парагвай",
-            "zh": "巴拉圭"
+            "zh": "巴拉圭",
+            "he": "פרגוואי",
+            "hi": "पैराग्वे",
+            "ja": "パラグアイ",
+            "pt": "Paraguai"
         },
         "regions": [
             {
@@ -64666,7 +65346,11 @@
             "fr": "Qatar",
             "it": "Qatar",
             "ru": "Катар",
-            "zh": "卡塔尔"
+            "zh": "卡塔尔",
+            "he": "קטר",
+            "hi": "क़तर",
+            "ja": "カタール",
+            "pt": "Catar"
         },
         "regions": [
             {
@@ -64836,13 +65520,17 @@
         "names": {
             "geonames": "Reunion",
             "en": "Réunion",
-            "ar": "ريونيون",
+            "ar": "لا ريونيون",
             "de": "Réunion",
             "es": "Reunión",
             "fr": "La Réunion",
             "it": "Riunione",
             "ru": "Реюньон",
-            "zh": "留尼汪"
+            "zh": "留尼汪",
+            "he": "ראוניון",
+            "hi": "रेयूनियों",
+            "ja": "レユニオン",
+            "pt": "Reunião"
         },
         "regions": [
             {
@@ -64883,7 +65571,11 @@
             "fr": "Roumanie",
             "it": "Romania",
             "ru": "Румыния",
-            "zh": "羅馬尼亞"
+            "zh": "羅馬尼亞",
+            "he": "רומניה",
+            "hi": "रोमानिया",
+            "ja": "ルーマニア",
+            "pt": "Romênia"
         },
         "regions": [
             {
@@ -65885,7 +66577,11 @@
             "fr": "Serbie",
             "it": "Serbia",
             "ru": "Сербия",
-            "zh": "塞尔维亚"
+            "zh": "塞尔维亚",
+            "he": "סרביה",
+            "hi": "सर्बिया",
+            "ja": "セルビア",
+            "pt": "Sérvia"
         },
         "regions": [
             {
@@ -65950,7 +66646,11 @@
             "fr": "Russie",
             "it": "Russia",
             "ru": "Россия",
-            "zh": "Chinese"
+            "zh": "俄罗斯",
+            "he": "רוסיה",
+            "hi": "रूस",
+            "ja": "ロシア",
+            "pt": "Rússia"
         },
         "regions": [
             {
@@ -67520,7 +68220,7 @@
                     "ru": "Ханты-Мансийский автономный округ",
                     "en": "Khanty-Mansi Autonomous Okrug",
                     "ar": "أوكروغ خانتي-مانسي ذاتية الحكم",
-                    "de": "Autonomer Kreis der Chanten und Mansen\/Jugra",
+                    "de": "Autonomer Kreis der Chanten und Mansen/Jugra",
                     "es": "Janty-Mansi",
                     "fr": "Khantys-Mansis",
                     "it": "Circondario autonomo degli Chanty-Mansi-Jugra",
@@ -67966,7 +68666,11 @@
             "fr": "Rwanda",
             "it": "Ruanda",
             "ru": "Руанда",
-            "zh": "卢旺达"
+            "zh": "卢旺达",
+            "he": "רואנדה",
+            "hi": "रुआण्डा",
+            "ja": "ルワンダ",
+            "pt": "Ruanda"
         },
         "regions": [
             {
@@ -68075,7 +68779,11 @@
             "fr": "Arabie saoudite",
             "it": "Arabia Saudita",
             "ru": "Саудовская Аравия",
-            "zh": "沙特阿拉伯"
+            "zh": "沙特阿拉伯",
+            "he": "ערב הסעודית",
+            "hi": "सउदी अरब",
+            "ja": "サウジアラビア",
+            "pt": "Arábia Saudita"
         },
         "regions": [
             {
@@ -68401,10 +69109,14 @@
             "ar": "جزر سليمان",
             "de": "Salomonen",
             "es": "Islas Salomón",
-            "fr": "Salomon",
+            "fr": "Îles Salomon",
             "it": "Isole Salomone",
             "ru": "Соломоновы Острова",
-            "zh": "所罗门群岛"
+            "zh": "所罗门群岛",
+            "he": "איי שלמה",
+            "hi": "सोलोमन द्वीप",
+            "ja": "ソロモン諸島",
+            "pt": "Ilhas Salomão"
         },
         "regions": [
             {
@@ -68635,13 +69347,17 @@
         "names": {
             "geonames": "Seychelles",
             "en": "Seychelles",
-            "ar": "سيشيل",
+            "ar": "سيشل",
             "de": "Seychellen",
             "es": "Seychelles",
             "fr": "Seychelles",
             "it": "Seychelles",
             "ru": "Сейшельские Острова",
-            "zh": "塞舌尔"
+            "zh": "塞舌尔",
+            "he": "סיישל",
+            "hi": "सेशेल्स",
+            "ja": "セーシェル",
+            "pt": "Seicheles"
         },
         "regions": [
             {
@@ -69212,7 +69928,11 @@
             "fr": "Soudan",
             "it": "Sudan",
             "ru": "Судан",
-            "zh": "苏丹共和国"
+            "zh": "苏丹",
+            "he": "סודאן",
+            "hi": "सूडान",
+            "ja": "スーダン",
+            "pt": "Sudão"
         },
         "regions": [
             {
@@ -69639,7 +70359,11 @@
             "fr": "Soudan du Sud",
             "it": "Sudan del Sud",
             "ru": "Южный Судан",
-            "zh": "南蘇丹"
+            "zh": "南蘇丹",
+            "he": "דרום סודאן",
+            "hi": "दक्षिण सूडान",
+            "ja": "南スーダン",
+            "pt": "Sudão do Sul"
         },
         "regions": [
             {
@@ -70214,7 +70938,11 @@
             "fr": "Suède",
             "it": "Svezia",
             "ru": "Швеция",
-            "zh": "Chinese"
+            "zh": "瑞典",
+            "he": "שוודיה",
+            "hi": "स्वीडन",
+            "ja": "スウェーデン",
+            "pt": "Suécia"
         },
         "regions": [
             {
@@ -70728,7 +71456,11 @@
             "fr": "Singapour",
             "it": "Singapore",
             "ru": "Сингапур",
-            "zh": "新加坡"
+            "zh": "新加坡",
+            "he": "סינגפור",
+            "hi": "सिंगापुर",
+            "ja": "シンガポール",
+            "pt": "Singapura"
         },
         "regions": [
             {
@@ -70834,13 +71566,17 @@
         "names": {
             "geonames": "Saint Helena",
             "en": "Saint Helena",
-            "ar": "سانت هيلينا وأسينشين وتريستان دا كونا",
+            "ar": "سانت هيلينا",
             "de": "St. Helena",
-            "es": "Santa Elena",
+            "es": "Isla Santa Elena",
             "fr": "Sainte-Hélène",
             "it": "Sant'Elena",
-            "ru": "Острова Святой Елены",
-            "zh": "圣赫勒拿、阿森松与特里斯坦达库尼亚"
+            "ru": "Остров Святой Елены",
+            "zh": "圣赫勒拿岛",
+            "he": "סנט הלנה",
+            "hi": "सन्त हेलेना",
+            "ja": "セントヘレナ",
+            "pt": "Santa Helena"
         },
         "regions": [
             {
@@ -70936,7 +71672,11 @@
             "fr": "Slovénie",
             "it": "Slovenia",
             "ru": "Словения",
-            "zh": "斯洛文尼亚"
+            "zh": "斯洛文尼亚",
+            "he": "סלובניה",
+            "hi": "स्लोवेनिया",
+            "ja": "スロベニア",
+            "pt": "Eslovénia"
         },
         "regions": [
             {
@@ -75053,7 +75793,11 @@
             "fr": "Slovaquie",
             "it": "Slovacchia",
             "ru": "Словакия",
-            "zh": "斯洛伐克"
+            "zh": "斯洛伐克",
+            "he": "סלובקיה",
+            "hi": "स्लोवाकिया",
+            "ja": "スロバキア",
+            "pt": "Eslováquia"
         },
         "regions": [
             {
@@ -75269,7 +76013,11 @@
             "fr": "Sierra Leone",
             "it": "Sierra Leone",
             "ru": "Сьерра-Леоне",
-            "zh": "塞拉利昂"
+            "zh": "塞拉利昂",
+            "he": "סיירה לאון",
+            "hi": "सिएरा लियोन",
+            "ja": "シエラレオネ",
+            "pt": "Serra Leoa"
         },
         "regions": [
             {
@@ -75366,7 +76114,11 @@
             "fr": "Saint-Marin",
             "it": "San Marino",
             "ru": "Сан-Марино",
-            "zh": "圣马力诺"
+            "zh": "圣马力诺",
+            "he": "סן מרינו",
+            "hi": "सान मारिनो",
+            "ja": "サンマリノ",
+            "pt": "San Marino"
         },
         "regions": [
             {
@@ -75599,7 +76351,11 @@
             "fr": "Sénégal",
             "it": "Senegal",
             "ru": "Сенегал",
-            "zh": "塞内加尔"
+            "zh": "塞内加尔",
+            "he": "סנגל",
+            "hi": "सेनेगल",
+            "ja": "セネガル",
+            "pt": "Senegal"
         },
         "regions": [
             {
@@ -75946,7 +76702,11 @@
             "fr": "Somalie",
             "it": "Somalia",
             "ru": "Сомали",
-            "zh": "索马里"
+            "zh": "索马里",
+            "he": "סומליה",
+            "hi": "सोमालिया",
+            "ja": "ソマリア",
+            "pt": "Somália"
         },
         "regions": [
             {
@@ -76394,7 +77154,11 @@
             "fr": "Suriname",
             "it": "Suriname",
             "ru": "Суринам",
-            "zh": "蘇利南"
+            "zh": "蘇利南",
+            "he": "סורינאם",
+            "hi": "सूरीनाम",
+            "ja": "スリナム",
+            "pt": "Suriname"
         },
         "regions": [
             {
@@ -76658,7 +77422,11 @@
             "fr": "Sao Tomé-et-Principe",
             "it": "São Tomé e Príncipe",
             "ru": "Сан-Томе и Принсипи",
-            "zh": "圣多美和普林西比"
+            "zh": "圣多美和普林西比",
+            "he": "סאו טומה ופרינסיפה",
+            "hi": "साओ तोमे और प्रिन्सिपी",
+            "ja": "サントメ・プリンシペ",
+            "pt": "São Tomé e Príncipe"
         },
         "regions": [
             {
@@ -76726,7 +77494,11 @@
             "fr": "Salvador",
             "it": "El Salvador",
             "ru": "Сальвадор",
-            "zh": "萨尔瓦多"
+            "zh": "萨尔瓦多",
+            "he": "אל סלוודור",
+            "hi": "अल साल्वाडोर",
+            "ja": "エルサルバドル",
+            "pt": "El Salvador"
         },
         "regions": [
             {
@@ -77048,7 +77820,11 @@
             "fr": "Syrie",
             "it": "Siria",
             "ru": "Сирия",
-            "zh": "الصينية"
+            "zh": "叙利亚",
+            "he": "סוריה",
+            "hi": "सीरिया",
+            "ja": "シリア",
+            "pt": "Síria"
         },
         "regions": [
             {
@@ -77397,18 +78173,22 @@
         "reference": {
             "geonames": 934841,
             "openstreetmap": 88210,
-            "wikipedia": "en:Swaziland"
+            "wikipedia": "en:Eswatini"
         },
         "names": {
-            "geonames": "Swaziland",
-            "en": "Swaziland",
-            "ar": "سوازيلاند",
+            "geonames": "Eswatini",
+            "en": "Eswatini",
+            "ar": "إسواتيني",
             "de": "Swasiland",
             "es": "Suazilandia",
-            "fr": "Swaziland",
+            "fr": "Eswatini",
             "it": "Swaziland",
-            "ru": "Свазиленд",
-            "zh": "Chinese"
+            "ru": "Эсватини",
+            "zh": "斯威士兰",
+            "he": "אסוואטיני",
+            "hi": "स्वाज़ीलैण्ड",
+            "ja": "エスワティニ",
+            "pt": "Suazilândia"
         },
         "regions": [
             {
@@ -77528,7 +78308,11 @@
             "fr": "Îles Turques-et-Caïques",
             "it": "Turks e Caicos",
             "ru": "Теркс и Кайкос",
-            "zh": "特克斯和凯科斯群岛"
+            "zh": "特克斯和凯科斯群岛",
+            "he": "איי טרקס וקייקוס",
+            "hi": "तुर्क और केकोस द्वीपसमूह",
+            "ja": "タークス・カイコス諸島",
+            "pt": "Ilhas Turcas e Caicos"
         },
         "regions": []
     },
@@ -77551,7 +78335,11 @@
             "fr": "Tchad",
             "it": "Ciad",
             "ru": "Чад",
-            "zh": "乍得"
+            "zh": "乍得",
+            "he": "צ'אד",
+            "hi": "चाड",
+            "ja": "チャド",
+            "pt": "Chade"
         },
         "regions": [
             {
@@ -78077,13 +78865,16 @@
         "names": {
             "geonames": "French Southern Territories",
             "en": "French Southern and Antarctic Lands",
-            "ar": "أراضٍ فرنسية جنوبية وأنتارتيكية",
+            "ar": "أراض فرنسية جنوبية وأنتارتيكية",
             "de": "Französische Süd- und Antarktisgebiete",
             "es": "Tierras Australes y Antárticas Francesas",
             "fr": "Terres australes et antarctiques françaises",
             "it": "Terre australi e antartiche francesi",
             "ru": "Французские Южные и Антарктические территории",
-            "zh": "法属南部"
+            "zh": "法属南部和南极领地",
+            "he": "הארצות הדרומיות והאנטארקטיות של צרפת",
+            "ja": "フランス領南方・南極地域",
+            "pt": "Terras Austrais e Antárticas Francesas"
         },
         "regions": [
             {
@@ -78192,7 +78983,11 @@
             "fr": "Togo",
             "it": "Togo",
             "ru": "Того",
-            "zh": "多哥"
+            "zh": "多哥",
+            "he": "טוגו",
+            "hi": "टोगो",
+            "ja": "トーゴ",
+            "pt": "Togo"
         },
         "regions": [
             {
@@ -78320,7 +79115,11 @@
             "fr": "Thaïlande",
             "it": "Thailandia",
             "ru": "Таиланд",
-            "zh": "泰国"
+            "zh": "泰国",
+            "he": "תאילנד",
+            "hi": "थाईलैण्ड",
+            "ja": "タイ王国",
+            "pt": "Tailândia"
         },
         "regions": [
             {
@@ -80177,7 +80976,11 @@
             "fr": "Tadjikistan",
             "it": "Tagikistan",
             "ru": "Таджикистан",
-            "zh": "塔吉克斯坦"
+            "zh": "塔吉克斯坦",
+            "he": "טג'יקיסטן",
+            "hi": "ताजिकिस्तान",
+            "ja": "タジキスタン",
+            "pt": "Tajiquistão"
         },
         "regions": [
             {
@@ -80306,13 +81109,16 @@
         "names": {
             "geonames": "Tokelau",
             "en": "Tokelau",
-            "ar": "توكلو",
+            "ar": "توكيلاو",
             "de": "Tokelau",
             "es": "Tokelau",
             "fr": "Tokelau",
             "it": "Tokelau",
             "ru": "Токелау",
-            "zh": "托克劳群岛"
+            "zh": "托克劳",
+            "he": "טוקלאו",
+            "ja": "トケラウ",
+            "pt": "Tokelau"
         },
         "regions": [
             {
@@ -80387,7 +81193,11 @@
             "fr": "Timor oriental",
             "it": "Timor Est",
             "ru": "Восточный Тимор",
-            "zh": "东帝汶"
+            "zh": "东帝汶",
+            "he": "מזרח טימור",
+            "hi": "पूर्व तिमोर",
+            "ja": "東ティモール",
+            "pt": "Timor-Leste"
         },
         "regions": [
             {
@@ -80710,7 +81520,11 @@
             "fr": "Turkménistan",
             "it": "Turkmenistan",
             "ru": "Туркмения",
-            "zh": "土库曼斯坦"
+            "zh": "土库曼斯坦",
+            "he": "טורקמניסטן",
+            "hi": "तुर्कमेनिस्तान",
+            "ja": "トルクメニスタン",
+            "pt": "Turquemenistão"
         },
         "regions": [
             {
@@ -80875,7 +81689,11 @@
             "fr": "Tunisie",
             "it": "Tunisia",
             "ru": "Тунис",
-            "zh": "突尼西亞"
+            "zh": "突尼西亞",
+            "he": "תוניסיה",
+            "hi": "तूनिसीया",
+            "ja": "チュニジア",
+            "pt": "Tunísia"
         },
         "regions": [
             {
@@ -81469,13 +82287,17 @@
         "names": {
             "geonames": "Tonga",
             "en": "Tonga",
-            "ar": "تونجا",
+            "ar": "تونغا",
             "de": "Tonga",
             "es": "Tonga",
             "fr": "Tonga",
             "it": "Tonga",
             "ru": "Тонга",
-            "zh": "東加"
+            "zh": "東加",
+            "he": "טונגה",
+            "hi": "टोंगा",
+            "ja": "トンガ",
+            "pt": "Tonga"
         },
         "regions": [
             {
@@ -81613,7 +82435,11 @@
             "fr": "Turquie",
             "it": "Turchia",
             "ru": "Турция",
-            "zh": "土耳其"
+            "zh": "土耳其",
+            "he": "טורקיה",
+            "hi": "तुर्की",
+            "ja": "トルコ",
+            "pt": "Turquia"
         },
         "regions": [
             {
@@ -83580,7 +84406,11 @@
             "fr": "Trinité-et-Tobago",
             "it": "Trinidad e Tobago",
             "ru": "Тринидад и Тобаго",
-            "zh": "千里達及托巴哥"
+            "zh": "千里達及托巴哥",
+            "he": "טרינידד וטובגו",
+            "hi": "त्रिनिदाद और टोबैगो",
+            "ja": "トリニダード・トバゴ",
+            "pt": "Trindade e Tobago"
         },
         "regions": [
             {
@@ -83761,7 +84591,7 @@
             {
                 "name": "Penal-Debe Regional Corporation",
                 "names": {
-                    "geonames": "Penal\/Debe",
+                    "geonames": "Penal/Debe",
                     "ru": "Пенал-Дебе",
                     "en": "Penal-Debe Regional Corporation",
                     "fr": "Région de Penal-Debe",
@@ -83864,7 +84694,7 @@
             {
                 "name": "San Juan-Laventille Regional Corporation",
                 "names": {
-                    "geonames": "San Juan\/Laventille",
+                    "geonames": "San Juan/Laventille",
                     "ru": "Сан Хуан-Лавентиль",
                     "en": "San Juan-Laventille Regional Corporation",
                     "de": "San Juan-Laventille",
@@ -83886,7 +84716,7 @@
             {
                 "name": "Tunapuna-Piarco Regional Corporation",
                 "names": {
-                    "geonames": "Tunapuna\/Piarco",
+                    "geonames": "Tunapuna/Piarco",
                     "ru": "Тунапуна-Пиарко",
                     "en": "Tunapuna-Piarco Regional Corporation",
                     "de": "Tunapuna-Piarco",
@@ -83925,7 +84755,11 @@
             "fr": "Tuvalu",
             "it": "Tuvalu",
             "ru": "Тувалу",
-            "zh": "圖瓦盧"
+            "zh": "圖瓦盧",
+            "he": "טובאלו",
+            "hi": "तुवालू",
+            "ja": "ツバル",
+            "pt": "Tuvalu"
         },
         "regions": [
             {
@@ -84123,12 +84957,16 @@
             "geonames": "Taiwan",
             "en": "Taiwan",
             "ar": "تايوان",
-            "de": "Republik China",
-            "es": "República de China",
-            "fr": "République de Chine",
-            "it": "Taiwan",
-            "ru": "Китайская Республика",
-            "zh": "中華民國"
+            "de": "Taiwan",
+            "es": "Isla de Taiwán",
+            "fr": "Taïwan",
+            "it": "Isola di Formosa",
+            "ru": "Тайвань",
+            "zh": "臺灣",
+            "he": "טאיוואן",
+            "hi": "ताइवान",
+            "ja": "台湾",
+            "pt": "Ilha Formosa"
         },
         "regions": [
             {
@@ -84526,7 +85364,11 @@
             "fr": "Tanzanie",
             "it": "Tanzania",
             "ru": "Танзания",
-            "zh": "坦桑尼亚"
+            "zh": "坦桑尼亚",
+            "he": "טנזניה",
+            "hi": "तंज़ानिया",
+            "ja": "タンザニア",
+            "pt": "Tanzânia"
         },
         "regions": [
             {
@@ -84555,11 +85397,11 @@
             {
                 "name": "Mjini Magharibi Region",
                 "names": {
-                    "geonames": "Zanzibar Urban\/West",
+                    "geonames": "Zanzibar Urban/West",
                     "ru": "Занзибар Западный",
                     "en": "Mjini Magharibi Region",
                     "de": "Unguja Mjini Magharibi",
-                    "es": "Región de Zanzibar Urban\/West",
+                    "es": "Región de Zanzibar Urban/West",
                     "fr": "Unguja Ville et Ouest",
                     "it": "Regione di Zanzibar Urbana-Ovest"
                 },
@@ -84599,11 +85441,11 @@
             {
                 "name": "Unguja South Region",
                 "names": {
-                    "geonames": "Zanzibar Central\/South",
+                    "geonames": "Zanzibar Central/South",
                     "ru": "Занзибар Центрально-Южный",
                     "en": "Unguja South Region",
                     "de": "Unguja Kusini",
-                    "es": "Región de Zanzibar Central\/South",
+                    "es": "Región de Zanzibar Central/South",
                     "fr": "Unguja Sud et Central",
                     "it": "Regione di Zanzibar Centro-Sud"
                 },
@@ -85212,7 +86054,11 @@
             "fr": "Ukraine",
             "it": "Ucraina",
             "ru": "Украина",
-            "zh": "Chinese"
+            "zh": "乌克兰",
+            "he": "אוקראינה",
+            "hi": "युक्रेन",
+            "ja": "ウクライナ",
+            "pt": "Ucrânia"
         },
         "regions": [
             {
@@ -85884,7 +86730,11 @@
             "fr": "Ouganda",
             "it": "Uganda",
             "ru": "Уганда",
-            "zh": "乌干达"
+            "zh": "乌干达",
+            "he": "אוגנדה",
+            "hi": "युगाण्डा",
+            "ja": "ウガンダ",
+            "pt": "Uganda"
         },
         "regions": [
             {
@@ -85971,11 +86821,14 @@
             "geonames": "United States Minor Outlying Islands",
             "en": "United States Minor Outlying Islands",
             "de": "United States Minor Outlying Islands",
-            "es": "Islas Ultramarinas Menores de Estados Unidos",
+            "es": "Islas Ultramarinas Menores de los Estados Unidos",
             "fr": "Îles mineures éloignées des États-Unis",
             "it": "Isole minori esterne degli Stati Uniti d'America",
             "ru": "Внешние малые острова США",
-            "zh": "美国本土外小岛屿"
+            "zh": "美国本土外小岛屿",
+            "ar": "جزر الولايات المتحدة الصغيرة النائية",
+            "ja": "合衆国領有小離島",
+            "pt": "Ilhas Menores Distantes dos Estados Unidos"
         },
         "regions": [
             {
@@ -86214,7 +87067,11 @@
             "fr": "États-Unis",
             "it": "Stati Uniti d'America",
             "ru": "Соединённые Штаты Америки",
-            "zh": "Chinesisch"
+            "zh": "美国",
+            "he": "ארצות הברית",
+            "hi": "संयुक्त राज्य",
+            "ja": "アメリカ合衆国",
+            "pt": "Estados Unidos"
         },
         "regions": [
             {
@@ -87449,13 +88306,17 @@
         "names": {
             "geonames": "Uruguay",
             "en": "Uruguay",
-            "ar": "أوروغواي",
+            "ar": "الأوروغواي",
             "de": "Uruguay",
             "es": "Uruguay",
             "fr": "Uruguay",
             "it": "Uruguay",
             "ru": "Уругвай",
-            "zh": "乌拉圭"
+            "zh": "乌拉圭",
+            "he": "אורוגוואי",
+            "hi": "उरुग्वे",
+            "ja": "ウルグアイ",
+            "pt": "Uruguai"
         },
         "regions": [
             {
@@ -87899,7 +88760,11 @@
             "fr": "Ouzbékistan",
             "it": "Uzbekistan",
             "ru": "Узбекистан",
-            "zh": "乌兹别克斯坦"
+            "zh": "乌兹别克斯坦",
+            "he": "אוזבקיסטן",
+            "hi": "उज़्बेकिस्तान",
+            "ja": "ウズベキスタン",
+            "pt": "Uzbequistão"
         },
         "regions": [
             {
@@ -88250,7 +89115,11 @@
             "fr": "Vatican",
             "it": "Città del Vaticano",
             "ru": "Ватикан",
-            "zh": "梵蒂冈"
+            "zh": "梵蒂冈",
+            "he": "קריית הוותיקן",
+            "hi": "वैटिकन सिटी",
+            "ja": "バチカン市国",
+            "pt": "Vaticano"
         },
         "regions": []
     },
@@ -88267,13 +89136,17 @@
         "names": {
             "geonames": "Saint Vincent and the Grenadines",
             "en": "Saint Vincent and the Grenadines",
-            "ar": "سانت فنسينت والجرينادينز",
+            "ar": "سانت فينسنت والغرينادين",
             "de": "St. Vincent und die Grenadinen",
             "es": "San Vicente y las Granadinas",
             "fr": "Saint-Vincent-et-les-Grenadines",
             "it": "Saint Vincent e Grenadine",
             "ru": "Сент-Винсент и Гренадины",
-            "zh": "圣文森特和格林纳丁斯"
+            "zh": "圣文森特和格林纳丁斯",
+            "he": "סנט וינסנט והגרנדינים",
+            "hi": "सेंट विंसेंट एंड ग्रेनाडाइन्स",
+            "ja": "セントビンセント・グレナディーン",
+            "pt": "São Vicente e Granadinas"
         },
         "regions": [
             {
@@ -88408,7 +89281,11 @@
             "fr": "Venezuela",
             "it": "Venezuela",
             "ru": "Венесуэла",
-            "zh": "委內瑞拉"
+            "zh": "委內瑞拉",
+            "he": "ונצואלה",
+            "hi": "वेनेज़ुएला",
+            "ja": "ベネズエラ",
+            "pt": "Venezuela"
         },
         "regions": [
             {
@@ -88981,13 +89858,17 @@
         "names": {
             "geonames": "British Virgin Islands",
             "en": "British Virgin Islands",
-            "ar": "الجزر العذراء البريطانية",
+            "ar": "جزر العذراء البريطانية",
             "de": "Britische Jungferninseln",
             "es": "Islas Vírgenes Británicas",
             "fr": "Îles Vierges britanniques",
             "it": "Isole Vergini britanniche",
-            "ru": "Британские Виргинские острова",
-            "zh": "英屬維爾京群島"
+            "ru": "Британские Виргинские Острова",
+            "zh": "英屬維爾京群島",
+            "he": "איי הבתולה הבריטיים",
+            "hi": "ब्रिटिश वर्जिन द्वीपसमूह",
+            "ja": "イギリス領ヴァージン諸島",
+            "pt": "Ilhas Virgens Britânicas"
         },
         "regions": []
     },
@@ -89009,8 +89890,12 @@
             "es": "Islas Vírgenes de los Estados Unidos",
             "fr": "Îles Vierges des États-Unis",
             "it": "Isole Vergini americane",
-            "ru": "Виргинские Острова",
-            "zh": "美屬維爾京群島"
+            "ru": "Американские Виргинские Острова",
+            "zh": "美屬維爾京群島",
+            "he": "איי הבתולה של ארצות הברית",
+            "hi": "संयुक्त राज्य वर्जिन द्वीपसमूह",
+            "ja": "アメリカ領ヴァージン諸島",
+            "pt": "Ilhas Virgens Americanas"
         },
         "regions": [
             {
@@ -89085,7 +89970,11 @@
             "fr": "Viêt Nam",
             "it": "Vietnam",
             "ru": "Вьетнам",
-            "zh": "越南"
+            "zh": "越南",
+            "he": "וייטנאם",
+            "hi": "वियतनाम",
+            "ja": "ベトナム",
+            "pt": "Vietnã"
         },
         "regions": [
             {
@@ -90593,7 +91482,11 @@
             "fr": "Vanuatu",
             "it": "Vanuatu",
             "ru": "Вануату",
-            "zh": "瓦努阿图"
+            "zh": "瓦努阿图",
+            "he": "ונואטו",
+            "hi": "वानूआतू",
+            "ja": "バヌアツ",
+            "pt": "Vanuatu"
         },
         "regions": [
             {
@@ -90752,13 +91645,16 @@
         "names": {
             "geonames": "Wallis and Futuna",
             "en": "Wallis and Futuna",
-            "ar": "والس وفوتونا",
+            "ar": "واليس وفوتونا",
             "de": "Wallis und Futuna",
             "es": "Wallis y Futuna",
             "fr": "Wallis-et-Futuna",
             "it": "Wallis e Futuna",
             "ru": "Уоллис и Футуна",
-            "zh": "瓦利斯和富圖納群島"
+            "zh": "瓦利斯和富圖納",
+            "he": "ואליס ופוטונה",
+            "ja": "ウォリス・フツナ",
+            "pt": "Wallis e Futuna"
         },
         "regions": [
             {
@@ -90833,7 +91729,11 @@
             "fr": "Samoa",
             "it": "Samoa",
             "ru": "Самоа",
-            "zh": "萨摩亚"
+            "zh": "萨摩亚",
+            "he": "סמואה",
+            "hi": "समोआ",
+            "ja": "サモア",
+            "pt": "Samoa"
         },
         "regions": [
             {
@@ -91093,7 +91993,11 @@
             "fr": "Yémen",
             "it": "Yemen",
             "ru": "Йемен",
-            "zh": "也门"
+            "zh": "也门",
+            "he": "תימן",
+            "hi": "यमन",
+            "ja": "イエメン",
+            "pt": "Iémen"
         },
         "regions": [
             {
@@ -91631,7 +92535,11 @@
             "fr": "Mayotte",
             "it": "Mayotte",
             "ru": "Майотта",
-            "zh": "马约特"
+            "zh": "马约特",
+            "he": "מיוט",
+            "hi": "मायोत",
+            "ja": "マヨット",
+            "pt": "Mayotte"
         },
         "regions": [
             {
@@ -91944,7 +92852,11 @@
             "fr": "Afrique du Sud",
             "it": "Sudafrica",
             "ru": "Южно-Африканская Республика",
-            "zh": "南非"
+            "zh": "南非",
+            "he": "דרום אפריקה",
+            "hi": "दक्षिण अफ़्रीका",
+            "ja": "南アフリカ共和国",
+            "pt": "África do Sul"
         },
         "regions": [
             {
@@ -92177,7 +93089,11 @@
             "fr": "Zambie",
             "it": "Zambia",
             "ru": "Замбия",
-            "zh": "赞比亚"
+            "zh": "赞比亚",
+            "he": "זמביה",
+            "hi": "ज़ाम्बिया",
+            "ja": "ザンビア",
+            "pt": "Zâmbia"
         },
         "regions": [
             {
@@ -92399,7 +93315,11 @@
             "fr": "Zimbabwe",
             "it": "Zimbabwe",
             "ru": "Зимбабве",
-            "zh": "辛巴威"
+            "zh": "辛巴威",
+            "he": "זימבבואה",
+            "hi": "ज़िम्बाब्वे",
+            "ja": "ジンバブエ",
+            "pt": "Zimbabwe"
         },
         "regions": [
             {
