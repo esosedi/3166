@@ -45,14 +45,15 @@
   },
   "homepage": "https://github.com/esosedi/3166",
   "devDependencies": {
-    "proxyquire-webpack-alias": "^1.0.7",
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.2.3",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-stage-1": "^6.16.0",
-    "eslint": "^3.19.0",
     "chai": "^3.5.0",
+    "eslint": "^3.19.0",
     "eslint-plugin-mocha": "^4.9.0",
-    "mocha": "^3.3.0"
+    "mocha": "^3.3.0",
+    "node-fetch": "^2.6.0",
+    "proxyquire-webpack-alias": "^1.0.7"
   }
 }
