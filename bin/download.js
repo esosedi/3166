@@ -19,7 +19,7 @@ async function downloadWikipedia() {
             if(page && Array.isArray(page.langlinks)) {
                 for(let langEntry of page.langlinks) {
                     if(supportedLanguages.indexOf(langEntry.lang) >= 0)
-                        wiki[key].names[langEntry.lang] = langEntry['*']
+                        wiki[key].names[langEntry.lang] = langEntry['*'].replace(/\s*\(.*\)\s*$/, '')
                 }
             }
         }
