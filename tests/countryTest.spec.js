@@ -10,8 +10,10 @@ describe('Country test', () => {
 
     it('AU states', ()=> {
         expect(
-            database.AU.regions.map(({iso}) => iso).sort((a, b) => a < b)
-        ).to.be.deep.equal(['WA', 'VIC', 'TAS', 'SA', 'QLD', 'NT', 'NSW', 'ACT']);
+            database.AU.regions.map(({iso}) => iso).sort((a, b) => a.localeCompare(b))
+        ).to.be.deep.equal(
+          ['WA', 'VIC', 'TAS', 'SA', 'QLD', 'NT', 'NSW', 'ACT'].sort((a, b) => a.localeCompare(b))
+        );
     });
 
     it('AU', ()=> {

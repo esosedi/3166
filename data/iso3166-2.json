@@ -23857,7 +23857,7 @@
         "numeric": 250,
         "fips": "FR",
         "reference": {
-            "geonames": 3381670,
+            "geonames": 3017382,
             "openstreetmap": 2502058,
             "wikipedia": "en:France"
         },
@@ -25452,7 +25452,7 @@
         "numeric": 292,
         "fips": "GI",
         "reference": {
-            "geonames": 2411585,
+            "geonames": 2411586,
             "openstreetmap": 1278736,
             "wikipedia": "en:Gibraltar"
         },

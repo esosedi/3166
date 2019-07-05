@@ -1,13 +1,31 @@
-# iso3166, iso3166-1, iso3166-2  
-(ISO standard about N-letter codes of administrative divisions and subdivisions)
-In other words - Administrative Divisions of Countries (aka "Statoids" or "Country names").
+<div align="center">
+  <h1>iso 3166</h1>
+  <br/>
+   <h3>iso3166, iso3166-1, iso3166-2</h3>  
+   (ISO standard about N-letter codes of administrative divisions and subdivisions)
+   In other words - Administrative Divisions of Countries (aka "Statoids" or "Country names").
+  <br/>
+  
+  <a href="https://www.npmjs.com/package/iso3166-2-db">
+    <img src="https://img.shields.io/npm/v/iso3166-2-db.svg?style=flat-square" />
+  </a>
+    
+  <a href="https://travis-ci.org/esosedi/3166">
+   <img src="https://img.shields.io/travis/esosedi/3166.svg?style=flat-square" alt="Build status">
+  </a> 
+
+  <a href="https://www.npmjs.com/package/iso3166-2-db">
+   <img src="https://img.shields.io/npm/dm/iso3166-2-db.svg" alt="npm downloads">
+  </a> 
+
+  <a href="https://bundlephobia.com/result?p=iso3166-2-db">
+   <img src="https://img.shields.io/bundlephobia/minzip/iso3166-2-db.svg" alt="bundle size">
+  </a>   
+  <br/>
+</div>
 
 The country codes are mainly in the ISO 3166-1 `alpha 2` format (US, SE ...). 
 It also possible to use `alpha 3` codes (USA, SWE ...) or `alpha-numeric codes`. In most cases you need alpha-2.
-
-[![Build Status](https://secure.travis-ci.org/esosedi/3166.svg)](http://travis-ci.org/esosedi/3166)
-
-[![NPM](https://nodei.co/npm/iso3166-2-db.png?downloads=true&stars=true)](https://nodei.co/npm/iso3166-2-db/)
 
 >This world is small enough. 
 But not everyone knows all countries and all states.
@@ -22,6 +40,11 @@ import USregions from 'iso3166-2-db/regions/US/dispute/UN/en';
 ```
 [![Try it online ](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/LgBN3qy5j) 
 - try it online.
+
+### Supported languages
+en, ru, de, fr, es, zh, hi, pt, ja, ar, it, he
+
+> Any country, and language and any set could be loaded separate 
 
 # FYI
 * iso3166-1 is a country list
