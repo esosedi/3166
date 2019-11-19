@@ -25019,6 +25019,7 @@
             "es": "Guernsey",
             "fr": "Guernesey",
             "it": "Guernsey",
+            "ja": "ガーンジー",
             "ru": "Гернси",
             "zh": "根西岛"
         },
@@ -38634,19 +38635,20 @@
         "reference": {
             "geonames": 1873107,
             "openstreetmap": 192734,
-            "wikipedia": "en:Joseon"
+            "wikipedia": "en:North_Korea"
         },
         "names": {
             "geonames": "North Korea",
-            "en": "Joseon",
-            "ar": "جوسون",
-            "de": "Joseon-Dynastie",
-            "es": "Dinastía Joseon",
-            "fr": "Période Joseon",
-            "it": "Dinastia Joseon",
+            "en": "North Korea",
+            "ar": "كوريا الشمالية",
+            "de": "Nordkorea",
+            "es": "Corea del Norte",
+            "fr": "Corée du Nord",
+            "it": "Corea del Nord",
+            "ja": "北朝鮮",
             "kr": "조선민주주의인민공화국",
-            "ru": "Династия Чосон",
-            "zh": "李氏朝鲜"
+            "ru": "Северная Корея",
+            "zh": "北朝鮮"
         },
         "regions": [
             {
