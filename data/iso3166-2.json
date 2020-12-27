@@ -90753,14 +90753,14 @@
                     "geonames": "Ha Noi",
                     "en": "Ha Noi"
                 },
-                "iso": "64",
+                "iso": "HN",
                 "fips": "44",
                 "admin": "44",
                 "reference": {
                     "geonames": 1581129,
                     "openstreetmap": 1903516,
                     "openstreetmap_level": 4,
-                    "wikipedia": null,
+                    "wikipedia": "en:Hanoi",
                     "wof": "85680653"
                 }
             },
@@ -90770,14 +90770,14 @@
                     "geonames": "Can Tho",
                     "en": "Can Tho"
                 },
-                "iso": "48",
+                "iso": "CT",
                 "fips": "87",
                 "admin": "87",
                 "reference": {
                     "geonames": 1581188,
                     "openstreetmap": 1874283,
                     "openstreetmap_level": 4,
-                    "wikipedia": null,
+                    "wikipedia": "en:Cần_Thơ",
                     "wof": "85680799"
                 }
             },
@@ -90787,14 +90787,14 @@
                     "geonames": "Hai Phong",
                     "en": "Hai Phong"
                 },
-                "iso": "62",
+                "iso": "HP",
                 "fips": "13",
                 "admin": "13",
                 "reference": {
                     "geonames": 1581297,
                     "openstreetmap": 1902682,
                     "openstreetmap_level": 4,
-                    "wikipedia": null,
+                    "wikipedia": "en:Haiphong",
                     "wof": null
                 }
             },
@@ -91055,8 +91055,8 @@
                 "admin": "92",
                 "reference": {
                     "geonames": 1905099,
-                    "openstreetmap": null,
-                    "openstreetmap_level": null,
+                    "openstreetmap": 1903340,
+                    "openstreetmap_level": 4,
                     "wikipedia": "en:Điện_Biên_Province",
                     "wof": "85680739"
                 }
@@ -91115,14 +91115,14 @@
                     "geonames": "Da Nang",
                     "en": "Da Nang"
                 },
-                "iso": "60",
+                "iso": "DN",
                 "fips": "78",
                 "admin": "78",
                 "reference": {
                     "geonames": 1905468,
                     "openstreetmap": 1891418,
                     "openstreetmap_level": 4,
-                    "wikipedia": null,
+                    "wikipedia": "en:Da_Nang",
                     "wof": null
                 }
             },
@@ -91295,15 +91295,15 @@
                 }
             },
             {
-                "name": "Bc Kn Province",
+                "name": "Bắc Kạn Province",
                 "names": {
                     "geonames": "Bac Kan",
                     "ru": "Баккан",
-                    "en": "Bc Kn Province",
+                    "en": "Bac Kan Province",
                     "ar": "مقاطعة باك كان",
-                    "de": "Bc Kn",
-                    "es": "Bc Kn",
-                    "fr": "Province de Bc Kn",
+                    "de": "Bac Kan",
+                    "es": "Bac Kan",
+                    "fr": "Province de Bac Kan",
                     "it": "Provincia di Bac Kan",
                     "zh": "китайский"
                 },
