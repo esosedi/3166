@@ -62138,7 +62138,7 @@
                     "it": "Voivodato di Lublino",
                     "zh": "卢布林省"
                 },
-                "iso": "LU",
+                "iso": "06",
                 "fips": "75",
                 "admin": "75",
                 "reference": {
@@ -62162,7 +62162,7 @@
                     "it": "Voivodato della Piccola Polonia",
                     "zh": "小波兰省"
                 },
-                "iso": "MA",
+                "iso": "12",
                 "fips": "77",
                 "admin": "77",
                 "reference": {
@@ -62186,7 +62186,7 @@
                     "it": "Voivodato della Masovia",
                     "zh": "馬佐夫舍省"
                 },
-                "iso": "MZ",
+                "iso": "14",
                 "fips": "78",
                 "admin": "78",
                 "reference": {
@@ -62210,7 +62210,7 @@
                     "it": "Voivodato della Precarpazia",
                     "zh": "喀尔巴阡山省"
                 },
-                "iso": "PK",
+                "iso": "18",
                 "fips": "80",
                 "admin": "80",
                 "reference": {
@@ -62234,7 +62234,7 @@
                     "it": "Voivodato della Podlachia",
                     "zh": "波德拉謝省"
                 },
-                "iso": "PD",
+                "iso": "20",
                 "fips": "81",
                 "admin": "81",
                 "reference": {
@@ -62246,11 +62246,11 @@
                 }
             },
             {
-                "name": "Skierniewice Voivodeship",
+                "name": "Świętokrzyskie Voivodeship",
                 "names": {
                     "geonames": "Swietokrzyskie",
                     "ru": "Свентокшиское воеводство",
-                    "en": "Skierniewice Voivodeship",
+                    "en": "Świętokrzyskie Voivodeship",
                     "ar": "محافظة شفينتوكشيسكي",
                     "de": "Woiwodschaft Heiligkreuz",
                     "es": "Voivodato de Santa Cruz",
@@ -62258,7 +62258,7 @@
                     "it": "Voivodato della Santacroce",
                     "zh": "聖十字省"
                 },
-                "iso": "SK",
+                "iso": "26",
                 "fips": "84",
                 "admin": "84",
                 "reference": {
@@ -62282,7 +62282,7 @@
                     "it": "Voivodato della Varmia-Masuria",
                     "zh": "瓦爾米亞-馬祖里省"
                 },
-                "iso": "WN",
+                "iso": "28",
                 "fips": "85",
                 "admin": "85",
                 "reference": {
@@ -62306,7 +62306,7 @@
                     "it": "Voivodato della Bassa Slesia",
                     "zh": "下西里西亚省"
                 },
-                "iso": "DS",
+                "iso": "02",
                 "fips": "72",
                 "admin": "72",
                 "reference": {
@@ -62329,7 +62329,7 @@
                     "it": "Voivodato di Łódź",
                     "zh": "罗兹省"
                 },
-                "iso": "LD",
+                "iso": "10",
                 "fips": "74",
                 "admin": "74",
                 "reference": {
@@ -62352,7 +62352,7 @@
                     "it": "Voivodato di Lubusz",
                     "zh": "盧布斯卡省"
                 },
-                "iso": "LB",
+                "iso": "08",
                 "fips": "76",
                 "admin": "76",
                 "reference": {
@@ -62375,7 +62375,7 @@
                     "it": "Voivodato di Opole",
                     "zh": "奧波萊省"
                 },
-                "iso": "OP",
+                "iso": "16",
                 "fips": "79",
                 "admin": "79",
                 "reference": {
@@ -62399,7 +62399,7 @@
                     "it": "Voivodato della Pomerania",
                     "zh": "濱海省"
                 },
-                "iso": "PM",
+                "iso": "22",
                 "fips": "82",
                 "admin": "82",
                 "reference": {
@@ -62411,25 +62411,25 @@
                 }
             },
             {
-                "name": "Słupsk Voivodeship",
+                "name": "Silesian Voivodeship",
                 "names": {
                     "geonames": "Silesia",
                     "ru": "Силезское воеводство",
-                    "en": "Słupsk Voivodeship",
+                    "en": "Silesian Voivodeship",
                     "de": "Woiwodschaft Schlesien",
                     "es": "Voivodato de Silesia",
                     "fr": "Voïvodie de Silésie",
                     "it": "Voivodato della Slesia",
                     "zh": "西里西亚省"
                 },
-                "iso": "SL",
+                "iso": "24",
                 "fips": "83",
                 "admin": "83",
                 "reference": {
                     "geonames": 3337497,
                     "openstreetmap": 224462,
                     "openstreetmap_level": 4,
-                    "wikipedia": "en:Słupsk_Voivodeship",
+                    "wikipedia": "en:Silesian_Voivodeship",
                     "wof": "85687277"
                 }
             },
@@ -62446,7 +62446,7 @@
                     "it": "Voivodato della Grande Polonia",
                     "zh": "大波兰省"
                 },
-                "iso": "WP",
+                "iso": "30",
                 "fips": "86",
                 "admin": "86",
                 "reference": {
@@ -62469,7 +62469,7 @@
                     "it": "Voivodato della Pomerania Occidentale",
                     "zh": "西波美拉尼亚省"
                 },
-                "iso": "ZP",
+                "iso": "32",
                 "fips": "87",
                 "admin": "87",
                 "reference": {
@@ -62492,7 +62492,7 @@
                     "it": "Voivodato della Cuiavia-Pomerania",
                     "zh": "庫亞維-波美拉尼亞省"
                 },
-                "iso": "KP",
+                "iso": "04",
                 "fips": "73",
                 "admin": "73",
                 "reference": {
