@@ -23890,7 +23890,7 @@
                     "it": "Provenza-Alpi-Costa Azzurra",
                     "zh": "普罗旺斯-阿尔卑斯-蓝色海岸"
                 },
-                "iso": "U",
+                "iso": "PAC",
                 "fips": "B8",
                 "admin": "93",
                 "reference": {
@@ -23914,7 +23914,7 @@
                     "it": "Paesi della Loira",
                     "zh": "卢瓦尔河地区"
                 },
-                "iso": "R",
+                "iso": "PDL",
                 "fips": "B5",
                 "admin": "52",
                 "reference": {
@@ -23938,7 +23938,7 @@
                     "it": "Île-de-France",
                     "zh": "法兰西岛"
                 },
-                "iso": "J",
+                "iso": "IDF",
                 "fips": "A8",
                 "admin": "11",
                 "reference": {
@@ -23962,7 +23962,7 @@
                     "it": "Corsica",
                     "zh": "科西嘉岛"
                 },
-                "iso": "H",
+                "iso": "COR",
                 "fips": "A5",
                 "admin": "94",
                 "reference": {
@@ -23986,7 +23986,7 @@
                     "it": "Centro",
                     "zh": "中央"
                 },
-                "iso": "F",
+                "iso": "CVL",
                 "fips": "A3",
                 "admin": "24",
                 "reference": {
@@ -24009,7 +24009,7 @@
                     "it": "Bretagna",
                     "zh": "китайский"
                 },
-                "iso": "E",
+                "iso": "BRE",
                 "fips": "A2",
                 "admin": "53",
                 "reference": {
