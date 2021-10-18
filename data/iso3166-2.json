@@ -1750,7 +1750,7 @@
                     "geonames": "Berat",
                     "en": "Berat"
                 },
-                "iso": "BR",
+                "iso": "01",
                 "fips": "40",
                 "admin": "40",
                 "reference": {
@@ -1767,7 +1767,7 @@
                     "geonames": "Diber",
                     "en": "Diber"
                 },
-                "iso": "DI",
+                "iso": "09",
                 "fips": "41",
                 "admin": "41",
                 "reference": {
@@ -1784,7 +1784,7 @@
                     "geonames": "Elbasan",
                     "en": "Elbasan"
                 },
-                "iso": "EL",
+                "iso": "03",
                 "fips": "43",
                 "admin": "43",
                 "reference": {
@@ -1801,7 +1801,7 @@
                     "geonames": "Gjirokaster",
                     "en": "Gjirokaster"
                 },
-                "iso": "GJ",
+                "iso": "05",
                 "fips": "45",
                 "admin": "45",
                 "reference": {
@@ -1910,7 +1910,7 @@
                     "geonames": "Lezhe",
                     "en": "Lezhe"
                 },
-                "iso": "LE",
+                "iso": "08",
                 "fips": "48",
                 "admin": "48",
                 "reference": {
@@ -1973,7 +1973,7 @@
                     "geonames": "Vlore",
                     "en": "Vlore"
                 },
-                "iso": "VL",
+                "iso": "12",
                 "fips": "51",
                 "admin": "51",
                 "reference": {
