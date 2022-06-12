@@ -112,7 +112,7 @@ You have 2 ways to use this library:
      import data from 'iso3166-2-db/i18n/{lang}_ref'
   ```
  
- ### example
+ ### Example
  ```javascript
   // just import what you want - /countryList/{lang}
   import countryList from 'iso3166-2-db/countryList/en';
@@ -169,18 +169,18 @@ You have 2 ways to use this library:
  
  
  
-### creating country selector with React
- See [example](//esosedi/3166/examples/react.countrySelector.js)
+### Creating country selector with React
+ See [example](examples/react.countrySelector.js)
  
 # Functional API
 
 * How to get list of all countries: call `getDataSet` and traverse look for .name in every object inside
 * How to get states of country: call getRegionsFor(countryIsoCode) and do the same.
  
-Just look at source json file(data/iso3166-2.json), and you will understand.
+Just look at [source json file](data/iso3166-2.json), and you will understand.
  
 So we have some simple things:
- 1. data/iso3166-2.json – main datafile. It containtains all counties and all regions. 
+ 1. [data/iso3166-2.json](data/iso3166-2.json) – main datafile. It containtains all counties and all regions. 
  Just keep in mind - this is not a stupid list of names. We provide all information for any entity:
  
     * iso3166-1(alpha2, alpha3, numeric, FIPS) for a country    
@@ -189,7 +189,7 @@ So we have some simple things:
     * names in main languages
     
     Best option is to use this file directly.
- 2. src/disputedBorders.js – set of pure functions to transform main data file for "your" country. As long all countries have their own mind.
+ 2. [src/disputedBorders.js](src/disputedBorders.js) – set of pure functions to transform main data file for "your" country. As long all countries have their own mind.
     Only UN001(US), RU, UA, TR schemes supported.
     
     **Remember – main data file is `wrong` by default. You HAVE to apply some filter to data.**
@@ -198,7 +198,7 @@ So we have some simple things:
     **Remember – to add one region to one place, you have to remove it from other place**
      Ie, to `add` Crimea into Russian states you have to have US states.
      
- 3. src/iso3166.js – library logic (main entry point)
+ 3. [src/iso3166.js](src/iso3166.js) – library logic (main entry point)
  
     We have a simply command for it(2.) getDataSet(dispute='en') for it.
     
@@ -213,10 +213,10 @@ So we have some simple things:
      
     But, you really might wish to use different names from different sources. And we have a tools for it!
     
-    * data/names_geonames.json – all region names from geonames.org
-    * data/names_osm.json – same from openstreetmap.org
+    * [data/names_geonames.json](data/names_geonames.json) – all region names from geonames.org
+    * [data/names_osm.json](data/names_osm.json) – same from openstreetmap.org
     
-    Just call `changeNameProvider('geonames|osm|wikipedia')` _(yap, buy default we use wikipedia article names)_
+    Just call `changeNameProvider('geonames|osm|wikipedia')` _(yup, by default we use wikipedia article names)_
     
     Working only for `backend way`.
     
