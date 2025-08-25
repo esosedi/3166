@@ -31641,7 +31641,7 @@
                     "geonames": "Telangana",
                     "en": "Telangana"
                 },
-                "iso": "TG",
+                "iso": "TS",
                 "fips": "40",
                 "admin": "40",
                 "reference": {
@@ -31785,7 +31785,7 @@
                     "it": "Orissa",
                     "zh": "奥里萨邦"
                 },
-                "iso": "OR",
+                "iso": "OD",
                 "fips": "21",
                 "admin": "21",
                 "reference": {
@@ -32037,6 +32037,30 @@
                 }
             },
             {
+                "name": "Ladakh",
+                "names": {
+                    "geonames": "Ladakh",
+                    "ru": "Ладакх",
+                    "en": "Ladakh",
+                    "ar": "لداخ",
+                    "de": "Ladakh",
+                    "es": "Ladakh",
+                    "fr": "Ladakh",
+                    "it": "Ladakh",
+                    "zh": "拉達克"
+                },
+                "iso": "LA",
+                "fips": "41",
+                "admin": "41",
+                "reference": {
+                    "geonames": 1269320,
+                    "openstreetmap": null,
+                    "openstreetmap_level": null,
+                    "wikipedia": "en:Ladakh",
+                    "wof": null
+                }
+            },
+            {
                 "name": "Himachal Pradesh",
                 "names": {
                     "geonames": "Himachal Pradesh",
@@ -32109,30 +32133,6 @@
                 }
             },
             {
-                "name": "Daman and Diu",
-                "names": {
-                    "geonames": "Daman and Diu",
-                    "ru": "Даман и Диу",
-                    "en": "Daman and Diu",
-                    "ar": "دمن وديو",
-                    "de": "Daman und Diu",
-                    "es": "Damán y Diu",
-                    "fr": "Daman et Diu",
-                    "it": "Daman e Diu",
-                    "zh": "达曼-第乌"
-                },
-                "iso": "DD",
-                "fips": "32",
-                "admin": "32",
-                "reference": {
-                    "geonames": 1271155,
-                    "openstreetmap": 1953041,
-                    "openstreetmap_level": 4,
-                    "wikipedia": "en:Daman_and_Diu",
-                    "wof": "85672271"
-                }
-            },
-            {
                 "name": "Goa",
                 "names": {
                     "geonames": "Goa",
@@ -32181,18 +32181,18 @@
                 }
             },
             {
-                "name": "Dadra and Nagar Haveli",
+                "name": "Dadra and Nagar Haveli and Daman and Diu",
                 "names": {
                     "geonames": "Dadra and Nagar Haveli",
                     "ru": "Дадра и Нагар-Хавели",
-                    "en": "Dadra and Nagar Haveli",
+                    "en": "Dadra and Nagar Haveli and Daman and Diu",
                     "de": "Dadra und Nagar Haveli",
                     "es": "Dadra y Nagar Haveli",
                     "fr": "Dadra et Nagar Haveli",
                     "it": "Dadra e Nagar Haveli",
                     "zh": "达德拉-纳加尔哈维利"
                 },
-                "iso": "DN",
+                "iso": "DH",
                 "fips": "06",
                 "admin": "06",
                 "reference": {
@@ -32360,7 +32360,7 @@
                     "it": "Chhattisgarh",
                     "zh": "恰蒂斯加尔邦"
                 },
-                "iso": "CT",
+                "iso": "CG",
                 "fips": "37",
                 "admin": "37",
                 "reference": {
@@ -32401,7 +32401,7 @@
                     "geonames": "Uttarakhand",
                     "en": "Uttarakhand"
                 },
-                "iso": "UL",
+                "iso": "UK",
                 "fips": "39",
                 "admin": "39",
                 "reference": {
